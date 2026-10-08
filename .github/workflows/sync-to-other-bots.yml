@@ -1,62 +1,47 @@
-name: Sync cirak_kosu.py to other bots
+name: Sync to other bots
 
 on:
   push:
-    branches:
-      - main
     paths:
       - 'cirak/actions/cirak_kosu.py'
+      - 'cirak/actions/bot_cekirdek.py'
   workflow_dispatch:
 
 jobs:
-  sync-c-rak-bot:
+  sync:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout cirak-bot
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
 
       - name: Clone C-rak-bot
         run: |
-          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/karahn/C-rak-bot.git
+          git clone https://github.com/karahn/C-rak-bot.git
           cd C-rak-bot
-          git checkout arena/71f59bcb-c-rak-bot || git checkout -b arena/71f59bcb-c-rak-bot
-
-      - name: Copy cirak_kosu.py
-        run: |
-          cp cirak/actions/cirak_kosu.py C-rak-bot/cirak/actions/cirak_kosu.py
-
-      - name: Commit and push to C-rak-bot
-        run: |
-          cd C-rak-bot
-          git config user.name "sync-bot"
-          git config user.email "sync@bot.com"
-          git add cirak/actions/cirak_kosu.py
-          git diff --staged --quiet || git commit -m "🔄 Sync: cirak_kosu.py güncellendi (from cirak-bot)"
-          git push origin arena/71f59bcb-c-rak-bot || echo "Push failed (no changes or conflict)"
-
-  sync-arastirmaci42:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout cirak-bot
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
+          git checkout arena/71f59bcb-c-rak-bot
 
       - name: Clone arastirmaci42-bot
         run: |
-          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/karahn/arastirmaci42-bot.git
+          git clone https://github.com/karahn/arastirmaci42-bot.git
 
-      - name: Copy cirak_kosu.py
+      - name: Sync to C-rak-bot
         run: |
-          cp cirak/actions/cirak_kosu.py arastirmaci42-bot/cirak/actions/cirak_kosu.py
+          cp cirak/actions/cirak_kosu.py C-rak-bot/cirak/actions/
+          cp cirak/actions/bot_cekirdek.py C-rak-bot/cirak/actions/
+          cd C-rak-bot
+          git config user.name "sync-bot"
+          git config user.email "bot@sync.local"
+          git add cirak/actions/
+          git commit -m "🔄 Sync from cirak-bot" || exit 0
+          git push origin arena/71f59bcb-c-rak-bot
 
-      - name: Commit and push to arastirmaci42-bot
+      - name: Sync to arastirmaci42-bot
         run: |
+          cp cirak/actions/cirak_kosu.py arastirmaci42-bot/cirak/actions/
+          cp cirak/actions/bot_cekirdek.py arastirmaci42-bot/cirak/actions/
           cd arastirmaci42-bot
           git config user.name "sync-bot"
-          git config user.email "sync@bot.com"
-          git add cirak/actions/cirak_kosu.py
-          git diff --staged --quiet || git commit -m "🔄 Sync: cirak_kosu.py güncellendi (from cirak-bot)"
-          git push origin main || echo "Push failed (no changes or conflict)"
+          git config user.email "bot@sync.local"
+          git add cirak/actions/
+          git commit -m "🔄 Sync from cirak-bot" || exit 0
+          git push origin main
