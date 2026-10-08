@@ -1,39 +1,17 @@
 {
-  "hesap_adi": "Karahan",
-  "gorevler": [
-    "cerez-kontrol",
-    "havale-kontrol",
-    "isletmeler",
-    "dukkan-yonet",
-    "dukkan-ac",
-    "reklam-ve-fiyat",
-    "bot"
-  ],
-  "sure_dk": 50,
-  "bekle_sn": 15,
-  "tezgah_oncelik": [
-    "kokorec",
-    "pazar",
-    "gozleme",
-    "kestane"
-  ],
-  "dukkan_strateji": {
-    "hedefler": [
-      "teknik_servis",
-      "oto_yedek_parca",
-      "emlakci",
-      "elektronik"
-    ],
-    "maks_seviye": 10,
-    "minimum_nakit": 200000
-  },
-  "koordinasyon": {
-    "rol": "destek_verici",
-    "destek_verilecekler": [
-      "Kalfa19"
-    ],
-    "transfer_limit": 500000,
-    "mesaj_sablonu": "Kalfa19'a {miktar}₺ havale gönderdim. Dükkân açabilirsin!"
-  },
-  "notlar": "En yüksek seviye (SV10). Yüksek kârlı dükkanlar aç. Kalfa19'a destek ver."
+ "gorevler": [
+  "cerez-kontrol",
+  "banka",
+  "havale",
+  "mesaj-oku",
+  "oda",
+  "seviye-bildir",
+  "dukkan-ac",
+  "bot"
+ ],
+ "sure_dk": 50,
+ "zincir": true,
+ "zincir_butce_dk": 0,
+ "not": "VARSAYILAN (zincir) mod: mesaj oku/cevap + oda + dükkân denemesi + 50 dk grind; bitince kendini yeniden tetikler.",
+ "kosu": 1
 }
