@@ -1,0 +1,36 @@
+{
+  "gorevler": [
+    "cerez-kontrol",
+    "banka",
+    "havale",
+    "arkadas-istek",
+    "mesaj-oku",
+    "mesaj",
+    "oda",
+    "seviye-bildir",
+    "dukkan-ac",
+    "bot"
+  ],
+  "arkadas_id": 0,
+  "arkadas_ad": "",
+  "kisi": "Karahan",
+  "oto_cevap": true,
+  "mesajlar": [],
+  "ilce": 2034,
+  "hedefler": [
+    "kargo",
+    "oto_yikama",
+    "oto_servis",
+    "emlakci"
+  ],
+  "adet": 2,
+  "rezerv": 20000,
+  "ad_kalibi": "Karahan {tur}",
+  "otopark_yasak": true,
+  "sure_dk": 50,
+  "zincir": true,
+  "zincir_butce_dk": 0,
+  "zincir_bekle_sn": 10,
+  "not": "7/24 SINIRSIZ MOD (public): Karahan kisisel hesap. 50 dk grind + kosu bitince kendini yeniden tetikleme.",
+  "kosu": 1
+}

@@ -1,0 +1,1 @@
+0 tur=0 kazanc=0 servis=0
