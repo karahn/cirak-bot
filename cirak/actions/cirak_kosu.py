@@ -828,9 +828,9 @@ def gorev_dukkan_yonet(op, komut):
         # Detaylı bilgi çek (otoTedarik, kapasite, doluluk)
         detay = cek(op, "isletme/%s" % id_)
         if not isinstance(detay, dict) or "hata" in detay:
-            continue
+            # Detay çekilemezse bile oto tedarik + doldur dene
+            detay = {}
         hizmet = detay.get("hizmet") or detay.get("kategori") == "Hizmet"
-        oto = detay.get("otoTedarik", False)
         kap = detay.get("kapasite") or 0
         dol = detay.get("doluluk") or 0
         # 1) Kasa topla
@@ -841,20 +841,26 @@ def gorev_dukkan_yonet(op, komut):
                 sonuc["kasa_toplanan"] += 1
                 det["kasa"] = kasa
             time.sleep(0.4)
-        # 2) Oto tedarik kapalıysa aç
-        if not oto and not hizmet:
-            r = cek(op, "isletme/%s/oto" % id_, {"acik": True})
-            if isinstance(r, dict) and "hata" not in r:
+        # Hizmet sektörü rafları yok, atla
+        if hizmet:
+            if det.get("kasa"):
+                sonuc["detay"].append(det)
+            continue
+        # 2) Oto tedarik — HER ZAMAN aç (kapatılmış olabilir)
+        r = cek(op, "isletme/%s/oto" % id_, {"acik": True})
+        if isinstance(r, dict) and "hata" not in r:
+            if not detay.get("otoTedarik"):
                 sonuc["oto_acilan"] += 1
-                det["oto"] = "acildi"
-            time.sleep(0.3)
-        # 3) Raf düşükse doldur (stoklu dükkânlar, doluluk < kapasite)
-        if not hizmet and kap > 0 and dol < kap:
-            r = cek(op, "isletme/%s/oto" % id_, {"doldur": True})
-            if isinstance(r, dict) and "hata" not in r:
-                sonuc["raf_doldurulan"] += 1
-                det["raf"] = "%d/%d" % (dol, kap)
-            time.sleep(0.3)
+            det["oto"] = "acik"
+        time.sleep(0.2)
+        # 3) Raf — HER ZAMAN doldur (boşalmış olabilir, kapasite sorgusuna güvenme)
+        r = cek(op, "isletme/%s/oto" % id_, {"doldur": True})
+        if isinstance(r, dict) and "hata" not in r:
+            sonuc["raf_doldurulan"] += 1
+            det["raf"] = "dolduruldu"
+            if kap > 0:
+                det["raf"] = "%d/%d→full" % (dol, kap)
+        time.sleep(0.2)
         if det.get("kasa") or det.get("raf") or det.get("oto"):
             sonuc["detay"].append(det)
     return sonuc
