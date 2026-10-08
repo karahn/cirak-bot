@@ -967,6 +967,72 @@ def gorev_esnaf_topla(op, komut):
     return sonuc
 
 
+
+
+# ---------------------------------------------------------------- reklam ve fiyat
+def gorev_reklam_ve_fiyat(op, komut):
+    """Tüm dükkânlara reklam verir ve fiyatları optimize eder (kırmızıya yakın ama altında)."""
+    isl = cek(op, "isletmelerim") or []
+    liste = isl if isinstance(isl, list) else (isl.get("isletmeler") or [])
+    sonuc = {"toplam": len(liste), "reklam_verilen": 0, "fiyat_ayarlanan": 0, 
+             "detay": [], "hatalar": []}
+    
+    for d in liste:
+        if not isinstance(d, dict):
+            continue
+        id_ = d.get("id")
+        ad = d.get("ad", "?")
+        durum = d.get("durum", "")
+        if durum != "acik":
+            continue
+        
+        det = {"ad": ad, "id": id_}
+        
+        # 1) Reklam ver (eğer henüz verilmemişse)
+        detay = cek(op, "isletme/%s" % id_)
+        if isinstance(detay, dict) and "hata" not in detay:
+            reklam_aktif = detay.get("reklamAktif") or detay.get("reklam")
+            if not reklam_aktif:
+                r_reklam = cek(op, "isletme/%s/reklam" % id_, {"aktif": True})
+                if isinstance(r_reklam, dict) and "hata" not in r_reklam:
+                    sonuc["reklam_verilen"] += 1
+                    det["reklam"] = "verildi"
+                else:
+                    sonuc["hatalar"].append({"id": id_, "ad": ad, "reklam_hata": r_reklam})
+                time.sleep(0.3)
+        
+        # 2) Fiyat ayarla (kırmızıdan bir önceki = ortalama üstü)
+        fiyatlar = detay.get("fiyatlar") or detay.get("urunFiyatlari") or []
+        if isinstance(fiyatlar, list) and fiyatlar:
+            fiyat_guncelleme = []
+            for urun in fiyatlar:
+                if not isinstance(urun, dict):
+                    continue
+                urun_id = urun.get("id") or urun.get("urunId")
+                min_fiyat = urun.get("min") or urun.get("minFiyat") or 0
+                max_fiyat = urun.get("max") or urun.get("maxFiyat") or 0
+                onerilen = urun.get("onerilen") or urun.get("onerilenFiyat") or 0
+                
+                # Kırmızı bölge: onerilen ile max arası
+                # "Kırmızıdan bir önceki" = onerilen + (max - onerilen) * 0.75
+                if min_fiyat > 0 and max_fiyat > 0:
+                    yeni_fiyat = int(onerilen + (max_fiyat - onerilen) * 0.75)
+                    fiyat_guncelleme.append({"urunId": urun_id, "fiyat": yeni_fiyat})
+            
+            if fiyat_guncelleme:
+                r_fiyat = cek(op, "isletme/%s/fiyat" % id_, {"fiyatlar": fiyat_guncelleme})
+                if isinstance(r_fiyat, dict) and "hata" not in r_fiyat:
+                    sonuc["fiyat_ayarlanan"] += 1
+                    det["fiyat"] = "%d ürün" % len(fiyat_guncelleme)
+                else:
+                    sonuc["hatalar"].append({"id": id_, "ad": ad, "fiyat_hata": r_fiyat})
+                time.sleep(0.3)
+        
+        if det.get("reklam") or det.get("fiyat"):
+            sonuc["detay"].append(det)
+    
+    return sonuc
+
 GOREVLER = {"test": gorev_test, "durum": gorev_durum, "ham": gorev_ham, "yenilikler": gorev_yenilikler,
             "cerez-kontrol": gorev_cerez_kontrol, "kaynak": gorev_kaynak,
             "captcha-ornek": gorev_captcha_ornek, "bot": gorev_bot, "kesif": gorev_kesif,
@@ -977,7 +1043,7 @@ GOREVLER = {"test": gorev_test, "durum": gorev_durum, "ham": gorev_ham, "yenilik
             "secim": gorev_secim, "kaynak-indir": gorev_kaynak_indir,
             "isletmeler": gorev_isletmeler,
             "dukkan-yonet": gorev_dukkan_yonet, "gunluk-gorev": gorev_gunluk_gorev,
-            "mini-oyun": gorev_mini_oyun, "esnaf-topla": gorev_esnaf_topla}
+            "mini-oyun": gorev_mini_oyun, "esnaf-topla": gorev_esnaf_topla, "reklam-ve-fiyat": gorev_reklam_ve_fiyat}
 
 
 # ---------------------------------------------------------------- özet yaz
