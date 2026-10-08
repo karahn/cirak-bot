@@ -814,7 +814,7 @@ def gorev_dukkan_yonet(op, komut):
     isl = cek(op, "isletmelerim") or []
     liste = isl if isinstance(isl, list) else (isl.get("isletmeler") or [])
     sonuc = {"toplam": len(liste), "kasa_toplanan": 0, "kasa_tl": 0.0,
-             "raf_doldurulan": 0, "oto_acilan": 0, "detay": [], "hatalar": []}
+             "raf_doldurulan": 0, "oto_acilan": 0, "detay": [], "hatalar": [], "debug": []}
     for d in liste:
         if not isinstance(d, dict):
             continue
@@ -847,19 +847,23 @@ def gorev_dukkan_yonet(op, komut):
                 sonuc["detay"].append(det)
             continue
         # 2) Oto tedarik — HER ZAMAN aç (kapatılmış olabilir)
-        r = cek(op, "isletme/%s/oto" % id_, {"acik": True})
-        if isinstance(r, dict) and "hata" not in r:
+        r_oto = cek(op, "isletme/%s/oto" % id_, {"acik": True})
+        if isinstance(r_oto, dict) and "hata" not in r_oto:
             if not detay.get("otoTedarik"):
                 sonuc["oto_acilan"] += 1
             det["oto"] = "acik"
+        else:
+            sonuc["debug"].append({"id": id_, "ad": ad, "oto_hata": r_oto})
         time.sleep(0.2)
         # 3) Raf — HER ZAMAN doldur (boşalmış olabilir, kapasite sorgusuna güvenme)
-        r = cek(op, "isletme/%s/oto" % id_, {"doldur": True})
-        if isinstance(r, dict) and "hata" not in r:
+        r_raf = cek(op, "isletme/%s/oto" % id_, {"doldur": True})
+        if isinstance(r_raf, dict) and "hata" not in r_raf:
             sonuc["raf_doldurulan"] += 1
             det["raf"] = "dolduruldu"
             if kap > 0:
                 det["raf"] = "%d/%d→full" % (dol, kap)
+        else:
+            sonuc["hatalar"].append({"id": id_, "ad": ad, "raf_hata": r_raf})
         time.sleep(0.2)
         if det.get("kasa") or det.get("raf") or det.get("oto"):
             sonuc["detay"].append(det)
