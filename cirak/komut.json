@@ -6,19 +6,32 @@
     "isletmeler",
     "dukkan-yonet",
     "dukkan-ac",
+    "reklam-ve-fiyat",
     "bot"
   ],
   "sure_dk": 50,
   "bekle_sn": 15,
-  "tezgah_oncelik": ["kokorec", "pazar", "gozleme", "kestane"],
+  "tezgah_oncelik": [
+    "kokorec",
+    "pazar",
+    "gozleme",
+    "kestane"
+  ],
   "dukkan_strateji": {
-    "hedefler": ["teknik_servis", "oto_yedek_parca", "emlakci", "elektronik"],
+    "hedefler": [
+      "teknik_servis",
+      "oto_yedek_parca",
+      "emlakci",
+      "elektronik"
+    ],
     "maks_seviye": 10,
     "minimum_nakit": 200000
   },
   "koordinasyon": {
     "rol": "destek_verici",
-    "destek_verilecekler": ["Kalfa19"],
+    "destek_verilecekler": [
+      "Kalfa19"
+    ],
     "transfer_limit": 500000,
     "mesaj_sablonu": "Kalfa19'a {miktar}₺ havale gönderdim. Dükkân açabilirsin!"
   },
