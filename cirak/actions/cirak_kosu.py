@@ -546,7 +546,7 @@ def zincir(bekle_sn: int = 0, butce_dk: float = 0):
     except Exception as e:
         return {"hata": repr(e)[:200]}
     istek = urllib.request.Request(
-        "https://api.github.com/repos/karahn/C-rak-bot/dispatches",
+        "https://api.github.com/repos/karahn/cirak-bot/dispatches",
         data=json.dumps({"event_type": "zincir", "client_payload": {"kaynak": "bot"}}).encode(), method="POST",
         headers={"Authorization": "Bearer " + tok, "Accept": "application/vnd.github+json",
                  "Content-Type": "application/json", "User-Agent": "cirak-bot"})
