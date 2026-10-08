@@ -9,7 +9,11 @@
     "oda",
     "seviye-bildir",
     "dukkan-ac",
-    "bot"
+    "bot",
+    "dukkan-yonet",
+    "gunluk-gorev",
+    "mini-oyun",
+    "esnaf-topla"
   ],
   "arkadas_id": 0,
   "arkadas_ad": "",
@@ -31,6 +35,7 @@
   "zincir": true,
   "zincir_butce_dk": 0,
   "zincir_bekle_sn": 10,
-  "not": "7/24 SINIRSIZ MOD (public): Karahan kisisel hesap. 50 dk grind + kosu bitince kendini yeniden tetikleme.",
-  "kosu": 1
+  "not": "7/24 ZINCIR + dükkân yönetim + günlük görev + mini oyun + esnaf topla",
+  "kosu": 2,
+  "mini_oyun_adet": 2
 }
