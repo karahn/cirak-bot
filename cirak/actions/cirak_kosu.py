@@ -620,16 +620,38 @@ def gorev_seviye_bildir(op, komut):
 
 
 def gorev_dukkan_ac(op, komut):
-    """Boş parsel bulur, tür/fiyat listesini çeker ve uygun ilk dükkânı kiralar."""
+    """Boş parsel bulur, tür/fiyat listesini çeker ve uygun ilk dükkânı kiralar.
+    
+    KURAL: Aynı türden 2 dükkân AÇMA! (mevcut türleri kontrol et)
+    """
     ilce = int(komut.get("ilce") or 2034)
     hedefler = komut.get("hedefler") or ["kargo", "oto_yikama"]
     adet = int(komut.get("adet") or 1)
     rezerv = float(komut.get("rezerv") or 10000)
-    sonuc = {"ilce": ilce, "acilanlar": [], "secenekler": [], "denemeler": []}
+    sonuc = {"ilce": ilce, "acilanlar": [], "secenekler": [], "denemeler": [], "mevcut_turler": [], "atlanan": []}
+
+    # MEVCUT DÜKKAN TÜRLERİNİ ÇEK (KURAL: Aynı türden 2 tane açma!)
+    isl = cek(op, "isletmelerim") or []
+    isl_list = isl if isinstance(isl, list) else (isl.get("isletmeler") or [])
+    mevcut_turler = set()
+    for d in isl_list:
+        if isinstance(d, dict):
+            tur = d.get("tur") or d.get("turKod")
+            if tur:
+                mevcut_turler.add(tur)
+    sonuc["mevcut_turler"] = sorted(mevcut_turler)
+    
+    # Hedeflerden zaten sahip olunanları çıkar
+    orijinal_hedefler = list(hedefler)
+    hedefler = [h for h in hedefler if h not in mevcut_turler]
+    sonuc["atlanan"] = [h for h in orijinal_hedefler if h in mevcut_turler]
 
     d = cek(op, "durum") or {}
-    bakiye = ((d.get("oyuncu") or {}).get("bakiye") or 0) / 100
+    oyuncu = d.get("oyuncu") or {}
+    bakiye = (oyuncu.get("bakiye") or 0) / 100
+    oyuncu_seviye = oyuncu.get("seviye") or 0
     sonuc["bakiye"] = bakiye
+    sonuc["oyuncu_seviye"] = oyuncu_seviye
     cadde = cek(op, "cadde?ilce=%d" % ilce) or {}
     bos = [y for y in (cadde.get("yerler") or []) if not y.get("isletme")]
     sonuc["bos_parsel"] = len(bos)
@@ -649,11 +671,17 @@ def gorev_dukkan_ac(op, komut):
                 continue
             kira = t.get("kira") or kb.get("kira") or 0
             toplam = (kira * 2 + (t.get("kurulum") or 0) + ruhsat) / 100
-            kayit = {"no": y.get("no"), "tur": kod, "ad": t.get("ad"), "seviye": t.get("seviye"),
+            gereken_seviye = t.get("seviye") or 0
+            kayit = {"no": y.get("no"), "tur": kod, "ad": t.get("ad"), "seviye": gereken_seviye,
                      "kilitli": t.get("kilitli"), "toplam": toplam, "kurulum": (t.get("kurulum") or 0) / 100,
                      "kira": kira / 100}
             sonuc["secenekler"].append(kayit)
             if t.get("kilitli"):
+                kayit["neden_alinmadi"] = "kilitli"
+                continue
+            # SEVİYE KONTROLÜ
+            if gereken_seviye > oyuncu_seviye:
+                kayit["neden_alinmadi"] = "seviye_yetmiyor (SV%d gerekiyor, SV%d var)" % (gereken_seviye, oyuncu_seviye)
                 continue
             if bakiye - toplam < rezerv:
                 kayit["neden_alinmadi"] = "para_yetmiyor"
