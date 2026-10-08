@@ -8,11 +8,9 @@
     "dukkan-ac",
     "bot"
   ],
-  "bot_ayar": {
-    "sure_dk": 50,
-    "bekle_sn": 15,
-    "tezgah_oncelik": ["kokorec", "pazar", "gozleme", "kestane"]
-  },
+  "sure_dk": 50,
+  "bekle_sn": 15,
+  "tezgah_oncelik": ["kokorec", "pazar", "gozleme", "kestane"],
   "dukkan_strateji": {
     "hedefler": ["teknik_servis", "oto_yedek_parca", "emlakci", "elektronik"],
     "maks_seviye": 10,
