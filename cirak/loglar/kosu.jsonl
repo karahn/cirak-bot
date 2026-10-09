@@ -5871,3 +5871,60 @@
 {"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1791565445275}
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1791565448524}
 {"olay": "kosu_bitti", "tur": 90, "kazanc": 61898.3, "servis": 713, "bahsis": 140, "bakiye": 21353030.76, "siparis_toplam": 25, "siparis_basari": 25, "gecen_dk": 15.1, "bot_versiyon": "v2", "ts": 1791565453061}
+{"olay": "kosu_basladi", "sure_dk": 15.0, "bakiye": 25503888.23, "bot_versiyon": "v2_hizli_siparis", "ts": 1791565815258}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "ayakkabi", "ts": 1791565818915}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "ayakkabi", "ts": 1791565822820}
+{"olay": "siparis_basladi", "adet": 12, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1791565823700}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1791565827877}
+{"olay": "siparis_basladi", "adet": 9, "sure_sn": 30.0, "odul": 50.0, "tezgah": "simit", "ts": 1791565829997}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "simit", "ts": 1791565833149}
+{"olay": "siparis_basladi", "adet": 12, "sure_sn": 30.0, "odul": 77.0, "tezgah": "kestane", "ts": 1791565835210}
+{"olay": "siparis_tamam", "kazanilan": 77.0, "tezgah": "kestane", "ts": 1791565839442}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 66, "oto_acilan": 66, "ts": 1791565932123}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3877848", "sonuc": {"tutar": 50000, "tecrube": 1, "metin": "Cüzdanı sahibine verdin. Sevinçten sana bir ödül bıraktı.", "bakiye": 2550467201, "hareket": 830356}, "ts": 1791565935897}
+{"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 70.0, "tezgah": "pazar", "ts": 1791565939788}
+{"olay": "siparis_tamam", "kazanilan": 70.0, "tezgah": "pazar", "ts": 1791565944362}
+{"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1791565968960}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1791565972447}
+{"olay": "ara_ozet", "tur": 5, "kazanc": 563.4, "servis": 40, "bakiye": 25504951.6, "siparis": "6/6", "gecen_dk": 2.7, "ts": 1791565975547}
+{"olay": "siparis_basladi", "adet": 9, "sure_sn": 30.0, "odul": 50.0, "tezgah": "semsiye", "ts": 1791566006129}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "semsiye", "ts": 1791566009383}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "misir", "ts": 1791566020759}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "misir", "ts": 1791566024575}
+{"olay": "ara_ozet", "tur": 10, "kazanc": 864.9, "servis": 80, "bakiye": 25505253.11, "siparis": "8/8", "gecen_dk": 3.5, "ts": 1791566025817}
+{"olay": "siparis_basladi", "adet": 8, "sure_sn": 30.0, "odul": 50.0, "tezgah": "ayakkabi", "ts": 1791566123185}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "ayakkabi", "ts": 1791566125933}
+{"olay": "siparis_basladi", "adet": 14, "sure_sn": 30.0, "odul": 77.0, "tezgah": "kestane", "ts": 1791566139234}
+{"olay": "siparis_tamam", "kazanilan": 77.0, "tezgah": "kestane", "ts": 1791566144195}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 66, "oto_acilan": 66, "ts": 1791566236998}
+{"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 50.0, "tezgah": "simit", "ts": 1791566251886}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "simit", "ts": 1791566255369}
+{"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1791566262499}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1791566267079}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1791566277235}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1791566281122}
+{"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 70.0, "tezgah": "pazar", "ts": 1791566282574}
+{"olay": "siparis_tamam", "kazanilan": 70.0, "tezgah": "pazar", "ts": 1791566287091}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "misir", "ts": 1791566321598}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "misir", "ts": 1791566325446}
+{"olay": "siparis_basladi", "adet": 8, "sure_sn": 30.0, "odul": 50.0, "tezgah": "semsiye", "ts": 1791566348814}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "semsiye", "ts": 1791566351599}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3877849", "sonuc": {"tutar": 50000, "tecrube": 1, "metin": "Cüzdanı sahibine verdin. Sevinçten sana bir ödül bıraktı.", "bakiye": 2550724227, "hareket": 832109}, "ts": 1791566383970}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 66, "oto_acilan": 66, "ts": 1791566540550}
+{"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 50.0, "tezgah": "ayakkabi", "ts": 1791566553010}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "ayakkabi", "ts": 1791566557689}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "simit", "ts": 1791566560411}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "simit", "ts": 1791566564237}
+{"olay": "siparis_basladi", "adet": 8, "sure_sn": 30.0, "odul": 77.0, "tezgah": "kestane", "ts": 1791566575010}
+{"olay": "siparis_tamam", "kazanilan": 77.0, "tezgah": "kestane", "ts": 1791566577808}
+{"olay": "siparis_basladi", "adet": 12, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1791566599415}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1791566603610}
+{"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 70.0, "tezgah": "pazar", "ts": 1791566606290}
+{"olay": "siparis_tamam", "kazanilan": 70.0, "tezgah": "pazar", "ts": 1791566610958}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1791566618635}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1791566623888}
+{"olay": "siparis_basladi", "adet": 9, "sure_sn": 30.0, "odul": 50.0, "tezgah": "misir", "ts": 1791566625962}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "misir", "ts": 1791566629118}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "semsiye", "ts": 1791566669307}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "semsiye", "ts": 1791566673149}
+{"olay": "kosu_bitti", "tur": 62, "kazanc": 3760.7, "servis": 496, "bahsis": 86, "bakiye": 25508648.88, "siparis_toplam": 24, "siparis_basari": 24, "gecen_dk": 15.1, "bot_versiyon": "v2", "ts": 1791566721572}
