@@ -3,13 +3,13 @@
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
   "raf_doldurulan": 54,
-  "oto_acilan": 54,
+  "oto_acilan": 53,
   "detay": [
     {
       "ad": "Karahan Bakkal",
       "id": 2421,
       "oto": "acik",
-      "raf": "868/1113→full"
+      "raf": "1113/1113→full"
     },
     {
       "ad": "Karahan Ziraat bay",
@@ -27,7 +27,7 @@
       "ad": "Karahan Büfe",
       "id": 5927,
       "oto": "acik",
-      "raf": "528/730→full"
+      "raf": "730/730→full"
     },
     {
       "ad": "Karahan Halıcı",
@@ -75,7 +75,7 @@
       "ad": "Karahan Bar",
       "id": 31289,
       "oto": "acik",
-      "raf": "15/169→full"
+      "raf": "164/169→full"
     },
     {
       "ad": "Karahan Mobilya",
@@ -177,7 +177,7 @@
       "ad": "Karahan Fırın",
       "id": 43413,
       "oto": "acik",
-      "raf": "2507/3800→full"
+      "raf": "991/3800→full"
     },
     {
       "ad": "Karahan Bebek",
@@ -249,7 +249,7 @@
       "ad": "Karahan Börekçi",
       "id": 43654,
       "oto": "acik",
-      "raf": "660/845→full"
+      "raf": "50/845→full"
     },
     {
       "ad": "Karahan Tavukçu",
@@ -273,7 +273,7 @@
       "ad": "Karahan Çay ocağı",
       "id": 43865,
       "oto": "acik",
-      "raf": "462/624→full"
+      "raf": "209/624→full"
     },
     {
       "ad": "Karahan Beyaz EŞ3.",
