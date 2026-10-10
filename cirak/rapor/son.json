@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 11,
   "tp": 4391,
-  "nakit_kurus": 1260121192,
+  "nakit_kurus": 1260361093,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 1001106455,
-   "nakit": 1260121192,
+   "nakit": 1260361093,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 5042900000,
+     "limit": 5043100000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 8404900000,
+     "limit": 8405100000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 6723900000,
+     "limit": 6724100000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 10085900000,
+     "limit": 10086200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -144,7 +144,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791681062337,
+   "ms": 1791682108601,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -153,14 +153,14 @@
    "haftaGunuNo": 0,
    "haftaSonu": true,
    "saat": 1,
-   "dakika": 11,
+   "dakika": 28,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "11 Ekim 2026, Pazar"
   }
  },
  "banka": {
-  "nakit": 12601211.92,
+  "nakit": 12603610.93,
   "vadesiz": 10011064.55,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -373,7 +373,7 @@
   "toplam": 202,
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
-  "raf_doldurulan": 2,
+  "raf_doldurulan": 0,
   "oto_acilan": 118,
   "detay": [
    {
@@ -434,8 +434,7 @@
    {
     "ad": "Karahan Bar",
     "id": 31289,
-    "oto": "acik",
-    "raf": "465/481→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Mobilya",
@@ -715,8 +714,7 @@
    {
     "ad": "Karahan Bar4",
     "id": 50542,
-    "oto": "acik",
-    "raf": "465/481→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Telefon4",
@@ -1083,23 +1081,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 12599893.42,
+  "bakiye": 12603610.93,
   "oyuncu_seviye": 11,
   "sokak_degistirildi": 4,
   "bos_parsel": 1,
-  "kalan_bakiye": 12599893.42
+  "kalan_bakiye": 12603610.93
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 55,
-  "kazanc": 3717.5,
-  "servis": 440,
-  "bahsis": 101,
-  "bakiye": 12603610.93,
-  "siparis_toplam": 23,
-  "siparis_basari": 23,
+  "tur": 47,
+  "kazanc": 74009.6,
+  "servis": 376,
+  "bahsis": 76,
+  "bakiye": 12671690.32,
+  "siparis_toplam": 19,
+  "siparis_basari": 19,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791671282886
+  "ts": 1791672340464
  }
 }
