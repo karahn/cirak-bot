@@ -1,1 +1,1 @@
-1791644464400 tur=64 kazanc=4452 servis=512 siparis=24/24
+1791645851177 tur=61 kazanc=71448 servis=488 siparis=23/23
