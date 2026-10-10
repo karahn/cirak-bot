@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 11,
-  "tp": 4261,
-  "nakit_kurus": 3285402575,
+  "tp": 4265,
+  "nakit_kurus": 3285867918,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 0,
-   "nakit": 3285402575,
+   "nakit": 3285867918,
    "vadeliler": [
     {
      "id": 37,
@@ -38,9 +38,9 @@
      "brut": 690,
      "net": 587,
      "stopaj": 103,
-     "oran": 0.978859871031746,
-     "kalanMs": 4261850,
-     "birikmis": 575
+     "oran": 0.9839712053571429,
+     "kalanMs": 3231405,
+     "birikmis": 578
     },
     {
      "id": 38,
@@ -52,9 +52,9 @@
      "brut": 6904,
      "net": 5868,
      "stopaj": 1036,
-     "oran": 0.9788586805555556,
-     "kalanMs": 4262090,
-     "birikmis": 5744
+     "oran": 0.9839700148809524,
+     "kalanMs": 3231645,
+     "birikmis": 5774
     }
    ],
    "krediler": [],
@@ -94,7 +94,7 @@
       6,
       12
      ],
-     "limit": 4968200000,
+     "limit": 4968300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -113,7 +113,7 @@
       12,
       24
      ],
-     "limit": 8280300000,
+     "limit": 8280600000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -132,7 +132,7 @@
       24,
       36
      ],
-     "limit": 6624200000,
+     "limit": 6624400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -151,7 +151,7 @@
       36,
       60
      ],
-     "limit": 9936400000,
+     "limit": 9936700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -173,7 +173,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791664388829,
+   "ms": 1791665419283,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -182,14 +182,14 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 20,
-   "dakika": 33,
+   "dakika": 50,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "10 Ekim 2026, Cumartesi"
   }
  },
  "banka": {
-  "nakit": 32854025.75,
+  "nakit": 32858679.18,
   "vadesiz": 0.0,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [
@@ -203,9 +203,9 @@
     "brut": 690,
     "net": 587,
     "stopaj": 103,
-    "oran": 0.9788610069444444,
-    "kalanMs": 4261621,
-    "birikmis": 575
+    "oran": 0.9839724404761905,
+    "kalanMs": 3231156,
+    "birikmis": 578
    },
    {
     "id": 38,
@@ -217,9 +217,9 @@
     "brut": 6904,
     "net": 5868,
     "stopaj": 1036,
-    "oran": 0.9788598164682539,
-    "kalanMs": 4261861,
-    "birikmis": 5744
+    "oran": 0.98397125,
+    "kalanMs": 3231396,
+    "birikmis": 5774
    }
   ],
   "krediler": [],
@@ -423,7 +423,7 @@
  },
  "seviye-bildir": {
   "seviye": 11,
-  "tp": 4261,
+  "tp": 4265,
   "onceki": 11,
   "yeni_mi": false
  },
@@ -931,7 +931,13 @@
    }
   ],
   "hatalar": [],
-  "debug": []
+  "debug": [
+   {
+    "id": 43597,
+    "ad": "Karahan İç giyim",
+    "urun_yok": true
+   }
+  ]
  },
  "dukkan-ac": {
   "ilce": 2034,
@@ -1063,23 +1069,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 32854025.75,
+  "bakiye": 32858679.18,
   "oyuncu_seviye": 11,
   "sokak_degistirildi": 4,
   "bos_parsel": 6,
-  "kalan_bakiye": 32854025.75
+  "kalan_bakiye": 32858679.18
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 59,
-  "kazanc": 3923.4,
-  "servis": 472,
-  "bahsis": 81,
-  "bakiye": 32858679.18,
-  "siparis_toplam": 24,
-  "siparis_basari": 24,
+  "tur": 52,
+  "kazanc": 76185.4,
+  "servis": 409,
+  "bahsis": 96,
+  "bakiye": 36605860.44,
+  "siparis_toplam": 17,
+  "siparis_basari": 17,
   "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1791654592097
+  "ts": 1791655624059
  }
 }
