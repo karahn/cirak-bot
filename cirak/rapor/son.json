@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 12,
-  "tp": 4551,
-  "nakit_kurus": 1400587884,
+  "tp": 4553,
+  "nakit_kurus": 1401016094,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 1001106455,
-   "nakit": 1400587884,
+   "nakit": 1401016094,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 5085200000,
+     "limit": 5085400000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 8475400000,
+     "limit": 8475600000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 6780300000,
+     "limit": 6780500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 10170500000,
+     "limit": 10170800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -144,7 +144,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791704024378,
+   "ms": 1791705050504,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -153,14 +153,14 @@
    "haftaGunuNo": 0,
    "haftaSonu": true,
    "saat": 7,
-   "dakika": 33,
+   "dakika": 50,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "11 Ekim 2026, Pazar"
   }
  },
  "banka": {
-  "nakit": 14005878.84,
+  "nakit": 14010160.94,
   "vadesiz": 10011064.55,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -365,7 +365,7 @@
  },
  "seviye-bildir": {
   "seviye": 12,
-  "tp": 4551,
+  "tp": 4553,
   "onceki": 12,
   "yeni_mi": false
  },
@@ -374,7 +374,7 @@
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
   "raf_doldurulan": 0,
-  "oto_acilan": 118,
+  "oto_acilan": 119,
   "detay": [
    {
     "ad": "Karahan Bakkal",
@@ -389,6 +389,11 @@
    {
     "ad": "Karahan Şarküteri",
     "id": 5415,
+    "oto": "acik"
+   },
+   {
+    "ad": "Karahan Kargo şube",
+    "id": 5416,
     "oto": "acik"
    },
    {
@@ -968,7 +973,18 @@
    }
   ],
   "hatalar": [],
-  "debug": []
+  "debug": [
+   {
+    "id": 5415,
+    "ad": "Karahan Şarküteri",
+    "urun_yok": true
+   },
+   {
+    "id": 5416,
+    "ad": "Karahan Kargo şube",
+    "urun_yok": true
+   }
+  ]
  },
  "dukkan-ac": {
   "ilce": 2034,
@@ -1081,23 +1097,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 14005878.84,
+  "bakiye": 14010160.94,
   "oyuncu_seviye": 12,
   "sokak_degistirildi": 4,
   "bos_parsel": 1,
-  "kalan_bakiye": 14005878.84
+  "kalan_bakiye": 14010160.94
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 74,
-  "kazanc": 4019.6,
-  "servis": 592,
-  "bahsis": 108,
-  "bakiye": 14010160.94,
-  "siparis_toplam": 24,
-  "siparis_basari": 24,
+  "tur": 47,
+  "kazanc": 72877.3,
+  "servis": 369,
+  "bahsis": 83,
+  "bakiye": 14411228.42,
+  "siparis_toplam": 22,
+  "siparis_basari": 22,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791694225619
+  "ts": 1791695281893
  }
 }
