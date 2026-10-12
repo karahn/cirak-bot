@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 12,
-  "tp": 5637,
-  "nakit_kurus": 5472636716,
+  "tp": 5638,
+  "nakit_kurus": 5472999740,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 6059712110,
-   "nakit": 5472636716,
+   "nakit": 5472999740,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 8328200000,
+     "limit": 8328300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 13880300000,
+     "limit": 13880500000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 11104300000,
+     "limit": 11104400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 16656400000,
+     "limit": 16656600000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791840499478,
+   "ms": 1791841546202,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 1,
    "haftaSonu": false,
    "saat": 21,
-   "dakika": 28,
+   "dakika": 45,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "12 Ekim 2026, Pazartesi"
   }
  },
  "banka": {
-  "nakit": 54726367.16,
+  "nakit": 54729997.4,
   "vadesiz": 60597121.1,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -367,7 +367,7 @@
  },
  "seviye-bildir": {
   "seviye": 12,
-  "tp": 5637,
+  "tp": 5638,
   "onceki": 12,
   "yeni_mi": false
  },
@@ -1153,23 +1153,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 54726367.16,
+  "bakiye": 54729997.4,
   "oyuncu_seviye": 12,
   "sokak_degistirildi": 5,
   "bos_parsel": 6,
-  "kalan_bakiye": 54726367.16
+  "kalan_bakiye": 54729997.4
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 58,
-  "kazanc": 3105.2,
-  "servis": 464,
-  "bahsis": 78,
-  "bakiye": 54729997.4,
-  "siparis_toplam": 24,
-  "siparis_basari": 24,
-  "gecen_dk": 15.1,
+  "tur": 42,
+  "kazanc": 56625.9,
+  "servis": 329,
+  "bahsis": 74,
+  "bakiye": 54781220.41,
+  "siparis_toplam": 17,
+  "siparis_basari": 16,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1791830719978
+  "ts": 1791831783503
  }
 }
