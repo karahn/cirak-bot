@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 12,
-  "tp": 5216,
-  "nakit_kurus": 126964682,
+  "tp": 5230,
+  "nakit_kurus": 132150564,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 5859712110,
-   "nakit": 126964682,
+   "nakit": 132150564,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 6656500000,
+     "limit": 6658100000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 11094200000,
+     "limit": 11096800000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 8875400000,
+     "limit": 8877400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 13313100000,
+     "limit": 13316200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791786348305,
+   "ms": 1791787417484,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 1,
    "haftaSonu": false,
    "saat": 6,
-   "dakika": 25,
+   "dakika": 43,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "12 Ekim 2026, Pazartesi"
   }
  },
  "banka": {
-  "nakit": 1269646.82,
+  "nakit": 1321505.64,
   "vadesiz": 58597121.1,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -367,7 +367,7 @@
  },
  "seviye-bildir": {
   "seviye": 12,
-  "tp": 5216,
+  "tp": 5230,
   "onceki": 12,
   "yeni_mi": false
  },
@@ -1022,10 +1022,6 @@
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
-    "no": 215,
-    "hata": "Böyle bir dükkân yeri yok."
-   },
-   {
     "no": 227,
     "hata": "Böyle bir dükkân yeri yok."
    },
@@ -1039,6 +1035,10 @@
    },
    {
     "no": 231,
+    "hata": "Böyle bir dükkân yeri yok."
+   },
+   {
+    "no": 249,
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
@@ -1151,23 +1151,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 1269646.82,
+  "bakiye": 1321505.64,
   "oyuncu_seviye": 12,
   "sokak_degistirildi": 5,
   "bos_parsel": 7,
-  "kalan_bakiye": 1269646.82
+  "kalan_bakiye": 1321505.64
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 49,
-  "kazanc": 58640.1,
-  "servis": 392,
-  "bahsis": 105,
-  "bakiye": 1321505.64,
-  "siparis_toplam": 21,
-  "siparis_basari": 21,
-  "gecen_dk": 15.2,
+  "tur": 48,
+  "kazanc": 2680.4,
+  "servis": 384,
+  "bahsis": 75,
+  "bakiye": 1324186.03,
+  "siparis_toplam": 20,
+  "siparis_basari": 20,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1791776591045
+  "ts": 1791777654112
  }
 }
