@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 12,
-  "tp": 5159,
-  "nakit_kurus": 99958428,
+  "tp": 5173,
+  "nakit_kurus": 109131396,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 5859712110,
-   "nakit": 99958428,
+   "nakit": 109131396,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 6649500000,
+     "limit": 6651100000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 11082500000,
+     "limit": 11085200000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 8866000000,
+     "limit": 8868200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 13299000000,
+     "limit": 13302300000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791777864417,
+   "ms": 1791778937696,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 1,
    "haftaSonu": false,
    "saat": 4,
-   "dakika": 4,
+   "dakika": 22,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "12 Ekim 2026, Pazartesi"
   }
  },
  "banka": {
-  "nakit": 999584.28,
+  "nakit": 1091313.96,
   "vadesiz": 58597121.1,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -367,14 +367,14 @@
  },
  "seviye-bildir": {
   "seviye": 12,
-  "tp": 5159,
+  "tp": 5173,
   "onceki": 12,
   "yeni_mi": false
  },
  "dukkan-yonet": {
   "toplam": 224,
-  "kasa_toplanan": 3,
-  "kasa_tl": 37939.7,
+  "kasa_toplanan": 0,
+  "kasa_tl": 0.0,
   "raf_doldurulan": 0,
   "oto_acilan": 126,
   "detay": [
@@ -654,11 +654,6 @@
     "oto": "acik"
    },
    {
-    "ad": "Karahan Disko",
-    "id": 47803,
-    "kasa": 17062.65
-   },
-   {
     "ad": "Karahan Kozmetik v",
     "id": 47967,
     "oto": "acik"
@@ -727,11 +722,6 @@
     "ad": "Karahan Telefon4",
     "id": 50552,
     "oto": "acik"
-   },
-   {
-    "ad": "Karahan Disko4",
-    "id": 50560,
-    "kasa": 12520.35
    },
    {
     "ad": "Karahan Kasap4",
@@ -877,11 +867,6 @@
     "ad": "Karahan Kebapçı5",
     "id": 53996,
     "oto": "acik"
-   },
-   {
-    "ad": "Karahan Disko5",
-    "id": 54001,
-    "kasa": 8356.7
    },
    {
     "ad": "Karahan Bakkal5",
@@ -1057,7 +1042,7 @@
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
-    "no": 252,
+    "no": 243,
     "hata": "Böyle bir dükkân yeri yok."
    }
   ],
@@ -1166,23 +1151,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 1037523.98,
+  "bakiye": 1091313.96,
   "oyuncu_seviye": 12,
   "sokak_degistirildi": 5,
   "bos_parsel": 7,
-  "kalan_bakiye": 1037523.98
+  "kalan_bakiye": 1091313.96
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 43,
-  "kazanc": 59034.2,
-  "servis": 344,
-  "bahsis": 74,
-  "bakiye": 1091313.96,
-  "siparis_toplam": 20,
-  "siparis_basari": 20,
-  "gecen_dk": 15.1,
+  "tur": 41,
+  "kazanc": 2508.8,
+  "servis": 328,
+  "bahsis": 58,
+  "bakiye": 1093822.72,
+  "siparis_toplam": 21,
+  "siparis_basari": 21,
+  "gecen_dk": 15.2,
   "bot_versiyon": "v2",
-  "ts": 1791768110837
+  "ts": 1791769189111
  }
 }
