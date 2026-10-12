@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 12,
-  "tp": 5295,
-  "nakit_kurus": 490718276,
+  "tp": 5310,
+  "nakit_kurus": 495639889,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 5859712110,
-   "nakit": 490718276,
+   "nakit": 495639889,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 6763500000,
+     "limit": 6765000000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 11272500000,
+     "limit": 11275000000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 9018000000,
+     "limit": 9020000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 13527000000,
+     "limit": 13530000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -135,7 +135,7 @@
    "karaListe": 0,
    "net": 5859712110,
    "krediNotu": {
-    "puan": 1338,
+    "puan": 1339,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791797136914,
+   "ms": 1791798193593,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,20 +154,20 @@
    "haftaGunuNo": 1,
    "haftaSonu": false,
    "saat": 9,
-   "dakika": 25,
+   "dakika": 43,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "12 Ekim 2026, Pazartesi"
   }
  },
  "banka": {
-  "nakit": 4907182.76,
+  "nakit": 4956398.89,
   "vadesiz": 58597121.1,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1338,
+   "puan": 1339,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -367,7 +367,7 @@
  },
  "seviye-bildir": {
   "seviye": 12,
-  "tp": 5295,
+  "tp": 5310,
   "onceki": 12,
   "yeni_mi": false
  },
@@ -1151,23 +1151,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 4907182.76,
+  "bakiye": 4956398.89,
   "oyuncu_seviye": 12,
   "sokak_degistirildi": 5,
   "bos_parsel": 7,
-  "kalan_bakiye": 4907182.76
+  "kalan_bakiye": 4956398.89
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 52,
-  "kazanc": 54044.1,
-  "servis": 416,
-  "bahsis": 86,
-  "bakiye": 4956398.89,
-  "siparis_toplam": 22,
-  "siparis_basari": 22,
-  "gecen_dk": 15.1,
+  "tur": 69,
+  "kazanc": 3574.7,
+  "servis": 552,
+  "bahsis": 87,
+  "bakiye": 4960216.12,
+  "siparis_toplam": 24,
+  "siparis_basari": 24,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1791787368018
+  "ts": 1791788401161
  }
 }
