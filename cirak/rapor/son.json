@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 13,
-  "tp": 5755,
-  "nakit_kurus": 5785056248,
+  "tp": 5756,
+  "nakit_kurus": 5795671608,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 6059712110,
-   "nakit": 5785056248,
+   "nakit": 5795671608,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 8422000000,
+     "limit": 8425100000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 14036700000,
+     "limit": 14041900000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 11229300000,
+     "limit": 11233500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 16844000000,
+     "limit": 16850300000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791856237011,
+   "ms": 1791857305040,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -153,15 +153,15 @@
    "haftaGunu": "Salı",
    "haftaGunuNo": 2,
    "haftaSonu": false,
-   "saat": 1,
-   "dakika": 50,
+   "saat": 2,
+   "dakika": 8,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "13 Ekim 2026, Salı"
   }
  },
  "banka": {
-  "nakit": 57850562.48,
+  "nakit": 57956716.08,
   "vadesiz": 60597121.1,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -367,7 +367,7 @@
  },
  "seviye-bildir": {
   "seviye": 13,
-  "tp": 5755,
+  "tp": 5756,
   "onceki": 13,
   "yeni_mi": false
  },
@@ -375,7 +375,7 @@
   "toplam": 225,
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
-  "raf_doldurulan": 0,
+  "raf_doldurulan": 2,
   "oto_acilan": 127,
   "detay": [
    {
@@ -436,7 +436,8 @@
    {
     "ad": "Karahan Bar",
     "id": 31289,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "472/481→full"
    },
    {
     "ad": "Karahan Mobilya",
@@ -716,7 +717,8 @@
    {
     "ad": "Karahan Bar4",
     "id": 50542,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "471/481→full"
    },
    {
     "ad": "Karahan Telefon4",
@@ -1161,23 +1163,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 57850562.48,
+  "bakiye": 57955760.28,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 5,
   "bos_parsel": 8,
-  "kalan_bakiye": 57850562.48
+  "kalan_bakiye": 57955760.28
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 38,
-  "kazanc": 2150.6,
-  "servis": 304,
-  "bahsis": 54,
-  "bakiye": 57956716.08,
+  "tur": 41,
+  "kazanc": 39801.3,
+  "servis": 321,
+  "bahsis": 65,
+  "bakiye": 57991088.04,
   "siparis_toplam": 20,
   "siparis_basari": 20,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791846479586
+  "ts": 1791847550096
  }
 }
