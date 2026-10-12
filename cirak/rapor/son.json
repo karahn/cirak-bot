@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 12,
-  "tp": 5230,
-  "nakit_kurus": 132418603,
+  "tp": 5244,
+  "nakit_kurus": 140620037,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 5859712110,
-   "nakit": 132418603,
+   "nakit": 140620037,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 6659100000,
+     "limit": 6660600000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 11098500000,
+     "limit": 11101100000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 8878800000,
+     "limit": 8880800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 13318200000,
+     "limit": 13321300000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791788479672,
+   "ms": 1791789558305,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 1,
    "haftaSonu": false,
    "saat": 7,
-   "dakika": 1,
+   "dakika": 19,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "12 Ekim 2026, Pazartesi"
   }
  },
  "banka": {
-  "nakit": 1324186.03,
+  "nakit": 1406200.37,
   "vadesiz": 58597121.1,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -367,15 +367,15 @@
  },
  "seviye-bildir": {
   "seviye": 12,
-  "tp": 5230,
+  "tp": 5244,
   "onceki": 12,
   "yeni_mi": false
  },
  "dukkan-yonet": {
   "toplam": 224,
-  "kasa_toplanan": 8,
-  "kasa_tl": 57002.31000000001,
-  "raf_doldurulan": 6,
+  "kasa_toplanan": 0,
+  "kasa_tl": 0.0,
+  "raf_doldurulan": 0,
   "oto_acilan": 126,
   "detay": [
    {
@@ -396,9 +396,7 @@
    {
     "ad": "Karahan Büfe",
     "id": 5927,
-    "kasa": 4661.74,
-    "oto": "acik",
-    "raf": "2649/2815→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Halıcı",
@@ -523,9 +521,7 @@
    {
     "ad": "Karahan Fırın",
     "id": 43413,
-    "kasa": 9837.66,
-    "oto": "acik",
-    "raf": "5651/6150→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Bebek",
@@ -585,9 +581,7 @@
    {
     "ad": "Karahan Börekçi",
     "id": 43654,
-    "kasa": 10080.28,
-    "oto": "acik",
-    "raf": "1789/2005→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Tavukçu",
@@ -607,9 +601,7 @@
    {
     "ad": "Karahan Çay ocağı",
     "id": 43865,
-    "kasa": 2606.31,
-    "oto": "acik",
-    "raf": "2563/2660→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Beyaz EŞ3.",
@@ -635,11 +627,6 @@
     "ad": "Karahan Hamburgerc",
     "id": 44884,
     "oto": "acik"
-   },
-   {
-    "ad": "Karahan Otopark",
-    "id": 44891,
-    "kasa": 443.9
    },
    {
     "ad": "Karahan Kitapçı",
@@ -720,11 +707,6 @@
     "ad": "Karahan Bebe2",
     "id": 48904,
     "oto": "acik"
-   },
-   {
-    "ad": "Karahan Otopark2",
-    "id": 49993,
-    "kasa": 1311.49
    },
    {
     "ad": "Karahan Kuyum4",
@@ -944,9 +926,7 @@
    {
     "ad": "Karahan Fırın5",
     "id": 54852,
-    "kasa": 21332.52,
-    "oto": "acik",
-    "raf": "11200/12430→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Dönerci5",
@@ -966,9 +946,7 @@
    {
     "ad": "Karahan Börekçi5",
     "id": 54865,
-    "kasa": 6728.41,
-    "oto": "acik",
-    "raf": "671/840→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Kafe5",
@@ -1173,23 +1151,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 1354325.68,
+  "bakiye": 1406200.37,
   "oyuncu_seviye": 12,
   "sokak_degistirildi": 5,
   "bos_parsel": 7,
-  "kalan_bakiye": 1354325.68
+  "kalan_bakiye": 1406200.37
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 52,
-  "kazanc": 57514.4,
-  "servis": 416,
-  "bahsis": 93,
-  "bakiye": 1406200.37,
+  "tur": 53,
+  "kazanc": 3181.5,
+  "servis": 424,
+  "bahsis": 72,
+  "bakiye": 1408865.9,
   "siparis_toplam": 23,
   "siparis_basari": 23,
-  "gecen_dk": 15.2,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791778733035
+  "ts": 1791779784084
  }
 }
