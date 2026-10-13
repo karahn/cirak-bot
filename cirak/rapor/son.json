@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 13,
-  "tp": 6018,
-  "nakit_kurus": 7619865010,
+  "tp": 6021,
+  "nakit_kurus": 7620184656,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 6059712110,
-   "nakit": 7619865010,
+   "nakit": 7620184656,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 8968800000,
+     "limit": 8968900000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 14948000000,
+     "limit": 14948200000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 11958400000,
+     "limit": 11958500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 17937600000,
+     "limit": 17937800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791894525562,
+   "ms": 1791895593091,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 2,
    "haftaSonu": false,
    "saat": 12,
-   "dakika": 28,
+   "dakika": 46,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "13 Ekim 2026, Salı"
   }
  },
  "banka": {
-  "nakit": 76198650.1,
+  "nakit": 76201846.56,
   "vadesiz": 60597121.1,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -367,7 +367,7 @@
  },
  "seviye-bildir": {
   "seviye": 13,
-  "tp": 6018,
+  "tp": 6021,
   "onceki": 13,
   "yeni_mi": false
  },
@@ -1043,11 +1043,11 @@
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
-    "no": 243,
+    "no": 237,
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
-    "no": 249,
+    "no": 243,
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
@@ -1161,23 +1161,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 76198650.1,
+  "bakiye": 76201846.56,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 5,
   "bos_parsel": 8,
-  "kalan_bakiye": 76198650.1
+  "kalan_bakiye": 76201846.56
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 45,
-  "kazanc": 2116.5,
-  "servis": 360,
-  "bahsis": 80,
-  "bakiye": 76201846.56,
-  "siparis_toplam": 21,
-  "siparis_basari": 21,
+  "tur": 63,
+  "kazanc": 37019.7,
+  "servis": 504,
+  "bahsis": 106,
+  "bakiye": 76168488.97,
+  "siparis_toplam": 23,
+  "siparis_basari": 23,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791884764541
+  "ts": 1791885807588
  }
 }
