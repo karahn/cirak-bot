@@ -1,0 +1,1908 @@
+{
+ "cerez-kontrol": {
+  "tamam": true,
+  "oyuncu": "Karahan",
+  "seviye": 13,
+  "tp": 6061,
+  "nakit_kurus": 8374574238,
+  "il": {
+   "id": 6,
+   "ad": "Ankara",
+   "nufus": 5910320,
+   "kiyi": false,
+   "buyuksehir": true,
+   "bolge": "İç Anadolu",
+   "enlem": 39.9208,
+   "ulke": "TR"
+  },
+  "ilce": {
+   "id": 1745,
+   "ad": "Keçiören",
+   "nufus": 931722
+  },
+  "mahalle": {
+   "id": 1689,
+   "ad": "Bağlarbaşı Mahallesi"
+  },
+  "banka": {
+   "vadesiz": 6059712110,
+   "nakit": 8374574238,
+   "vadeliler": [],
+   "krediler": [],
+   "vadeler": [
+    {
+     "gun": 7,
+     "ad": "1 hafta",
+     "faiz": 36
+    },
+    {
+     "gun": 30,
+     "ad": "1 ay",
+     "faiz": 40
+    },
+    {
+     "gun": 90,
+     "ad": "3 ay",
+     "faiz": 42
+    },
+    {
+     "gun": 365,
+     "ad": "1 yıl",
+     "faiz": 45
+    }
+   ],
+   "krediTurleri": [
+    {
+     "kod": "isletme",
+     "ad": "İşletme kredisi",
+     "simge": "💼",
+     "aciklama": "Stok, kira ve maaş gibi günlük ihtiyaçlar için.",
+     "faiz": 51,
+     "temelFaiz": 54,
+     "odaIndirimi": 3,
+     "taksitler": [
+      3,
+      6,
+      12
+     ],
+     "limit": 9424100000,
+     "engel": null,
+     "enAz": 1000000,
+     "alim": false,
+     "pesinat": 0
+    },
+    {
+     "kod": "makine",
+     "ad": "Makine-teçhizat kredisi",
+     "simge": "🏭",
+     "aciklama": "Tesis kurmak ve büyütmek için; en az bir tesisin olmalı.",
+     "faiz": 44,
+     "temelFaiz": 44,
+     "odaIndirimi": 0,
+     "taksitler": [
+      6,
+      12,
+      24
+     ],
+     "limit": 15706800000,
+     "engel": "15. seviyede açılır.",
+     "enAz": 1000000,
+     "alim": false,
+     "pesinat": 0
+    },
+    {
+     "kod": "tasit",
+     "ad": "Taşıt kredisi",
+     "simge": "🚗",
+     "aciklama": "Araba ve yat alırken kullanılır; en az %30 peşinat gerekir.",
+     "faiz": 48,
+     "temelFaiz": 48,
+     "odaIndirimi": 0,
+     "taksitler": [
+      12,
+      24,
+      36
+     ],
+     "limit": 12565500000,
+     "engel": null,
+     "enAz": 1000000,
+     "alim": true,
+     "pesinat": 0.3
+    },
+    {
+     "kod": "konut",
+     "ad": "Konut kredisi",
+     "simge": "🏠",
+     "aciklama": "Ev ve arsa alırken kullanılır; en az %20 peşinat gerekir.",
+     "faiz": 40,
+     "temelFaiz": 40,
+     "odaIndirimi": 0,
+     "taksitler": [
+      24,
+      36,
+      60
+     ],
+     "limit": 18848200000,
+     "engel": null,
+     "enAz": 1000000,
+     "alim": true,
+     "pesinat": 0.2
+    }
+   ],
+   "stopaj": 15,
+   "tahsis": 0.5,
+   "ekonomiGunuMs": 28800000,
+   "karaListe": 0,
+   "net": 6059712110,
+   "krediNotu": {
+    "puan": 1379,
+    "bant": "Az riskli",
+    "renk": "#E8C21A"
+   },
+   "hesapNo": "TR82 0077 7064 1600 7162 2053 83",
+   "donuk": false,
+   "masak": null,
+   "masakServet": []
+  },
+  "takvim": {
+   "ms": 1791900283014,
+   "yil": 2026,
+   "ay": 9,
+   "ayAdi": "Ekim",
+   "gunNo": 13,
+   "haftaGunu": "Salı",
+   "haftaGunuNo": 2,
+   "haftaSonu": false,
+   "saat": 14,
+   "dakika": 4,
+   "mevsim": "sonbahar",
+   "mevsimAdi": "Sonbahar",
+   "metin": "13 Ekim 2026, Salı"
+  }
+ },
+ "banka": {
+  "nakit": 83745742.38,
+  "vadesiz": 60597121.1,
+  "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
+  "vadeliler": [],
+  "krediler": [],
+  "kredi_notu": {
+   "puan": 1379,
+   "bant": "Az riskli",
+   "renk": "#E8C21A"
+  },
+  "ham_anahtarlar": [
+   "vadesiz",
+   "nakit",
+   "vadeliler",
+   "krediler",
+   "vadeler",
+   "krediTurleri",
+   "stopaj",
+   "tahsis",
+   "ekonomiGunuMs",
+   "karaListe",
+   "net",
+   "krediNotu",
+   "hesapNo",
+   "donuk",
+   "masak",
+   "masakServet"
+  ]
+ },
+ "havale": {
+  "toplam": 13,
+  "gelenler": [
+   {
+    "id": 45,
+    "kim": "arastirmaci42",
+    "tutar": 1000000.0,
+    "aciklama": "kâr payı",
+    "giden": false,
+    "ts": 1791500201842
+   },
+   {
+    "id": 39,
+    "kim": "ybey",
+    "tutar": 500000.0,
+    "aciklama": null,
+    "giden": false,
+    "ts": 1791401699935
+   },
+   {
+    "id": 38,
+    "kim": "arastirmaci42",
+    "tutar": 1000000.0,
+    "aciklama": "Günlük kâr payı",
+    "giden": false,
+    "ts": 1791378780681
+   }
+  ],
+  "son_hareketler": [
+   {
+    "id": 43,
+    "kim": "Kalfa19",
+    "tutar": 1000000.0,
+    "aciklama": "Ortaklık payı",
+    "giden": true,
+    "ts": 1791456893694
+   },
+   {
+    "id": 42,
+    "kim": "Kalfa19",
+    "tutar": 1000000.0,
+    "aciklama": null,
+    "giden": true,
+    "ts": 1791411838262
+   },
+   {
+    "id": 39,
+    "kim": "ybey",
+    "tutar": 500000.0,
+    "aciklama": null,
+    "giden": false,
+    "ts": 1791401699935
+   },
+   {
+    "id": 38,
+    "kim": "arastirmaci42",
+    "tutar": 1000000.0,
+    "aciklama": "Günlük kâr payı",
+    "giden": false,
+    "ts": 1791378780681
+   },
+   {
+    "id": 18,
+    "kim": "Burak",
+    "tutar": 100000.0,
+    "aciklama": null,
+    "giden": true,
+    "ts": 1791227909500
+   },
+   {
+    "id": 15,
+    "kim": "ybey",
+    "tutar": 500000.0,
+    "aciklama": null,
+    "giden": true,
+    "ts": 1791210779254
+   },
+   {
+    "id": 9,
+    "kim": "arastirmaci42",
+    "tutar": 100000.0,
+    "aciklama": null,
+    "giden": true,
+    "ts": 1791073858552
+   },
+   {
+    "id": 4,
+    "kim": "arastirmaci42",
+    "tutar": 50000.0,
+    "aciklama": "stok yardımı",
+    "giden": true,
+    "ts": 1790933942070
+   },
+   {
+    "id": 3,
+    "kim": "arastirmaci42",
+    "tutar": 22000.0,
+    "aciklama": null,
+    "giden": true,
+    "ts": 1790932089039
+   },
+   {
+    "id": 2,
+    "kim": "arastirmaci42",
+    "tutar": 60000.0,
+    "aciklama": "Ortaklık Payı 😘",
+    "giden": true,
+    "ts": 1790930968873
+   }
+  ],
+  "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
+  "engel": null,
+  "ham": {
+   "hesapNo": "TR82 0077 7064 1600 7162 2053 83",
+   "sinir": 1000000000,
+   "bugun": 0,
+   "engel": null
+  }
+ },
+ "mesaj-oku": {
+  "kisi": "Karahan",
+  "toplam": 0,
+  "gelen_adet": 0,
+  "son_gelen": null,
+  "cevaplanan_id": 0,
+  "son_mesajlar": []
+ },
+ "oda": {
+  "odalar": [
+   {
+    "kod": "esnaf",
+    "ad": "Esnaf ve Sanatkârlar Odası",
+    "uye": true,
+    "aktif": true,
+    "egitimAlindi": true,
+    "aidat": 25000,
+    "borc": null,
+    "baskan": null,
+    "kasa": 1250000,
+    "uyeler": null,
+    "tp": null
+   },
+   {
+    "kod": "ticaret",
+    "ad": "Ticaret Odası",
+    "uye": true,
+    "aktif": true,
+    "egitimAlindi": true,
+    "aidat": 150000,
+    "borc": null,
+    "baskan": null,
+    "kasa": 450000,
+    "uyeler": null,
+    "tp": null
+   },
+   {
+    "kod": "sanayi",
+    "ad": "Sanayi Odası",
+    "uye": false,
+    "aktif": false,
+    "egitimAlindi": false,
+    "aidat": 300000,
+    "borc": null,
+    "baskan": null,
+    "kasa": 0,
+    "uyeler": null,
+    "tp": null
+   }
+  ],
+  "egitim": [],
+  "uyelikler": [
+   "Esnaf ve Sanatkârlar Odası",
+   "Ticaret Odası"
+  ]
+ },
+ "seviye-bildir": {
+  "seviye": 13,
+  "tp": 6061,
+  "onceki": 13,
+  "yeni_mi": false
+ },
+ "dukkan-yonet": {
+  "toplam": 225,
+  "kasa_toplanan": 220,
+  "kasa_tl": 12896903.080000002,
+  "raf_doldurulan": 125,
+  "oto_acilan": 127,
+  "detay": [
+   {
+    "ad": "Karahan Bakkal",
+    "id": 2421,
+    "kasa": 21595.6,
+    "oto": "acik",
+    "raf": "4115/4590→full"
+   },
+   {
+    "ad": "Karahan Ziraat bay",
+    "id": 4084,
+    "kasa": 29866.99,
+    "oto": "acik",
+    "raf": "335/383→full"
+   },
+   {
+    "ad": "Karahan Şarküteri",
+    "id": 5415,
+    "kasa": 52159.47,
+    "oto": "acik",
+    "raf": "705/813→full"
+   },
+   {
+    "ad": "Karahan Kargo şube",
+    "id": 5416,
+    "kasa": 41378.41
+   },
+   {
+    "ad": "Karahan Büfe",
+    "id": 5927,
+    "kasa": 11236.15,
+    "oto": "acik",
+    "raf": "2449/2815→full"
+   },
+   {
+    "ad": "Karahan Emlakçı",
+    "id": 6802,
+    "kasa": 48886.64
+   },
+   {
+    "ad": "Karahan Kuaför",
+    "id": 8321,
+    "kasa": 19550.2
+   },
+   {
+    "ad": "Karahan Turizm",
+    "id": 8333,
+    "kasa": 15540.8
+   },
+   {
+    "ad": "Karahan Matbaa",
+    "id": 8334,
+    "kasa": 15411.88
+   },
+   {
+    "ad": "Karahan Fotoğrafçı",
+    "id": 8346,
+    "kasa": 92517.6
+   },
+   {
+    "ad": "Karahan E-Spor",
+    "id": 8435,
+    "kasa": 17583.23
+   },
+   {
+    "ad": "Karahan Oto yıkama",
+    "id": 8763,
+    "kasa": 35244.32
+   },
+   {
+    "ad": "Karahan Oto Servis",
+    "id": 8766,
+    "kasa": 129909.47
+   },
+   {
+    "ad": "Karahan Oto yedek",
+    "id": 8837,
+    "kasa": 39249.34
+   },
+   {
+    "ad": "Karahan Halıcı",
+    "id": 8910,
+    "kasa": 45051.95,
+    "oto": "acik",
+    "raf": "300/320→full"
+   },
+   {
+    "ad": "Karahan Sigorta ac",
+    "id": 9072,
+    "kasa": 7561.49
+   },
+   {
+    "ad": "Karahan Kurs",
+    "id": 9167,
+    "kasa": 21064.78
+   },
+   {
+    "ad": "Güzellik Salonu",
+    "id": 11069,
+    "kasa": 18789.43
+   },
+   {
+    "ad": "Karahan Telefoncu",
+    "id": 11924,
+    "kasa": 180251.81,
+    "oto": "acik",
+    "raf": "672/775→full"
+   },
+   {
+    "ad": "Karahan Kebapçı",
+    "id": 11926,
+    "kasa": 90819.94,
+    "oto": "acik",
+    "raf": "1257/1700→full"
+   },
+   {
+    "ad": "Karahan Kuruyemiş",
+    "id": 11928,
+    "kasa": 61299.8,
+    "oto": "acik",
+    "raf": "688/808→full"
+   },
+   {
+    "ad": "Karahan Elektrikçi",
+    "id": 12011,
+    "kasa": 12841.04
+   },
+   {
+    "ad": "Karahan Temizlik",
+    "id": 12013,
+    "kasa": 23186.59,
+    "oto": "acik",
+    "raf": "1896/2160→full"
+   },
+   {
+    "ad": "Karahan Su tesisat",
+    "id": 12029,
+    "kasa": 11012.93
+   },
+   {
+    "ad": "Karahan Kırtasiye",
+    "id": 29354,
+    "kasa": 11931.31,
+    "oto": "acik",
+    "raf": "937/1095→full"
+   },
+   {
+    "ad": "Karahan Yapı marke",
+    "id": 29355,
+    "kasa": 55514.28,
+    "oto": "acik",
+    "raf": "675/765→full"
+   },
+   {
+    "ad": "Karahan Döviz büro",
+    "id": 30574,
+    "kasa": 5176.75
+   },
+   {
+    "ad": "Karahan Kreş",
+    "id": 30576,
+    "kasa": 35387.88
+   },
+   {
+    "ad": "Karahan Bar",
+    "id": 31289,
+    "oto": "acik"
+   },
+   {
+    "ad": "Karahan Spor salon",
+    "id": 31299,
+    "kasa": 40284.29
+   },
+   {
+    "ad": "Karahan Teknik Sr",
+    "id": 33921,
+    "kasa": 16993.66
+   },
+   {
+    "ad": "Karahan HamamSPA",
+    "id": 33923,
+    "kasa": 14272.68
+   },
+   {
+    "ad": "Karahan Nakliyat",
+    "id": 33983,
+    "kasa": 60334.96
+   },
+   {
+    "ad": "Karahan Mobilya",
+    "id": 34214,
+    "kasa": 133458.03,
+    "oto": "acik",
+    "raf": "632/640→full"
+   },
+   {
+    "ad": "Karahan Halı yıkam",
+    "id": 34235,
+    "kasa": 10745.88
+   },
+   {
+    "ad": "Karahan Veteriner",
+    "id": 35416,
+    "kasa": 3945.81
+   },
+   {
+    "ad": "Karahan Mali müş.",
+    "id": 35425,
+    "kasa": 5456.33
+   },
+   {
+    "ad": "Karahan Sürücü k.",
+    "id": 35433,
+    "kasa": 43423.73
+   },
+   {
+    "ad": "Karahan Dershane",
+    "id": 35437,
+    "kasa": 3904.25
+   },
+   {
+    "ad": "Karahan Çamaşırhan",
+    "id": 36589,
+    "kasa": 3801.85
+   },
+   {
+    "ad": "Karahan Fotoğraf2",
+    "id": 36600,
+    "kasa": 111009.78
+   },
+   {
+    "ad": "Karahan Araç kiral",
+    "id": 36603,
+    "kasa": 16295.31
+   },
+   {
+    "ad": "Karahan Giyim mağa",
+    "id": 36605,
+    "kasa": 25235.82,
+    "oto": "acik",
+    "raf": "290/325→full"
+   },
+   {
+    "ad": "Karahan Beyaz eşya",
+    "id": 36606,
+    "kasa": 396765.14,
+    "oto": "acik",
+    "raf": "429/440→full"
+   },
+   {
+    "ad": "Karahan Pet shop",
+    "id": 36616,
+    "kasa": 3312.52,
+    "oto": "acik",
+    "raf": "246/270→full"
+   },
+   {
+    "ad": "Karahan Hırdavatçı",
+    "id": 36621,
+    "kasa": 63437.03,
+    "oto": "acik",
+    "raf": "548/641→full"
+   },
+   {
+    "ad": "Karahan Züccaciye",
+    "id": 36624,
+    "kasa": 28358.23,
+    "oto": "acik",
+    "raf": "275/326→full"
+   },
+   {
+    "ad": "Karahan Elektronik",
+    "id": 37794,
+    "kasa": 320078.2,
+    "oto": "acik",
+    "raf": "615/640→full"
+   },
+   {
+    "ad": "Karahan Lokanta",
+    "id": 37795,
+    "kasa": 32175.5,
+    "oto": "acik",
+    "raf": "710/930→full"
+   },
+   {
+    "ad": "Karahan Çiçekçi",
+    "id": 37797,
+    "kasa": 7721.52,
+    "oto": "acik",
+    "raf": "254/276→full"
+   },
+   {
+    "ad": "Karahan Oto galeri",
+    "id": 39078,
+    "kasa": 37186.09
+   },
+   {
+    "ad": "Karahan Kuyumcu",
+    "id": 39082,
+    "kasa": 204948.84,
+    "oto": "acik",
+    "raf": "310/329→full"
+   },
+   {
+    "ad": "Karahan ReklamA",
+    "id": 39083,
+    "kasa": 97796.26
+   },
+   {
+    "ad": "Karahan Spor mağaz",
+    "id": 39681,
+    "kasa": 78201.85,
+    "oto": "acik",
+    "raf": "685/761→full"
+   },
+   {
+    "ad": "Karahan Saatçi",
+    "id": 39682,
+    "kasa": 5759.71,
+    "oto": "acik",
+    "raf": "150/165→full"
+   },
+   {
+    "ad": "Karahan Oyuncakçı",
+    "id": 39686,
+    "kasa": 9316.67,
+    "oto": "acik",
+    "raf": "153/170→full"
+   },
+   {
+    "ad": "Karahan Nalbur",
+    "id": 39689,
+    "kasa": 51058.17,
+    "oto": "acik",
+    "raf": "4044/4320→full"
+   },
+   {
+    "ad": "Karahan Perdeci",
+    "id": 39694,
+    "kasa": 32592.22,
+    "oto": "acik",
+    "raf": "294/320→full"
+   },
+   {
+    "ad": "Karahan Optik",
+    "id": 39699,
+    "kasa": 18150.78,
+    "oto": "acik",
+    "raf": "147/160→full"
+   },
+   {
+    "ad": "Karahan Fotoğrafçı",
+    "id": 43279,
+    "kasa": 2942.25
+   },
+   {
+    "ad": "Karahan Fırın",
+    "id": 43413,
+    "kasa": 22843.96,
+    "oto": "acik",
+    "raf": "5011/6150→full"
+   },
+   {
+    "ad": "Karahan Bebek",
+    "id": 43418,
+    "kasa": 22864.69,
+    "oto": "acik",
+    "raf": "437/492→full"
+   },
+   {
+    "ad": "Karahan Boya",
+    "id": 43430,
+    "kasa": 28105.14,
+    "oto": "acik",
+    "raf": "245/275→full"
+   },
+   {
+    "ad": "Karahan Lastikçi",
+    "id": 43452,
+    "kasa": 49218.95
+   },
+   {
+    "ad": "Karahan Pideci",
+    "id": 43463,
+    "kasa": 22107.63,
+    "oto": "acik",
+    "raf": "376/524→full"
+   },
+   {
+    "ad": "Karahan Pastane",
+    "id": 43464,
+    "kasa": 18029.61,
+    "oto": "acik",
+    "raf": "1118/1237→full"
+   },
+   {
+    "ad": "Karahan Pizzacı",
+    "id": 43472,
+    "kasa": 18542.55,
+    "oto": "acik",
+    "raf": "479/633→full"
+   },
+   {
+    "ad": "Karahan Market",
+    "id": 43475,
+    "kasa": 90642.32,
+    "oto": "acik",
+    "raf": "32298/34370→full"
+   },
+   {
+    "ad": "Karahan Kasap",
+    "id": 43480,
+    "kasa": 57439.03,
+    "oto": "acik",
+    "raf": "1206/1295→full"
+   },
+   {
+    "ad": "Karahan Emlakçı2",
+    "id": 43484,
+    "kasa": 57190.39
+   },
+   {
+    "ad": "Karahan Bisikletçi",
+    "id": 43487,
+    "kasa": 46918.17
+   },
+   {
+    "ad": "Karahan Aktar",
+    "id": 43495,
+    "kasa": 13379.46,
+    "oto": "acik",
+    "raf": "1174/1280→full"
+   },
+   {
+    "ad": "Karahan İç giyim",
+    "id": 43597,
+    "kasa": 22871.82,
+    "oto": "acik",
+    "raf": "625/716→full"
+   },
+   {
+    "ad": "Karahan Ev yemekle",
+    "id": 43638,
+    "kasa": 9274.97,
+    "oto": "acik",
+    "raf": "406/528→full"
+   },
+   {
+    "ad": "Karahan Kafe",
+    "id": 43644,
+    "kasa": 23383.89,
+    "oto": "acik",
+    "raf": "4634/4955→full"
+   },
+   {
+    "ad": "Karahan Börekçi",
+    "id": 43654,
+    "kasa": 26618.69,
+    "oto": "acik",
+    "raf": "1485/2005→full"
+   },
+   {
+    "ad": "Karahan Tavukçu",
+    "id": 43735,
+    "kasa": 62642.27,
+    "oto": "acik",
+    "raf": "4867/5210→full"
+   },
+   {
+    "ad": "Karahan Ayakkabıcı",
+    "id": 43853,
+    "kasa": 82606.5,
+    "oto": "acik",
+    "raf": "973/1050→full"
+   },
+   {
+    "ad": "Karahan Balıkçı",
+    "id": 43860,
+    "kasa": 40356.61,
+    "oto": "acik",
+    "raf": "1492/1615→full"
+   },
+   {
+    "ad": "Karahan Çay ocağı",
+    "id": 43865,
+    "kasa": 6662.36,
+    "oto": "acik",
+    "raf": "2426/2660→full"
+   },
+   {
+    "ad": "Karahan Oto SR3",
+    "id": 44273,
+    "kasa": 211846.3
+   },
+   {
+    "ad": "Karahan Beyaz EŞ3.",
+    "id": 44278,
+    "kasa": 313857.14,
+    "oto": "acik",
+    "raf": "427/440→full"
+   },
+   {
+    "ad": "Karahan Fotoğraf3.",
+    "id": 44287,
+    "kasa": 53393.12
+   },
+   {
+    "ad": "Karahan Çantacı",
+    "id": 44289,
+    "kasa": 9283.91,
+    "oto": "acik",
+    "raf": "158/172→full"
+   },
+   {
+    "ad": "Karahan Araç kira3",
+    "id": 44295,
+    "kasa": 44965.08
+   },
+   {
+    "ad": "Karahan Dönerci",
+    "id": 44403,
+    "kasa": 25117.96,
+    "oto": "acik",
+    "raf": "950/1135→full"
+   },
+   {
+    "ad": "Karahan Çiğ köftec",
+    "id": 44408,
+    "kasa": 13170.2,
+    "oto": "acik",
+    "raf": "1228/1355→full"
+   },
+   {
+    "ad": "Karahan Terzi",
+    "id": 44409,
+    "kasa": 4187.16
+   },
+   {
+    "ad": "Karahan Hamburgerc",
+    "id": 44884,
+    "kasa": 13064.37,
+    "oto": "acik",
+    "raf": "337/450→full"
+   },
+   {
+    "ad": "Karahan Otopark",
+    "id": 44891,
+    "kasa": 3635.84
+   },
+   {
+    "ad": "Karahan Kitapçı",
+    "id": 45347,
+    "kasa": 6512.75,
+    "oto": "acik",
+    "raf": "182/213→full"
+   },
+   {
+    "ad": "Karahan Oto galer2",
+    "id": 45859,
+    "kasa": 4739.09
+   },
+   {
+    "ad": "Karahan Spor s.2",
+    "id": 45865,
+    "kasa": 34803.14
+   },
+   {
+    "ad": "Karahan Kebap2",
+    "id": 45868,
+    "kasa": 38255.87,
+    "oto": "acik",
+    "raf": "557/715→full"
+   },
+   {
+    "ad": "Karahan Oto yıka2",
+    "id": 45873,
+    "kasa": 67376.2
+   },
+   {
+    "ad": "Karahan Kargo 2",
+    "id": 45877,
+    "kasa": 28479.16
+   },
+   {
+    "ad": "Karahan Oto s.2",
+    "id": 45883,
+    "kasa": 164116.53
+   },
+   {
+    "ad": "Karahan Araç kira2",
+    "id": 45887,
+    "kasa": 143477.07
+   },
+   {
+    "ad": "Karahan Elektro2",
+    "id": 45892,
+    "kasa": 442442.7,
+    "oto": "acik",
+    "raf": "600/640→full"
+   },
+   {
+    "ad": "KarahanKuyum2",
+    "id": 45901,
+    "kasa": 26423.8,
+    "oto": "acik",
+    "raf": "152/161→full"
+   },
+   {
+    "ad": "Karahan Tatlıcı",
+    "id": 47790,
+    "kasa": 41147.72,
+    "oto": "acik",
+    "raf": "3830/4160→full"
+   },
+   {
+    "ad": "Karahan Nakliye",
+    "id": 47792,
+    "kasa": 102807.83
+   },
+   {
+    "ad": "Karahan Hukuk büro",
+    "id": 47798,
+    "kasa": 9634.93
+   },
+   {
+    "ad": "Karahan Diş kliniğ",
+    "id": 47807,
+    "kasa": 53922.75
+   },
+   {
+    "ad": "Karahan Kozmetik v",
+    "id": 47967,
+    "kasa": 26145.56,
+    "oto": "acik",
+    "raf": "868/958→full"
+   },
+   {
+    "ad": "Karahan Mobilya3.",
+    "id": 47975,
+    "kasa": 140424.78,
+    "oto": "acik",
+    "raf": "627/640→full"
+   },
+   {
+    "ad": "Karahan Dondurmacı",
+    "id": 48360,
+    "kasa": 7709.68,
+    "oto": "acik",
+    "raf": "790/901→full"
+   },
+   {
+    "ad": "Karahan Elektrik3.",
+    "id": 48393,
+    "kasa": 14891.61
+   },
+   {
+    "ad": "Karahan Kuruyemişç",
+    "id": 48532,
+    "kasa": 56790.5,
+    "oto": "acik",
+    "raf": "686/808→full"
+   },
+   {
+    "ad": "Karahan Market2",
+    "id": 48536,
+    "kasa": 76692.25,
+    "oto": "acik",
+    "raf": "15193/17070→full"
+   },
+   {
+    "ad": "Karahan Müzik ve d",
+    "id": 48573,
+    "kasa": 3828.05
+   },
+   {
+    "ad": "Karahan Optik2",
+    "id": 48574,
+    "kasa": 16906.88,
+    "oto": "acik",
+    "raf": "143/160→full"
+   },
+   {
+    "ad": "Karahan Kuru temiz",
+    "id": 48581,
+    "kasa": 19527.86
+   },
+   {
+    "ad": "Karahan Hırdavat2",
+    "id": 48583,
+    "kasa": 98940.02,
+    "oto": "acik",
+    "raf": "1156/1305→full"
+   },
+   {
+    "ad": "Karahan Ayakkabı2",
+    "id": 48586,
+    "kasa": 34900.8,
+    "oto": "acik",
+    "raf": "184/221→full"
+   },
+   {
+    "ad": "Karahan Çilingir",
+    "id": 48588,
+    "kasa": 4891.55
+   },
+   {
+    "ad": "Karahan Çanta2",
+    "id": 48592,
+    "kasa": 13823.44,
+    "oto": "acik",
+    "raf": "152/172→full"
+   },
+   {
+    "ad": "Karahan Spor mağa2",
+    "id": 48593,
+    "kasa": 87529.45,
+    "oto": "acik",
+    "raf": "664/761→full"
+   },
+   {
+    "ad": "Karahan Bebe2",
+    "id": 48904,
+    "kasa": 44007.41,
+    "oto": "acik",
+    "raf": "439/492→full"
+   },
+   {
+    "ad": "Karahan Diş klinik",
+    "id": 49794,
+    "kasa": 8794.25
+   },
+   {
+    "ad": "Karahan Diş klini3",
+    "id": 49796,
+    "kasa": 49203.75
+   },
+   {
+    "ad": "Karahan Otopark2",
+    "id": 49993,
+    "kasa": 7559.77
+   },
+   {
+    "ad": "Karahan Emlak4",
+    "id": 50488,
+    "kasa": 10663.9
+   },
+   {
+    "ad": "Karahan Kargo 4",
+    "id": 50490,
+    "kasa": 33603.66
+   },
+   {
+    "ad": "Karahan Fotoğraf4",
+    "id": 50496,
+    "kasa": 112854.07
+   },
+   {
+    "ad": "Karahan Araç kira4",
+    "id": 50498,
+    "kasa": 139250.45
+   },
+   {
+    "ad": "Karahan Kuyum4",
+    "id": 50502,
+    "kasa": 38615.3,
+    "oto": "acik",
+    "raf": "153/161→full"
+   },
+   {
+    "ad": "Karahan Spor 4",
+    "id": 50539,
+    "kasa": 13725.98
+   },
+   {
+    "ad": "Karahan Bar4",
+    "id": 50542,
+    "oto": "acik"
+   },
+   {
+    "ad": "Karahan Telefon4",
+    "id": 50552,
+    "kasa": 4676.39,
+    "oto": "acik",
+    "raf": "312/325→full"
+   },
+   {
+    "ad": "Karahan Kuaför4",
+    "id": 50555,
+    "kasa": 9419.14
+   },
+   {
+    "ad": "Karahan Su t4",
+    "id": 50557,
+    "kasa": 12618.88
+   },
+   {
+    "ad": "Karahan Oto yedek4",
+    "id": 50562,
+    "kasa": 34827.75
+   },
+   {
+    "ad": "Karahan Kasap4",
+    "id": 52844,
+    "kasa": 42822.21,
+    "oto": "acik",
+    "raf": "458/540→full"
+   },
+   {
+    "ad": "Karahan Şarküteri4",
+    "id": 52846,
+    "kasa": 62751.98,
+    "oto": "acik",
+    "raf": "692/813→full"
+   },
+   {
+    "ad": "Karahan Balıkçı4",
+    "id": 52848,
+    "kasa": 29014.63,
+    "oto": "acik",
+    "raf": "577/680→full"
+   },
+   {
+    "ad": "Karahan Kuruyemiş4",
+    "id": 52884,
+    "kasa": 61510.3,
+    "oto": "acik",
+    "raf": "695/808→full"
+   },
+   {
+    "ad": "Karahan Pideci4",
+    "id": 52886,
+    "kasa": 27713.29,
+    "oto": "acik",
+    "raf": "327/524→full"
+   },
+   {
+    "ad": "Karahan Market4",
+    "id": 52888,
+    "kasa": 75042.32,
+    "oto": "acik",
+    "raf": "15219/17070→full"
+   },
+   {
+    "ad": "Karahan Aktar4",
+    "id": 52890,
+    "kasa": 11567.17,
+    "oto": "acik",
+    "raf": "450/544→full"
+   },
+   {
+    "ad": "Karahan Tatlıcı4",
+    "id": 52891,
+    "kasa": 33581.57,
+    "oto": "acik",
+    "raf": "1769/2050→full"
+   },
+   {
+    "ad": "Karahan Kozmetik4",
+    "id": 52892,
+    "kasa": 21730.59,
+    "oto": "acik",
+    "raf": "328/403→full"
+   },
+   {
+    "ad": "Karahan Nalbur4",
+    "id": 52901,
+    "kasa": 73597.55,
+    "oto": "acik",
+    "raf": "3883/4320→full"
+   },
+   {
+    "ad": "Karahan Çantacı4",
+    "id": 52937,
+    "kasa": 11627.43,
+    "oto": "acik",
+    "raf": "148/172→full"
+   },
+   {
+    "ad": "Karahan Bilgisayar",
+    "id": 52942,
+    "kasa": 574818.54,
+    "oto": "acik",
+    "raf": "372/430→full"
+   },
+   {
+    "ad": "Karahan Hırdavat4",
+    "id": 52948,
+    "kasa": 32390.69,
+    "oto": "acik",
+    "raf": "226/275→full"
+   },
+   {
+    "ad": "Karahan Züccaciye4",
+    "id": 52951,
+    "kasa": 97399.46,
+    "oto": "acik",
+    "raf": "1393/1555→full"
+   },
+   {
+    "ad": "Karahan Temizlik4",
+    "id": 52952,
+    "kasa": 12060.09,
+    "oto": "acik",
+    "raf": "767/910→full"
+   },
+   {
+    "ad": "Karahan Ayakkabı4",
+    "id": 52953,
+    "kasa": 36260.0,
+    "oto": "acik",
+    "raf": "184/221→full"
+   },
+   {
+    "ad": "Karahan Telefoncu4",
+    "id": 52954,
+    "kasa": 134164.51,
+    "oto": "acik",
+    "raf": "674/775→full"
+   },
+   {
+    "ad": "Karahan Optik4",
+    "id": 52960,
+    "kasa": 27507.73,
+    "oto": "acik",
+    "raf": "143/160→full"
+   },
+   {
+    "ad": "Karahan Veteriner4",
+    "id": 52961,
+    "kasa": 15511.55
+   },
+   {
+    "ad": "Karahan Pizzacı4",
+    "id": 52997,
+    "kasa": 23130.92,
+    "oto": "acik",
+    "raf": "417/633→full"
+   },
+   {
+    "ad": "Karahan Çiğ köfte4",
+    "id": 53001,
+    "kasa": 20828.62,
+    "oto": "acik",
+    "raf": "1151/1355→full"
+   },
+   {
+    "ad": "Karahan Halıcı4",
+    "id": 53002,
+    "kasa": 40378.49,
+    "oto": "acik",
+    "raf": "294/320→full"
+   },
+   {
+    "ad": "Karahan Pastane4",
+    "id": 53013,
+    "kasa": 48231.83,
+    "oto": "acik",
+    "raf": "2657/3005→full"
+   },
+   {
+    "ad": "Karahan Boya 4",
+    "id": 53017,
+    "kasa": 37703.25,
+    "oto": "acik",
+    "raf": "226/275→full"
+   },
+   {
+    "ad": "Karahan Perdeci4",
+    "id": 53019,
+    "kasa": 33282.7,
+    "oto": "acik",
+    "raf": "288/320→full"
+   },
+   {
+    "ad": "Karahan Kebap4",
+    "id": 53022,
+    "kasa": 149576.81,
+    "oto": "acik",
+    "raf": "2687/3410→full"
+   },
+   {
+    "ad": "Karahan Halı4",
+    "id": 53024,
+    "kasa": 25025.4
+   },
+   {
+    "ad": "Karahan Diş k.5",
+    "id": 53531,
+    "kasa": 21847.0
+   },
+   {
+    "ad": "Karahan Araç kira5",
+    "id": 53538,
+    "kasa": 101273.99
+   },
+   {
+    "ad": "Karahan Oto serv5",
+    "id": 53543,
+    "kasa": 174751.01
+   },
+   {
+    "ad": "Karahan Bebek mağ4",
+    "id": 53990,
+    "kasa": 36216.44,
+    "oto": "acik",
+    "raf": "435/492→full"
+   },
+   {
+    "ad": "Karahan Yapı 5",
+    "id": 53991,
+    "kasa": 55123.55,
+    "oto": "acik",
+    "raf": "703/765→full"
+   },
+   {
+    "ad": "Karahan Beyaz E.5",
+    "id": 53992,
+    "kasa": 299717.14,
+    "oto": "acik",
+    "raf": "427/440→full"
+   },
+   {
+    "ad": "Karahan Kebapçı5",
+    "id": 53996,
+    "kasa": 88505.45,
+    "oto": "acik",
+    "raf": "1263/1700→full"
+   },
+   {
+    "ad": "Karahan Kargo5",
+    "id": 54010,
+    "kasa": 39890.83
+   },
+   {
+    "ad": "Karahan Emlakçı5",
+    "id": 54013,
+    "kasa": 19068.9
+   },
+   {
+    "ad": "Karahan Bakkal5",
+    "id": 54014,
+    "kasa": 24427.29,
+    "oto": "acik",
+    "raf": "3982/4590→full"
+   },
+   {
+    "ad": "Karahan Oto yıka5",
+    "id": 54017,
+    "kasa": 99369.42
+   },
+   {
+    "ad": "Karahan Oto gal5",
+    "id": 54022,
+    "kasa": 6584.14
+   },
+   {
+    "ad": "Karahan Fotoğraf5",
+    "id": 54038,
+    "kasa": 55599.42
+   },
+   {
+    "ad": "Karahan Reklam5",
+    "id": 54041,
+    "kasa": 37348.46
+   },
+   {
+    "ad": "Karahan Matbaa5",
+    "id": 54045,
+    "kasa": 44596.58
+   },
+   {
+    "ad": "Karahan Veteriner5",
+    "id": 54387,
+    "kasa": 10647.25
+   },
+   {
+    "ad": "Karahan Kuruyemiş5",
+    "id": 54805,
+    "kasa": 116191.61,
+    "oto": "acik",
+    "raf": "1715/1945→full"
+   },
+   {
+    "ad": "Karahan Kuru t5",
+    "id": 54809,
+    "kasa": 6605.7
+   },
+   {
+    "ad": "Karahan Yapı mark5",
+    "id": 54814,
+    "kasa": 108344.25,
+    "oto": "acik",
+    "raf": "1392/1545→full"
+   },
+   {
+    "ad": "Karahan Mobilya5",
+    "id": 54817,
+    "kasa": 131476.14,
+    "oto": "acik",
+    "raf": "307/320→full"
+   },
+   {
+    "ad": "Karahan Market5",
+    "id": 54818,
+    "kasa": 53177.69,
+    "oto": "acik",
+    "raf": "15728/17070→full"
+   },
+   {
+    "ad": "Karahan Kasap5",
+    "id": 54820,
+    "kasa": 93889.68,
+    "oto": "acik",
+    "raf": "1135/1295→full"
+   },
+   {
+    "ad": "Karahan Kuyumcu5",
+    "id": 54821,
+    "kasa": 104362.3,
+    "oto": "acik",
+    "raf": "148/161→full"
+   },
+   {
+    "ad": "Karahan Ziraat b5",
+    "id": 54839,
+    "kasa": 81788.21,
+    "oto": "acik",
+    "raf": "782/900→full"
+   },
+   {
+    "ad": "Karahan Dershane5",
+    "id": 54841,
+    "kasa": 15689.97
+   },
+   {
+    "ad": "Karahan Lokanta5",
+    "id": 54846,
+    "kasa": 89811.98,
+    "oto": "acik",
+    "raf": "1521/2230→full"
+   },
+   {
+    "ad": "Karahan Tavukçu5",
+    "id": 54850,
+    "kasa": 53454.09,
+    "oto": "acik",
+    "raf": "2265/2580→full"
+   },
+   {
+    "ad": "Karahan Balıkçı5",
+    "id": 54851,
+    "kasa": 59275.42,
+    "oto": "acik",
+    "raf": "1422/1615→full"
+   },
+   {
+    "ad": "Karahan Fırın5",
+    "id": 54852,
+    "kasa": 53507.25,
+    "oto": "acik",
+    "raf": "9490/12430→full"
+   },
+   {
+    "ad": "Karahan Dönerci5",
+    "id": 54853,
+    "kasa": 66721.46,
+    "oto": "acik",
+    "raf": "2185/2715→full"
+   },
+   {
+    "ad": "5Karahan Manav",
+    "id": 54858,
+    "kasa": 18810.72,
+    "oto": "acik",
+    "raf": "4111/4840→full"
+   },
+   {
+    "ad": "Karahan Kitapçı5",
+    "id": 54862,
+    "kasa": 8063.75,
+    "oto": "acik",
+    "raf": "179/213→full"
+   },
+   {
+    "ad": "Karahan Börekçi5",
+    "id": 54865,
+    "kasa": 20257.9,
+    "oto": "acik",
+    "raf": "437/840→full"
+   },
+   {
+    "ad": "Karahan Kuaför5",
+    "id": 54900,
+    "kasa": 15060.98
+   },
+   {
+    "ad": "Karahan Kreş5",
+    "id": 54901,
+    "kasa": 9992.79
+   },
+   {
+    "ad": "Karahan Kafe5",
+    "id": 54902,
+    "kasa": 33925.25,
+    "oto": "acik",
+    "raf": "4433/4955→full"
+   },
+   {
+    "ad": "Karahan Hamburger5",
+    "id": 54907,
+    "kasa": 17462.28,
+    "oto": "acik",
+    "raf": "275/450→full"
+   },
+   {
+    "ad": "Karahan Nalbur5",
+    "id": 54909,
+    "kasa": 19954.61,
+    "oto": "acik",
+    "raf": "775/900→full"
+   },
+   {
+    "ad": "Karahan Züccaciye5",
+    "id": 54916,
+    "kasa": 51781.31,
+    "oto": "acik",
+    "raf": "674/763→full"
+   },
+   {
+    "ad": "Karahan Özel okul",
+    "id": 58478,
+    "kasa": 13954.86
+   },
+   {
+    "ad": "Karahan Düğün salo",
+    "id": 58479,
+    "kasa": 494375.65
+   },
+   {
+    "ad": "Karahan Kargo 6",
+    "id": 58799,
+    "kasa": 34502.36
+   },
+   {
+    "ad": "Karahan Emlakçı6",
+    "id": 58800,
+    "kasa": 42370.15
+   },
+   {
+    "ad": "Karahan Fotoğraf6",
+    "id": 58801,
+    "kasa": 106641.8
+   },
+   {
+    "ad": "Karahan Reklam6",
+    "id": 58803,
+    "kasa": 14028.46
+   },
+   {
+    "ad": "Karahan Eczane",
+    "id": 58804,
+    "kasa": 59035.43,
+    "oto": "acik",
+    "raf": "1059/1330→full"
+   },
+   {
+    "ad": "Karahan Giyim6",
+    "id": 58807,
+    "kasa": 63316.22,
+    "oto": "acik",
+    "raf": "668/768→full"
+   },
+   {
+    "ad": "Karahan Bilgis.6",
+    "id": 58810,
+    "kasa": 193973.1,
+    "oto": "acik",
+    "raf": "179/206→full"
+   },
+   {
+    "ad": "Karahan Telefoncu6",
+    "id": 58812,
+    "kasa": 191593.86,
+    "oto": "acik",
+    "raf": "669/775→full"
+   },
+   {
+    "ad": "Karahan Kuaför6",
+    "id": 58813,
+    "kasa": 17941.24
+   },
+   {
+    "ad": "Karahan Gümrük6",
+    "id": 58815,
+    "kasa": 9654.87
+   },
+   {
+    "ad": "Karahan Su tesisa6",
+    "id": 58817,
+    "kasa": 32542.78
+   },
+   {
+    "ad": "Karahan Oto yıka6",
+    "id": 58819,
+    "kasa": 69089.2
+   },
+   {
+    "ad": "Karahan Diş k6",
+    "id": 59921,
+    "kasa": 66384.0
+   },
+   {
+    "ad": "Karahan Araç kira6",
+    "id": 59922,
+    "kasa": 152729.03
+   },
+   {
+    "ad": "Karahan Spor s6",
+    "id": 59925,
+    "kasa": 44243.74
+   },
+   {
+    "ad": "Karahan Oto s6",
+    "id": 59929,
+    "kasa": 221488.48
+   },
+   {
+    "ad": "Karahan Kozmetik6",
+    "id": 59930,
+    "kasa": 18876.14,
+    "oto": "acik",
+    "raf": "338/403→full"
+   },
+   {
+    "ad": "Karahan Dondurma6",
+    "id": 59932,
+    "kasa": 10272.09,
+    "oto": "acik",
+    "raf": "747/901→full"
+   },
+   {
+    "ad": "Karahan Kuyumcu6",
+    "id": 59935,
+    "kasa": 159423.8,
+    "oto": "acik",
+    "raf": "147/161→full"
+   },
+   {
+    "ad": "Karahan Dönerci6",
+    "id": 59936,
+    "kasa": 34527.58,
+    "oto": "acik",
+    "raf": "849/1135→full"
+   },
+   {
+    "ad": "Karahan Fidanlık6",
+    "id": 91122,
+    "kasa": 11970.2,
+    "oto": "acik",
+    "raf": "240/285→full"
+   }
+  ],
+  "hatalar": [],
+  "debug": []
+ },
+ "dukkan-ac": {
+  "ilce": 2034,
+  "acilanlar": [],
+  "secenekler": [],
+  "denemeler": [
+   {
+    "no": 229,
+    "hata": "Böyle bir dükkân yeri yok."
+   },
+   {
+    "no": 231,
+    "hata": "Böyle bir dükkân yeri yok."
+   },
+   {
+    "no": 233,
+    "hata": "Böyle bir dükkân yeri yok."
+   },
+   {
+    "no": 237,
+    "hata": "Böyle bir dükkân yeri yok."
+   },
+   {
+    "no": 243,
+    "hata": "Böyle bir dükkân yeri yok."
+   },
+   {
+    "no": 244,
+    "hata": "Böyle bir dükkân yeri yok."
+   },
+   {
+    "no": 247,
+    "hata": "Böyle bir dükkân yeri yok."
+   },
+   {
+    "no": 252,
+    "hata": "Böyle bir dükkân yeri yok."
+   }
+  ],
+  "mevcut_turler": [
+   "aktar",
+   "ayakkabici",
+   "bakkal",
+   "balikci",
+   "bar",
+   "bebek_magazasi",
+   "beyaz_esya",
+   "bilgisayarci",
+   "bisikletci",
+   "borekci",
+   "boyaci",
+   "bufe",
+   "camasirhane",
+   "cantaci",
+   "cay_ocagi",
+   "cicekci",
+   "cigkofte",
+   "cilingir",
+   "dershane",
+   "dis_klinigi",
+   "disko",
+   "dondurmaci",
+   "donerci",
+   "doviz_burosu",
+   "dugun_salonu",
+   "eczane",
+   "elektrikci",
+   "elektronik",
+   "emlakci",
+   "ev_yemekleri",
+   "fidanlik",
+   "firin",
+   "fotografci",
+   "giyim",
+   "gumruk_musaviri",
+   "guzellik",
+   "hali_yikama",
+   "halici",
+   "hamam",
+   "hamburgerci",
+   "hirdavat",
+   "hukuk_burosu",
+   "ic_giyim",
+   "internet_kafe",
+   "kafe",
+   "kargo",
+   "kasap",
+   "kebapci",
+   "kirtasiye",
+   "kitapci",
+   "kozmetik",
+   "kres",
+   "kuafor",
+   "kurs",
+   "kuru_temizleme",
+   "kuruyemis",
+   "kuyumcu",
+   "lastikci",
+   "lokanta",
+   "mali_musavir",
+   "manav",
+   "market",
+   "matbaa",
+   "mobilya",
+   "muzik_kursu",
+   "nakliyat",
+   "nalbur",
+   "optik",
+   "oto_galeri",
+   "oto_servis",
+   "oto_yikama",
+   "otopark",
+   "oyuncakci",
+   "ozel_okul",
+   "pastane",
+   "perdeci",
+   "petshop",
+   "pideci",
+   "pizzaci",
+   "reklam_ajansi",
+   "rent_a_car",
+   "saatci",
+   "sarkuteri",
+   "seyahat_acentesi",
+   "sigorta_acentesi",
+   "spor_magazasi",
+   "spor_salonu",
+   "surucu_kursu",
+   "tatlici",
+   "tavukcu",
+   "teknik_servis",
+   "telefoncu",
+   "temizlik_magazasi",
+   "terzi",
+   "tesisatci",
+   "veteriner",
+   "yapi_marketi",
+   "yedek_parca",
+   "ziraat_bayi",
+   "zuccaciye"
+  ],
+  "atlanan": [
+   "kargo",
+   "oto_yikama"
+  ],
+  "bakiye": 91425213.79,
+  "oyuncu_seviye": 13,
+  "sokak_degistirildi": 5,
+  "bos_parsel": 8,
+  "kalan_bakiye": 91425213.79
+ },
+ "bot": {
+  "olay": "kosu_bitti",
+  "tur": 44,
+  "kazanc": 64033.7,
+  "servis": 352,
+  "bahsis": 69,
+  "bakiye": 91484102.31,
+  "siparis_toplam": 20,
+  "siparis_basari": 20,
+  "gecen_dk": 15.1,
+  "bot_versiyon": "v2",
+  "ts": 1791890999179
+ }
+}
