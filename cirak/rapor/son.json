@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 13,
   "tp": 5773,
-  "nakit_kurus": 5799108804,
+  "nakit_kurus": 5799310487,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 6059712110,
-   "nakit": 5799108804,
+   "nakit": 5799310487,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 8426200000,
+     "limit": 8426300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 14043700000,
+     "limit": 14043800000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 16852500000,
+     "limit": 16852600000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791858375225,
+   "ms": 1791859445151,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 2,
    "haftaSonu": false,
    "saat": 2,
-   "dakika": 26,
+   "dakika": 44,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "13 Ekim 2026, Salı"
   }
  },
  "banka": {
-  "nakit": 57991088.04,
+  "nakit": 57993104.87,
   "vadesiz": 60597121.1,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -1161,23 +1161,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 57991088.04,
+  "bakiye": 57993104.87,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 5,
   "bos_parsel": 8,
-  "kalan_bakiye": 57991088.04
+  "kalan_bakiye": 57993104.87
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 40,
-  "kazanc": 2016.8,
-  "servis": 320,
-  "bahsis": 62,
-  "bakiye": 57993104.87,
-  "siparis_toplam": 19,
-  "siparis_basari": 19,
-  "gecen_dk": 15.1,
+  "tur": 62,
+  "kazanc": 2780.1,
+  "servis": 496,
+  "bahsis": 96,
+  "bakiye": 57995884.93,
+  "siparis_toplam": 24,
+  "siparis_basari": 24,
+  "gecen_dk": 15.2,
   "bot_versiyon": "v2",
-  "ts": 1791848616870
+  "ts": 1791849668846
  }
 }
