@@ -24247,3 +24247,31 @@
 {"olay": "siparis_tamam", "kazanilan": 81.0, "tezgah": "kestane", "ts": 1791914968996}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1791915169420}
 {"olay": "kosu_bitti", "tur": 12, "kazanc": 53023.7, "servis": 96, "bahsis": 20, "bakiye": 35760397.93, "siparis_toplam": 6, "siparis_basari": 2, "gecen_dk": 15.3, "bot_versiyon": "v2", "ts": 1791915171714}
+{"olay": "kosu_basladi", "sure_dk": 15.0, "bakiye": 33419196.97, "bot_versiyon": "v2_hizli_siparis", "ts": 1791915762242}
+{"olay": "siparis_basladi", "adet": 14, "sure_sn": 30.0, "odul": 50.0, "tezgah": "semsiye", "ts": 1791915768746}
+{"olay": "siparis_kacti", "tezgah": "semsiye", "ts": 1791915774432}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1791916013154}
+{"olay": "sokak", "tur": "kedi", "id": "1745:kedi:622193", "sonuc": {"tutar": -2000, "tecrube": 1, "metin": "Kediyi besledin. Mırlayarak ayağına süründü.", "bakiye": 3341920353, "hareket": 1802571}, "ts": 1791916017777}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "misir", "ts": 1791916043642}
+{"olay": "siparis_kacti", "tezgah": "misir", "ts": 1791916048326}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1791916057123}
+{"olay": "siparis_kacti", "tezgah": "pamuk", "ts": 1791916061833}
+{"olay": "ara_ozet", "tur": 5, "kazanc": 144.8, "servis": 40, "bakiye": 33419321.79, "siparis": "0/3", "gecen_dk": 5.1, "ts": 1791916065506}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1791916321814}
+{"olay": "siparis_basladi", "adet": 12, "sure_sn": 30.0, "odul": 50.0, "tezgah": "ayakkabi", "ts": 1791916327319}
+{"olay": "siparis_kacti", "tezgah": "ayakkabi", "ts": 1791916332540}
+{"olay": "ara_ozet", "tur": 10, "kazanc": 347.2, "servis": 80, "bakiye": 33419524.14, "siparis": "0/4", "gecen_dk": 9.9, "ts": 1791916358777}
+{"olay": "siparis_basladi", "adet": 8, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1791916364958}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1791916368715}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "simit", "ts": 1791916371343}
+{"olay": "siparis_kacti", "tezgah": "simit", "ts": 1791916376028}
+{"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 50.0, "tezgah": "misir", "ts": 1791916377894}
+{"olay": "siparis_kacti", "tezgah": "misir", "ts": 1791916382694}
+{"olay": "siparis_basladi", "adet": 8, "sure_sn": 30.0, "odul": 81.0, "tezgah": "kestane", "ts": 1791916383832}
+{"olay": "siparis_tamam", "kazanilan": 81.0, "tezgah": "kestane", "ts": 1791916387636}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1791916622846}
+{"olay": "sokak", "tur": "ambulans", "id": "1745:ambulans:373315", "sonuc": {"tutar": 27500, "tecrube": 2, "metin": "İhbarın alındı. Ambulans yola çıktı; sağlık ekibine yer aç.", "bakiye": 3341995578, "hareket": 1803822}, "ts": 1791916627614}
+{"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pazar", "ts": 1791916632546}
+{"olay": "siparis_kacti", "tezgah": "pazar", "ts": 1791916637337}
+{"olay": "ara_ozet", "tur": 15, "kazanc": 632.3, "servis": 120, "bakiye": 33420084.31, "siparis": "2/9", "gecen_dk": 15.1, "ts": 1791916670444}
+{"olay": "kosu_bitti", "tur": 15, "kazanc": 632.3, "servis": 120, "bahsis": 28, "bakiye": 33420084.31, "siparis_toplam": 9, "siparis_basari": 2, "gecen_dk": 15.2, "bot_versiyon": "v2", "ts": 1791916672884}
