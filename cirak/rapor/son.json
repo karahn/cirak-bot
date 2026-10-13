@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 13,
-  "tp": 6153,
-  "nakit_kurus": 736077450,
+  "tp": 6170,
+  "nakit_kurus": 740453585,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 16059712110,
-   "nakit": 736077450,
+   "nakit": 740453585,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 9902200000,
+     "limit": 9903600000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 16503700000,
+     "limit": 16506000000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 13202900000,
+     "limit": 13204800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 19804400000,
+     "limit": 19807200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791912848612,
+   "ms": 1791913986718,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 2,
    "haftaSonu": false,
    "saat": 17,
-   "dakika": 34,
+   "dakika": 53,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "13 Ekim 2026, Salı"
   }
  },
  "banka": {
-  "nakit": 7360774.5,
+  "nakit": 7404535.85,
   "vadesiz": 160597121.1,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -367,7 +367,7 @@
  },
  "seviye-bildir": {
   "seviye": 13,
-  "tp": 6153,
+  "tp": 6170,
   "onceki": 13,
   "yeni_mi": false
  },
@@ -375,7 +375,7 @@
   "toplam": 225,
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
-  "raf_doldurulan": 1,
+  "raf_doldurulan": 0,
   "oto_acilan": 127,
   "detay": [
    {
@@ -911,8 +911,7 @@
    {
     "ad": "Karahan Lokanta5",
     "id": 54846,
-    "oto": "acik",
-    "raf": "2171/2230→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Tavukçu5",
@@ -1036,6 +1035,10 @@
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
+    "no": 233,
+    "hata": "Böyle bir dükkân yeri yok."
+   },
+   {
     "no": 237,
     "hata": "Böyle bir dükkân yeri yok."
    },
@@ -1045,10 +1048,6 @@
    },
    {
     "no": 247,
-    "hata": "Böyle bir dükkân yeri yok."
-   },
-   {
-    "no": 251,
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
@@ -1162,23 +1161,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 7357588.5,
+  "bakiye": 7404535.85,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 5,
   "bos_parsel": 8,
-  "kalan_bakiye": 7357588.5
+  "kalan_bakiye": 7404535.85
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 17,
-  "kazanc": 51632.4,
-  "servis": 136,
-  "bahsis": 22,
-  "bakiye": 7404535.85,
-  "siparis_toplam": 10,
+  "tur": 2,
+  "kazanc": 75.8,
+  "servis": 16,
+  "bahsis": 5,
+  "bakiye": 19641961.15,
+  "siparis_toplam": 3,
   "siparis_basari": 0,
-  "gecen_dk": 15.1,
+  "gecen_dk": 16.1,
   "bot_versiyon": "v2",
-  "ts": 1791903157808
+  "ts": 1791904420044
  }
 }
