@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 13,
   "tp": 5888,
-  "nakit_kurus": 5851892137,
+  "nakit_kurus": 5850881583,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 6059712110,
-   "nakit": 5851892137,
+   "nakit": 5850881583,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 8441700000,
+     "limit": 8441800000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 14069600000,
+     "limit": 14069700000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 11255700000,
+     "limit": 11255800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 16883500000,
+     "limit": 16883700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791875779631,
+   "ms": 1791876844658,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 2,
    "haftaSonu": false,
    "saat": 7,
-   "dakika": 16,
+   "dakika": 34,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "13 Ekim 2026, Salı"
   }
  },
  "banka": {
-  "nakit": 58518921.37,
+  "nakit": 58508815.83,
   "vadesiz": 60597121.1,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -375,7 +375,7 @@
   "toplam": 225,
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
-  "raf_doldurulan": 4,
+  "raf_doldurulan": 0,
   "oto_acilan": 127,
   "detay": [
    {
@@ -396,8 +396,7 @@
    {
     "ad": "Karahan Büfe",
     "id": 5927,
-    "oto": "acik",
-    "raf": "2649/2815→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Halıcı",
@@ -522,8 +521,7 @@
    {
     "ad": "Karahan Fırın",
     "id": 43413,
-    "oto": "acik",
-    "raf": "5640/6150→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Bebek",
@@ -583,8 +581,7 @@
    {
     "ad": "Karahan Börekçi",
     "id": 43654,
-    "oto": "acik",
-    "raf": "1787/2005→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Tavukçu",
@@ -604,8 +601,7 @@
    {
     "ad": "Karahan Çay ocağı",
     "id": 43865,
-    "oto": "acik",
-    "raf": "2559/2660→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Beyaz EŞ3.",
@@ -1043,15 +1039,15 @@
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
+    "no": 231,
+    "hata": "Böyle bir dükkân yeri yok."
+   },
+   {
     "no": 233,
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
-    "no": 237,
-    "hata": "Böyle bir dükkân yeri yok."
-   },
-   {
-    "no": 251,
+    "no": 249,
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
@@ -1165,23 +1161,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 58506356.29,
+  "bakiye": 58508815.83,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 5,
   "bos_parsel": 8,
-  "kalan_bakiye": 58506356.29
+  "kalan_bakiye": 58508815.83
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 52,
-  "kazanc": 2459.5,
-  "servis": 416,
-  "bahsis": 81,
-  "bakiye": 58508815.83,
-  "siparis_toplam": 21,
-  "siparis_basari": 21,
+  "tur": 13,
+  "kazanc": 591.6,
+  "servis": 104,
+  "bahsis": 26,
+  "bakiye": 58509407.47,
+  "siparis_toplam": 7,
+  "siparis_basari": 4,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791866018877
+  "ts": 1791867292492
  }
 }
