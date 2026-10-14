@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 13,
   "tp": 6391,
-  "nakit_kurus": 122507747,
+  "nakit_kurus": 122500795,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 19259712110,
-   "nakit": 122507747,
+   "nakit": 122500795,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791947672822,
+   "ms": 1791948827917,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 3,
    "haftaSonu": false,
    "saat": 3,
-   "dakika": 14,
+   "dakika": 33,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "14 Ekim 2026, Çarşamba"
   }
  },
  "banka": {
-  "nakit": 1225077.47,
+  "nakit": 1225007.95,
   "vadesiz": 192597121.1,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -375,7 +375,7 @@
   "toplam": 225,
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
-  "raf_doldurulan": 2,
+  "raf_doldurulan": 0,
   "oto_acilan": 127,
   "detay": [
    {
@@ -436,8 +436,7 @@
    {
     "ad": "Karahan Bar",
     "id": 31289,
-    "oto": "acik",
-    "raf": "478/481→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Mobilya",
@@ -717,8 +716,7 @@
    {
     "ad": "Karahan Bar4",
     "id": 50542,
-    "oto": "acik",
-    "raf": "477/481→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Telefon4",
@@ -1163,23 +1161,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 1224797.57,
+  "bakiye": 1225007.95,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 5,
   "bos_parsel": 8,
-  "kalan_bakiye": 1224797.57
+  "kalan_bakiye": 1225007.95
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 8,
-  "kazanc": 210.4,
-  "servis": 64,
-  "bahsis": 13,
-  "bakiye": 1225007.95,
-  "siparis_toplam": 6,
-  "siparis_basari": 0,
-  "gecen_dk": 15.0,
+  "tur": 39,
+  "kazanc": 39977.2,
+  "servis": 312,
+  "bahsis": 75,
+  "bakiye": 1262084.55,
+  "siparis_toplam": 20,
+  "siparis_basari": 20,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791938000521
+  "ts": 1791939081697
  }
 }
