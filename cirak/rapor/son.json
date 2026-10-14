@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 13,
-  "tp": 6374,
-  "nakit_kurus": 112807341,
+  "tp": 6375,
+  "nakit_kurus": 112830949,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 19259712110,
-   "nakit": 112807341,
+   "nakit": 112830949,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791945464226,
+   "ms": 1791946629210,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 3,
    "haftaSonu": false,
    "saat": 2,
-   "dakika": 37,
+   "dakika": 57,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "14 Ekim 2026, Çarşamba"
   }
  },
  "banka": {
-  "nakit": 1128073.41,
+  "nakit": 1128309.49,
   "vadesiz": 192597121.1,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -367,7 +367,7 @@
  },
  "seviye-bildir": {
   "seviye": 13,
-  "tp": 6374,
+  "tp": 6375,
   "onceki": 13,
   "yeni_mi": false
  },
@@ -1035,10 +1035,6 @@
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
-    "no": 231,
-    "hata": "Böyle bir dükkân yeri yok."
-   },
-   {
     "no": 232,
     "hata": "Böyle bir dükkân yeri yok."
    },
@@ -1165,23 +1161,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 1128073.41,
+  "bakiye": 1128309.49,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 5,
-  "bos_parsel": 9,
-  "kalan_bakiye": 1128073.41
+  "bos_parsel": 8,
+  "kalan_bakiye": 1128309.49
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 8,
-  "kazanc": 256.1,
-  "servis": 64,
-  "bahsis": 13,
-  "bakiye": 1128309.49,
-  "siparis_toplam": 8,
-  "siparis_basari": 0,
-  "gecen_dk": 15.1,
+  "tur": 57,
+  "kazanc": 57693.5,
+  "servis": 456,
+  "bahsis": 100,
+  "bakiye": 1225077.47,
+  "siparis_toplam": 23,
+  "siparis_basari": 23,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1791935801440
+  "ts": 1791936846274
  }
 }
