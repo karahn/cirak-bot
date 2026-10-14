@@ -1,1 +1,1 @@
-1792012067149 tur=30 kazanc=1469 servis=240 siparis=15/16
+1792013412772 tur=14 kazanc=33629 servis=112 siparis=6/8
