@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 13,
   "tp": 6476,
-  "nakit_kurus": 155356918,
+  "nakit_kurus": 155428299,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 5200000000,
-   "nakit": 155356918,
+   "nakit": 155428299,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 9514200000,
+     "limit": 9514300000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791959852836,
+   "ms": 1791961003297,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 3,
    "haftaSonu": false,
    "saat": 6,
-   "dakika": 37,
+   "dakika": 56,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "14 Ekim 2026, Çarşamba"
   }
  },
  "banka": {
-  "nakit": 1553569.18,
+  "nakit": 1554282.99,
   "vadesiz": 52000000.0,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -1023,15 +1023,15 @@
   "secenekler": [],
   "denemeler": [
    {
+    "no": 213,
+    "hata": "Böyle bir dükkân yeri yok."
+   },
+   {
     "no": 215,
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
     "no": 229,
-    "hata": "Böyle bir dükkân yeri yok."
-   },
-   {
-    "no": 232,
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
@@ -1161,23 +1161,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 1553569.18,
+  "bakiye": 1554282.99,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 5,
   "bos_parsel": 8,
-  "kalan_bakiye": 1553569.18
+  "kalan_bakiye": 1554282.99
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 23,
-  "kazanc": 1217.8,
-  "servis": 184,
+  "tur": 28,
+  "kazanc": 56827.1,
+  "servis": 224,
   "bahsis": 43,
-  "bakiye": 1554282.99,
-  "siparis_toplam": 13,
-  "siparis_basari": 9,
-  "gecen_dk": 15.1,
+  "bakiye": 1665982.2,
+  "siparis_toplam": 15,
+  "siparis_basari": 12,
+  "gecen_dk": 15.2,
   "bot_versiyon": "v2",
-  "ts": 1791950176552
+  "ts": 1791951274645
  }
 }
