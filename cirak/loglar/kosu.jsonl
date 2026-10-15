@@ -32114,3 +32114,20 @@
 {"olay": "siparis_kacti", "tezgah": "pamuk", "ts": 1792083607231}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 174, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792083972897}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 30.1, "servis": 8, "bahsis": 1, "bakiye": 75205626.16, "siparis_toplam": 1, "siparis_basari": 0, "gecen_dk": 6.3, "bot_versiyon": "v2", "ts": 1792083975427}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 75205626.16, "bot_versiyon": "v2_hizli_siparis", "ts": 1792083996877}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3878969", "sonuc": {"tutar": 57500, "tecrube": 1, "metin": "Cüzdanı sahibine verdin. Sevinçten sana bir ödül bıraktı.", "itibar": 5, "bakiye": 7520620116, "hareket": 2236248}, "ts": 1792083999019}
+{"olay": "topladi", "adet": 12, "net": 57241.78, "ts": 1792084001609}
+{"olay": "ben_basla", "kod": "ayakkabi", "id": 138697, "ts": 1792084003384}
+{"olay": "cirak_basla", "kod": "su", "id": 138698, "ts": 1792084003573}
+{"olay": "cirak_basla", "kod": "semsiye", "id": 138699, "ts": 1792084003936}
+{"olay": "cirak_basla", "kod": "pamuk", "id": 138700, "ts": 1792084004203}
+{"olay": "cirak_basla", "kod": "simit", "id": 138701, "ts": 1792084004531}
+{"olay": "cirak_basla", "kod": "pazar", "id": 138702, "ts": 1792084004910}
+{"olay": "cirak_basla", "kod": "misir", "id": 138703, "ts": 1792084005091}
+{"olay": "cirak_basla", "kod": "kestane", "id": 138704, "ts": 1792084005477}
+{"olay": "cirak_basla", "kod": "midye", "id": 138706, "ts": 1792084005866}
+{"olay": "cirak_basla", "kod": "dondurma", "id": 138707, "ts": 1792084006252}
+{"olay": "cirak_basla", "kod": "gozleme", "id": 138708, "ts": 1792084006591}
+{"olay": "cirak_basla", "kod": "kokorec", "id": 138709, "ts": 1792084006937}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792084215772}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 57271.8, "servis": 8, "bahsis": 2, "bakiye": 75260761.1, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.7, "bot_versiyon": "v2", "ts": 1792084217967}
