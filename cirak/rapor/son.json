@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 14,
-  "tp": 7203,
-  "nakit_kurus": 6449430144,
+  "tp": 7219,
+  "nakit_kurus": 503805841,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -25,8 +25,8 @@
    "ad": "Bağlarbaşı Mahallesi"
   },
   "banka": {
-   "vadesiz": 0,
-   "nakit": 6449430144,
+   "vadesiz": 5400000000,
+   "nakit": 503805841,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 6797700000,
+     "limit": 6736200000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 11329500000,
+     "limit": 11227100000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 9063600000,
+     "limit": 8981600000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 13595400000,
+     "limit": 13472500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -133,7 +133,7 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 0,
+   "net": 5400000000,
    "krediNotu": {
     "puan": 1396,
     "bant": "Az riskli",
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792057513841,
+   "ms": 1792058571627,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -153,16 +153,16 @@
    "haftaGunu": "Perşembe",
    "haftaGunuNo": 4,
    "haftaSonu": false,
-   "saat": 9,
-   "dakika": 45,
+   "saat": 10,
+   "dakika": 2,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "15 Ekim 2026, Perşembe"
   }
  },
  "banka": {
-  "nakit": 64494301.44,
-  "vadesiz": 0.0,
+  "nakit": 5038058.41,
+  "vadesiz": 54000000.0,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
   "krediler": [],
@@ -191,7 +191,7 @@
   ]
  },
  "havale": {
-  "toplam": 15,
+  "toplam": 16,
   "gelenler": [
    {
     "id": 45,
@@ -305,7 +305,7 @@
   "ham": {
    "hesapNo": "TR82 0077 7064 1600 7162 2053 83",
    "sinir": 1000000000,
-   "bugun": 0,
+   "bugun": 600000000,
    "engel": null
   }
  },
@@ -372,7 +372,7 @@
  },
  "seviye-bildir": {
   "seviye": 14,
-  "tp": 7203,
+  "tp": 7219,
   "onceki": 14,
   "yeni_mi": false
  },
@@ -380,28 +380,32 @@
   "toplam": 225,
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
-  "raf_doldurulan": 0,
+  "raf_doldurulan": 60,
   "oto_acilan": 127,
   "detay": [
    {
     "ad": "Karahan Bakkal",
     "id": 2421,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "4148/4590→full"
    },
    {
     "ad": "Karahan Ziraat bay",
     "id": 4084,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "342/383→full"
    },
    {
     "ad": "Karahan Şarküteri",
     "id": 5415,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "708/813→full"
    },
    {
     "ad": "Karahan Büfe",
     "id": 5927,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "2458/2815→full"
    },
    {
     "ad": "Karahan Halıcı",
@@ -421,22 +425,26 @@
    {
     "ad": "Karahan Kuruyemiş",
     "id": 11928,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "696/808→full"
    },
    {
     "ad": "Karahan Temizlik",
     "id": 12013,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1911/2160→full"
    },
    {
     "ad": "Karahan Kırtasiye",
     "id": 29354,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "948/1095→full"
    },
    {
     "ad": "Karahan Yapı marke",
     "id": 29355,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "672/765→full"
    },
    {
     "ad": "Karahan Bar",
@@ -466,12 +474,14 @@
    {
     "ad": "Karahan Hırdavatçı",
     "id": 36621,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "560/641→full"
    },
    {
     "ad": "Karahan Züccaciye",
     "id": 36624,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "276/326→full"
    },
    {
     "ad": "Karahan Elektronik",
@@ -486,7 +496,8 @@
    {
     "ad": "Karahan Çiçekçi",
     "id": 37797,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "249/276→full"
    },
    {
     "ad": "Karahan Kuyumcu",
@@ -511,7 +522,8 @@
    {
     "ad": "Karahan Nalbur",
     "id": 39689,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "4076/4320→full"
    },
    {
     "ad": "Karahan Perdeci",
@@ -526,17 +538,20 @@
    {
     "ad": "Karahan Fırın",
     "id": 43413,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "5101/6150→full"
    },
    {
     "ad": "Karahan Bebek",
     "id": 43418,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "448/492→full"
    },
    {
     "ad": "Karahan Boya",
     "id": 43430,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "246/275→full"
    },
    {
     "ad": "Karahan Pideci",
@@ -546,7 +561,8 @@
    {
     "ad": "Karahan Pastane",
     "id": 43464,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1122/1237→full"
    },
    {
     "ad": "Karahan Pizzacı",
@@ -556,17 +572,20 @@
    {
     "ad": "Karahan Market",
     "id": 43475,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "32516/34370→full"
    },
    {
     "ad": "Karahan Kasap",
     "id": 43480,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1214/1295→full"
    },
    {
     "ad": "Karahan Aktar",
     "id": 43495,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1171/1280→full"
    },
    {
     "ad": "Karahan İç giyim",
@@ -581,17 +600,20 @@
    {
     "ad": "Karahan Kafe",
     "id": 43644,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "4645/4955→full"
    },
    {
     "ad": "Karahan Börekçi",
     "id": 43654,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1532/2005→full"
    },
    {
     "ad": "Karahan Tavukçu",
     "id": 43735,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "4870/5210→full"
    },
    {
     "ad": "Karahan Ayakkabıcı",
@@ -601,12 +623,14 @@
    {
     "ad": "Karahan Balıkçı",
     "id": 43860,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1498/1615→full"
    },
    {
     "ad": "Karahan Çay ocağı",
     "id": 43865,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "2455/2660→full"
    },
    {
     "ad": "Karahan Beyaz EŞ3.",
@@ -636,7 +660,8 @@
    {
     "ad": "Karahan Kitapçı",
     "id": 45347,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "182/213→full"
    },
    {
     "ad": "Karahan Kebap2",
@@ -676,12 +701,14 @@
    {
     "ad": "Karahan Kuruyemişç",
     "id": 48532,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "689/808→full"
    },
    {
     "ad": "Karahan Market2",
     "id": 48536,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "15359/17070→full"
    },
    {
     "ad": "Karahan Optik2",
@@ -691,7 +718,8 @@
    {
     "ad": "Karahan Hırdavat2",
     "id": 48583,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1165/1305→full"
    },
    {
     "ad": "Karahan Ayakkabı2",
@@ -711,7 +739,8 @@
    {
     "ad": "Karahan Bebe2",
     "id": 48904,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "443/492→full"
    },
    {
     "ad": "Karahan Kuyum4",
@@ -731,22 +760,26 @@
    {
     "ad": "Karahan Kasap4",
     "id": 52844,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "466/540→full"
    },
    {
     "ad": "Karahan Şarküteri4",
     "id": 52846,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "700/813→full"
    },
    {
     "ad": "Karahan Balıkçı4",
     "id": 52848,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "585/680→full"
    },
    {
     "ad": "Karahan Kuruyemiş4",
     "id": 52884,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "697/808→full"
    },
    {
     "ad": "Karahan Pideci4",
@@ -756,12 +789,14 @@
    {
     "ad": "Karahan Market4",
     "id": 52888,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "15356/17070→full"
    },
    {
     "ad": "Karahan Aktar4",
     "id": 52890,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "460/544→full"
    },
    {
     "ad": "Karahan Tatlıcı4",
@@ -776,7 +811,8 @@
    {
     "ad": "Karahan Nalbur4",
     "id": 52901,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "3896/4320→full"
    },
    {
     "ad": "Karahan Çantacı4",
@@ -791,17 +827,20 @@
    {
     "ad": "Karahan Hırdavat4",
     "id": 52948,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "231/275→full"
    },
    {
     "ad": "Karahan Züccaciye4",
     "id": 52951,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1405/1555→full"
    },
    {
     "ad": "Karahan Temizlik4",
     "id": 52952,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "777/910→full"
    },
    {
     "ad": "Karahan Ayakkabı4",
@@ -836,12 +875,14 @@
    {
     "ad": "Karahan Pastane4",
     "id": 53013,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "2677/3005→full"
    },
    {
     "ad": "Karahan Boya 4",
     "id": 53017,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "234/275→full"
    },
    {
     "ad": "Karahan Perdeci4",
@@ -856,12 +897,14 @@
    {
     "ad": "Karahan Bebek mağ4",
     "id": 53990,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "436/492→full"
    },
    {
     "ad": "Karahan Yapı 5",
     "id": 53991,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "712/765→full"
    },
    {
     "ad": "Karahan Beyaz E.5",
@@ -876,17 +919,20 @@
    {
     "ad": "Karahan Bakkal5",
     "id": 54014,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "4028/4590→full"
    },
    {
     "ad": "Karahan Kuruyemiş5",
     "id": 54805,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1738/1945→full"
    },
    {
     "ad": "Karahan Yapı mark5",
     "id": 54814,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1415/1545→full"
    },
    {
     "ad": "Karahan Mobilya5",
@@ -896,12 +942,14 @@
    {
     "ad": "Karahan Market5",
     "id": 54818,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "15801/17070→full"
    },
    {
     "ad": "Karahan Kasap5",
     "id": 54820,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1146/1295→full"
    },
    {
     "ad": "Karahan Kuyumcu5",
@@ -911,7 +959,8 @@
    {
     "ad": "Karahan Ziraat b5",
     "id": 54839,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "793/900→full"
    },
    {
     "ad": "Karahan Lokanta5",
@@ -921,17 +970,20 @@
    {
     "ad": "Karahan Tavukçu5",
     "id": 54850,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "2289/2580→full"
    },
    {
     "ad": "Karahan Balıkçı5",
     "id": 54851,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1443/1615→full"
    },
    {
     "ad": "Karahan Fırın5",
     "id": 54852,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "9718/12430→full"
    },
    {
     "ad": "Karahan Dönerci5",
@@ -941,22 +993,26 @@
    {
     "ad": "5Karahan Manav",
     "id": 54858,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "4202/4840→full"
    },
    {
     "ad": "Karahan Kitapçı5",
     "id": 54862,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "181/213→full"
    },
    {
     "ad": "Karahan Börekçi5",
     "id": 54865,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "615/840→full"
    },
    {
     "ad": "Karahan Kafe5",
     "id": 54902,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "4481/4955→full"
    },
    {
     "ad": "Karahan Hamburger5",
@@ -966,17 +1022,20 @@
    {
     "ad": "Karahan Nalbur5",
     "id": 54909,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "775/900→full"
    },
    {
     "ad": "Karahan Züccaciye5",
     "id": 54916,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "669/763→full"
    },
    {
     "ad": "Karahan Eczane",
     "id": 58804,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1095/1330→full"
    },
    {
     "ad": "Karahan Giyim6",
@@ -1016,7 +1075,8 @@
    {
     "ad": "Karahan Fidanlık6",
     "id": 91122,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "239/285→full"
    }
   ],
   "hatalar": [],
@@ -1032,15 +1092,15 @@
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
-    "no": 227,
-    "hata": "Böyle bir dükkân yeri yok."
-   },
-   {
     "no": 228,
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
     "no": 229,
+    "hata": "Böyle bir dükkân yeri yok."
+   },
+   {
+    "no": 232,
     "hata": "Böyle bir dükkân yeri yok."
    },
    {
@@ -1166,23 +1226,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 64494301.44,
+  "bakiye": 3575594.05,
   "oyuncu_seviye": 14,
   "sokak_degistirildi": 5,
   "bos_parsel": 8,
-  "kalan_bakiye": 64494301.44
+  "kalan_bakiye": 3575594.05
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 50,
-  "kazanc": 40310.4,
-  "servis": 400,
-  "bahsis": 79,
-  "bakiye": 6062540.41,
-  "siparis_toplam": 20,
-  "siparis_basari": 20,
+  "tur": 51,
+  "kazanc": 2925.1,
+  "servis": 408,
+  "bahsis": 88,
+  "bakiye": 3579094.14,
+  "siparis_toplam": 22,
+  "siparis_basari": 22,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792047745759
+  "ts": 1792048981159
  }
 }
