@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 13,
   "tp": 7080,
-  "nakit_kurus": 6101666216,
+  "nakit_kurus": 6101822704,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 0,
-   "nakit": 6101666216,
+   "nakit": 6101822704,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 6695400000,
+     "limit": 6695500000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 11159100000,
+     "limit": 11159200000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 13390900000,
+     "limit": 13391000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792038217894,
+   "ms": 1792039293113,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 4,
    "haftaSonu": false,
    "saat": 4,
-   "dakika": 23,
+   "dakika": 41,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "15 Ekim 2026, Perşembe"
   }
  },
  "banka": {
-  "nakit": 61016662.16,
+  "nakit": 61018227.04,
   "vadesiz": 0.0,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -1166,23 +1166,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 61016662.16,
+  "bakiye": 61018227.04,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 5,
   "bos_parsel": 8,
-  "kalan_bakiye": 61016662.16
+  "kalan_bakiye": 61018227.04
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 35,
-  "kazanc": 1564.9,
-  "servis": 280,
-  "bahsis": 49,
-  "bakiye": 61018227.04,
-  "siparis_toplam": 18,
-  "siparis_basari": 15,
+  "tur": 33,
+  "kazanc": 1693.7,
+  "servis": 264,
+  "bahsis": 50,
+  "bakiye": 61019900.71,
+  "siparis_toplam": 20,
+  "siparis_basari": 18,
   "gecen_dk": 15.2,
   "bot_versiyon": "v2",
-  "ts": 1792028467218
+  "ts": 1792029564535
  }
 }
