@@ -32349,3 +32349,7 @@
 {"olay": "cirak_basla", "kod": "kokorec", "id": 139429, "ts": 1792091497215}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792091668261}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 30671.5, "servis": 8, "bahsis": 0, "bakiye": 81873983.21, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792091670557}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 81873983.21, "bot_versiyon": "v2_hizli_siparis", "ts": 1792091694385}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3878986", "sonuc": {"tutar": 57500, "tecrube": 1, "metin": "Cüzdanı sahibine verdin. Sevinçten sana bir ödül bıraktı.", "itibar": 5, "bakiye": 8187455821, "hareket": 2254986}, "ts": 1792091698623}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792091968443}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 32.1, "servis": 8, "bahsis": 4, "bakiye": 81874590.35, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.6, "bot_versiyon": "v2", "ts": 1792091970615}
