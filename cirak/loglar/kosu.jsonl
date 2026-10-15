@@ -32198,3 +32198,12 @@
 {"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 75314846.8, "bot_versiyon": "v2_hizli_siparis", "ts": 1792086888146}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792087048505}
 {"olay": "kosu_bitti", "tur": 4, "kazanc": 113.7, "servis": 32, "bahsis": 8, "bakiye": 75314960.52, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792087074200}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 75314960.52, "bot_versiyon": "v2_hizli_siparis", "ts": 1792087096220}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3878976", "sonuc": {"tutar": 57500, "tecrube": 1, "metin": "Cüzdanı sahibine verdin. Sevinçten sana bir ödül bıraktı.", "itibar": 5, "bakiye": 7531553552, "hareket": 2244001}, "ts": 1792087097988}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792087272097}
+{"olay": "sokak", "tur": "muzisyen", "id": "1745:muzisyen:497802", "sonuc": {"tutar": -5000, "tecrube": 1, "metin": "Müzisyene bahşiş verdin. Sıradaki şarkı senin için çalınacak.", "bakiye": 7518863769, "hareket": 2244685, "ad": "Karahan"}, "ts": 1792087275868}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "ayakkabi", "ts": 1792087276470}
+{"olay": "siparis_kacti", "tezgah": "ayakkabi", "ts": 1792087282234}
+{"olay": "siparis_basladi", "adet": 12, "sure_sn": 30.0, "odul": 50.0, "tezgah": "simit", "ts": 1792087286502}
+{"olay": "siparis_kacti", "tezgah": "simit", "ts": 1792087291463}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 44.1, "servis": 16, "bahsis": 0, "bakiye": 75188661.1, "siparis_toplam": 2, "siparis_basari": 0, "gecen_dk": 3.3, "bot_versiyon": "v2", "ts": 1792087296963}
