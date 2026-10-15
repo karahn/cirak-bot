@@ -32443,3 +32443,6 @@
 {"olay": "siparis_kacti", "tezgah": "su", "ts": 1792094758020}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792095472885}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 31.3, "servis": 8, "bahsis": 2, "bakiye": 83236030.23, "siparis_toplam": 1, "siparis_basari": 0, "gecen_dk": 12.2, "bot_versiyon": "v2", "ts": 1792095475340}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 83236030.23, "bot_versiyon": "v2_hizli_siparis", "ts": 1792095494284}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792095777483}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 22.1, "servis": 8, "bahsis": 1, "bakiye": 83236052.34, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.8, "bot_versiyon": "v2", "ts": 1792095779914}
