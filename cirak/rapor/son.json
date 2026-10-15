@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 14,
-  "tp": 7727,
-  "nakit_kurus": 8187473669,
+  "tp": 7729,
+  "nakit_kurus": 8187546326,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 5400000000,
-   "nakit": 8187473669,
+   "nakit": 8187546326,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 14782500000,
+     "limit": 14782600000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 11826000000,
+     "limit": 11826100000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792103423259,
+   "ms": 1792103631037,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 4,
    "haftaSonu": false,
    "saat": 22,
-   "dakika": 30,
+   "dakika": 33,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "15 Ekim 2026, Perşembe"
   }
  },
  "banka": {
-  "nakit": 81874736.69,
+  "nakit": 81875463.26,
   "vadesiz": 54000000.0,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -372,7 +372,7 @@
  },
  "seviye-bildir": {
   "seviye": 14,
-  "tp": 7727,
+  "tp": 7729,
   "onceki": 14,
   "yeni_mi": false
  },
@@ -381,22 +381,22 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 81874736.69,
+  "bakiye": 81875463.26,
   "bos_parsel": 0,
-  "kalan_bakiye": 81874736.69
+  "kalan_bakiye": 81875463.26
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 3,
-  "kazanc": 171.6,
-  "servis": 24,
-  "bahsis": 4,
-  "bakiye": 81875463.26,
+  "tur": 1,
+  "kazanc": 77.7,
+  "servis": 8,
+  "bahsis": 2,
+  "bakiye": 81875540.98,
   "siparis_toplam": 2,
-  "siparis_basari": 2,
-  "gecen_dk": 3.1,
+  "siparis_basari": 1,
+  "gecen_dk": 3.5,
   "bot_versiyon": "v2",
-  "ts": 1792092814036,
+  "ts": 1792093042840,
   "komut_sifirlandi": true
  }
 }
