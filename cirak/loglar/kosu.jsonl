@@ -32256,3 +32256,11 @@
 {"olay": "cirak_basla", "kod": "gozleme", "id": 139177, "ts": 1792088978238}
 {"olay": "cirak_basla", "kod": "kokorec", "id": 139178, "ts": 1792088978445}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 35860.0, "servis": 16, "bahsis": 4, "bakiye": 80271177.8, "siparis_toplam": 3, "siparis_basari": 3, "gecen_dk": 3.2, "bot_versiyon": "v2", "ts": 1792088985222}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 80271177.8, "bot_versiyon": "v2_hizli_siparis", "ts": 1792089006722}
+{"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 50.0, "tezgah": "ayakkabi", "ts": 1792089009790}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "ayakkabi", "ts": 1792089012948}
+{"olay": "siparis_basladi", "adet": 12, "sure_sn": 30.0, "odul": 50.0, "tezgah": "kestane", "ts": 1792089017255}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "kestane", "ts": 1792089021221}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792089182650}
+{"olay": "sokak", "tur": "ambulans", "id": "1745:ambulans:373351", "sonuc": {"hata": "Geç kaldın, olay bitti."}, "ts": 1792089186183}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 163.4, "servis": 16, "bahsis": 5, "bakiye": 80271341.15, "siparis_toplam": 2, "siparis_basari": 2, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792089193266}
