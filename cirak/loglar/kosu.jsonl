@@ -32627,3 +32627,20 @@
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "misir", "ts": 1792101339414}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792101538461}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 131.9, "servis": 8, "bahsis": 3, "bakiye": 85108178.61, "siparis_toplam": 2, "siparis_basari": 2, "gecen_dk": 3.6, "bot_versiyon": "v2", "ts": 1792101540761}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 85108178.61, "bot_versiyon": "v2_hizli_siparis", "ts": 1792101560667}
+{"olay": "sokak", "tur": "kedi", "id": "1745:kedi:622257", "sonuc": {"tutar": -2000, "tecrube": 1, "metin": "Kediyi besledin. Mırlayarak ayağına süründü.", "bakiye": 8510815861, "hareket": 2276481}, "ts": 1792101562377}
+{"olay": "topladi", "adet": 12, "net": 52575.77, "ts": 1792101563948}
+{"olay": "ben_basla", "kod": "ayakkabi", "id": 140632, "ts": 1792101565419}
+{"olay": "cirak_basla", "kod": "su", "id": 140633, "ts": 1792101565678}
+{"olay": "cirak_basla", "kod": "semsiye", "id": 140634, "ts": 1792101565905}
+{"olay": "cirak_basla", "kod": "pamuk", "id": 140635, "ts": 1792101566152}
+{"olay": "cirak_basla", "kod": "simit", "id": 140636, "ts": 1792101566387}
+{"olay": "cirak_basla", "kod": "pazar", "id": 140637, "ts": 1792101566640}
+{"olay": "cirak_basla", "kod": "misir", "id": 140638, "ts": 1792101566889}
+{"olay": "cirak_basla", "kod": "kestane", "id": 140639, "ts": 1792101567147}
+{"olay": "cirak_basla", "kod": "midye", "id": 140640, "ts": 1792101567395}
+{"olay": "cirak_basla", "kod": "dondurma", "id": 140641, "ts": 1792101567648}
+{"olay": "cirak_basla", "kod": "gozleme", "id": 140642, "ts": 1792101567890}
+{"olay": "cirak_basla", "kod": "kokorec", "id": 140643, "ts": 1792101568119}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792101738406}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 52613.8, "servis": 8, "bahsis": 3, "bakiye": 85158650.09, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792101740685}
