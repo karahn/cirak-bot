@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 13,
-  "tp": 7166,
-  "nakit_kurus": 6157286278,
+  "tp": 7182,
+  "nakit_kurus": 6153186128,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 0,
-   "nakit": 6157286278,
+   "nakit": 6153186128,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 6709800000,
+     "limit": 6711000000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 11183100000,
+     "limit": 11185000000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 8946400000,
+     "limit": 8948000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 13419700000,
+     "limit": 13422000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792052091632,
+   "ms": 1792053185506,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 4,
    "haftaSonu": false,
    "saat": 8,
-   "dakika": 14,
+   "dakika": 33,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "15 Ekim 2026, Perşembe"
   }
  },
  "banka": {
-  "nakit": 61572862.78,
+  "nakit": 61531861.28,
   "vadesiz": 0.0,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -372,7 +372,7 @@
  },
  "seviye-bildir": {
   "seviye": 13,
-  "tp": 7166,
+  "tp": 7182,
   "onceki": 13,
   "yeni_mi": false
  },
@@ -380,14 +380,13 @@
   "toplam": 225,
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
-  "raf_doldurulan": 8,
+  "raf_doldurulan": 0,
   "oto_acilan": 127,
   "detay": [
    {
     "ad": "Karahan Bakkal",
     "id": 2421,
-    "oto": "acik",
-    "raf": "4198/4590→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Ziraat bay",
@@ -402,8 +401,7 @@
    {
     "ad": "Karahan Büfe",
     "id": 5927,
-    "oto": "acik",
-    "raf": "2498/2815→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Halıcı",
@@ -528,8 +526,7 @@
    {
     "ad": "Karahan Fırın",
     "id": 43413,
-    "oto": "acik",
-    "raf": "5203/6150→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Bebek",
@@ -589,8 +586,7 @@
    {
     "ad": "Karahan Börekçi",
     "id": 43654,
-    "oto": "acik",
-    "raf": "1560/2005→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Tavukçu",
@@ -610,8 +606,7 @@
    {
     "ad": "Karahan Çay ocağı",
     "id": 43865,
-    "oto": "acik",
-    "raf": "2463/2660→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Beyaz EŞ3.",
@@ -881,8 +876,7 @@
    {
     "ad": "Karahan Bakkal5",
     "id": 54014,
-    "oto": "acik",
-    "raf": "4055/4590→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Kuruyemiş5",
@@ -937,8 +931,7 @@
    {
     "ad": "Karahan Fırın5",
     "id": 54852,
-    "oto": "acik",
-    "raf": "9889/12430→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Dönerci5",
@@ -958,8 +951,7 @@
    {
     "ad": "Karahan Börekçi5",
     "id": 54865,
-    "oto": "acik",
-    "raf": "499/840→full"
+    "oto": "acik"
    },
    {
     "ad": "Karahan Kafe5",
@@ -1174,23 +1166,23 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 61494007.3,
+  "bakiye": 61531861.28,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 5,
   "bos_parsel": 8,
-  "kalan_bakiye": 61494007.3
+  "kalan_bakiye": 61531861.28
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 44,
-  "kazanc": 43197.7,
-  "servis": 352,
-  "bahsis": 65,
-  "bakiye": 61531861.28,
+  "tur": 46,
+  "kazanc": 2115.2,
+  "servis": 368,
+  "bahsis": 72,
+  "bakiye": 61534526.48,
   "siparis_toplam": 21,
   "siparis_basari": 21,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792042357967
+  "ts": 1792043424043
  }
 }
