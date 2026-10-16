@@ -34218,3 +34218,12 @@
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1792140550303}
 {"olay": "ara_ozet", "tur": 5, "kazanc": 229.8, "servis": 40, "bakiye": 101630705.73, "siparis": "2/2", "gecen_dk": 2.8, "ts": 1792140559953}
 {"olay": "kosu_bitti", "tur": 7, "kazanc": 291.3, "servis": 56, "bahsis": 10, "bakiye": 101630767.27, "siparis_toplam": 2, "siparis_basari": 2, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792140576101}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 101630767.27, "bot_versiyon": "v2_hizli_siparis", "ts": 1792140596644}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792140762669}
+{"olay": "sokak", "tur": "ambulans", "id": "1745:ambulans:373362", "sonuc": {"tutar": 28750, "tecrube": 2, "metin": "İhbarın alındı. Ambulans yola çıktı; sağlık ekibine yer aç.", "bakiye": 10163108569, "hareket": 2364365}, "ts": 1792140766224}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879092", "sonuc": {"tutar": 57500, "tecrube": 1, "metin": "Cüzdanı sahibine verdin. Sevinçten sana bir ödül bıraktı.", "itibar": 5, "bakiye": 10163166069, "hareket": 2364366}, "ts": 1792140766443}
+{"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1792140767682}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1792140770729}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "kestane", "ts": 1792140774520}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "kestane", "ts": 1792140779561}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 151.7, "servis": 16, "bahsis": 2, "bakiye": 101631781.49, "siparis_toplam": 2, "siparis_basari": 2, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792140782137}
