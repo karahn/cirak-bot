@@ -35064,3 +35064,22 @@
 {"olay": "siparis_basladi", "adet": 14, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1792160819308}
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1792160823435}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 102.6, "servis": 16, "bahsis": 5, "bakiye": 7762035.37, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792160829657}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 7762035.37, "bot_versiyon": "v2_hizli_siparis", "ts": 1792160851923}
+{"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 50.0, "tezgah": "semsiye", "ts": 1792160856473}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "semsiye", "ts": 1792160860764}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 129, "oto_acilan": 129, "ts": 1792161029182}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879136", "sonuc": {"tutar": 60000, "tecrube": 1, "metin": "Cüzdanı sahibine verdin. Sevinçten sana bir ödül bıraktı.", "itibar": 5, "bakiye": 776270574, "hareket": 2421694}, "ts": 1792161033004}
+{"olay": "topladi", "adet": 12, "net": 29101.65, "ts": 1792161033542}
+{"olay": "ben_basla", "kod": "ayakkabi", "id": 148056, "ts": 1792161034997}
+{"olay": "cirak_basla", "kod": "su", "id": 148057, "ts": 1792161035235}
+{"olay": "cirak_basla", "kod": "semsiye", "id": 148058, "ts": 1792161035483}
+{"olay": "cirak_basla", "kod": "pamuk", "id": 148059, "ts": 1792161035709}
+{"olay": "cirak_basla", "kod": "simit", "id": 148060, "ts": 1792161035939}
+{"olay": "cirak_basla", "kod": "pazar", "id": 148061, "ts": 1792161036172}
+{"olay": "cirak_basla", "kod": "misir", "id": 148062, "ts": 1792161036423}
+{"olay": "cirak_basla", "kod": "kestane", "id": 148063, "ts": 1792161036654}
+{"olay": "cirak_basla", "kod": "midye", "id": 148064, "ts": 1792161036915}
+{"olay": "cirak_basla", "kod": "dondurma", "id": 148065, "ts": 1792161037141}
+{"olay": "cirak_basla", "kod": "gozleme", "id": 148066, "ts": 1792161037360}
+{"olay": "cirak_basla", "kod": "kokorec", "id": 148067, "ts": 1792161037614}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 29205.6, "servis": 16, "bahsis": 4, "bakiye": 7790429.68, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.2, "bot_versiyon": "v2", "ts": 1792161044577}
