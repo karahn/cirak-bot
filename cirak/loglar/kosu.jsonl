@@ -33273,3 +33273,7 @@
 {"olay": "cirak_basla", "kod": "gozleme", "id": 142123, "ts": 1792118987938}
 {"olay": "cirak_basla", "kod": "kokorec", "id": 142124, "ts": 1792118988195}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 52953.3, "servis": 16, "bahsis": 4, "bakiye": 85924961.46, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.2, "bot_versiyon": "v2", "ts": 1792118995138}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 85924961.46, "bot_versiyon": "v2_hizli_siparis", "ts": 1792119015737}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792119189754}
+{"olay": "sokak", "tur": "itfaiye", "id": "1745:itfaiye:116674", "sonuc": {"tutar": 28750, "tecrube": 2, "metin": "İhbarın alındı. İtfaiye yola çıktı; binadan uzak dur.", "bakiye": 8592526932, "hareket": 2314421}, "ts": 1792119193388}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 44.8, "servis": 16, "bahsis": 1, "bakiye": 85925293.77, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792119200604}
