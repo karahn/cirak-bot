@@ -35531,3 +35531,9 @@
 {"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 32987624.69, "bot_versiyon": "v2_hizli_siparis", "ts": 1792173774016}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 113, "raf_doldurulan": 129, "oto_acilan": 129, "ts": 1792174004519}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 23.3, "servis": 8, "bahsis": 2, "bakiye": 38400175.41, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.9, "bot_versiyon": "v2", "ts": 1792174006718}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 38400175.41, "bot_versiyon": "v2_hizli_siparis", "ts": 1792174027380}
+{"olay": "sokak", "tur": "ambulans", "id": "1745:ambulans:373369", "sonuc": {"hata": "Geç kaldın, olay bitti."}, "ts": 1792174030109}
+{"olay": "siparis_basladi", "adet": 14, "sure_sn": 30.0, "odul": 50.0, "tezgah": "simit", "ts": 1792174034669}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "simit", "ts": 1792174039234}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 129, "oto_acilan": 129, "ts": 1792174201959}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 107.6, "servis": 16, "bahsis": 5, "bakiye": 38400283.0, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792174212327}
