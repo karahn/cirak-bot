@@ -1,1 +1,1 @@
-1792136781170 tur=3 kazanc=66 servis=24 siparis=0/0
+1792136982815 tur=3 kazanc=272 servis=24 siparis=4/4
