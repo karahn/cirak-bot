@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 15,
-  "tp": 9582,
-  "nakit_kurus": 127349501,
+  "tp": 9588,
+  "nakit_kurus": 132489823,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -25,8 +25,8 @@
    "ad": "Bağlarbaşı Mahallesi"
   },
   "banka": {
-   "vadesiz": 2376271068,
-   "nakit": 127349501,
+   "vadesiz": 1376271068,
+   "nakit": 132489823,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 7806800000,
+     "limit": 7714000000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 13011300000,
+     "limit": 12856600000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 10409000000,
+     "limit": 10285300000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 15613600000,
+     "limit": 15428000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -133,7 +133,7 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 2376271068,
+   "net": 1376271068,
    "krediNotu": {
     "puan": 1406,
     "bant": "Az riskli",
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792173103887,
+   "ms": 1792173309417,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,15 +154,15 @@
    "haftaGunuNo": 5,
    "haftaSonu": false,
    "saat": 17,
-   "dakika": 51,
+   "dakika": 55,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "16 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 1273495.01,
-  "vadesiz": 23762710.68,
+  "nakit": 1324898.23,
+  "vadesiz": 13762710.68,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
   "krediler": [],
@@ -372,7 +372,7 @@
  },
  "seviye-bildir": {
   "seviye": 15,
-  "tp": 9582,
+  "tp": 9588,
   "onceki": 15,
   "yeni_mi": false
  },
@@ -381,22 +381,22 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 1273495.01,
+  "bakiye": 1324898.23,
   "bos_parsel": 0,
-  "kalan_bakiye": 1273495.01
+  "kalan_bakiye": 1324898.23
  },
  "bot": {
   "olay": "kosu_bitti",
   "tur": 2,
-  "kazanc": 48.2,
+  "kazanc": 197.6,
   "servis": 16,
   "bahsis": 3,
-  "bakiye": 1324898.23,
-  "siparis_toplam": 0,
-  "siparis_basari": 0,
-  "gecen_dk": 3.1,
+  "bakiye": 1328104.0,
+  "siparis_toplam": 3,
+  "siparis_basari": 3,
+  "gecen_dk": 3.3,
   "bot_versiyon": "v2",
-  "ts": 1792162491634,
+  "ts": 1792162708867,
   "komut_sifirlandi": true
  }
 }
