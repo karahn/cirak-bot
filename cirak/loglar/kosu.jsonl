@@ -33949,3 +33949,6 @@
 {"olay": "siparis_tamam", "kazanilan": 53.0, "tezgah": "kestane", "ts": 1792133819984}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792133978872}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 119.5, "servis": 16, "bahsis": 4, "bakiye": 90705902.15, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792133989238}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 90589784.15, "bot_versiyon": "v2_hizli_siparis", "ts": 1792134009560}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 144, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792134253982}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 29.4, "servis": 8, "bahsis": 2, "bakiye": 95858583.17, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.1, "bot_versiyon": "v2", "ts": 1792134256238}
