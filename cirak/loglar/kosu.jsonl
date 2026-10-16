@@ -35801,3 +35801,7 @@
 {"olay": "siparis_basladi", "adet": 12, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pazar", "ts": 1792180636995}
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pazar", "ts": 1792180640635}
 {"olay": "kosu_bitti", "tur": 3, "kazanc": 125.9, "servis": 24, "bahsis": 4, "bakiye": 39429244.23, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792180651906}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 39429244.23, "bot_versiyon": "v2_hizli_siparis", "ts": 1792180672273}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 129, "oto_acilan": 129, "ts": 1792180844400}
+{"olay": "sokak", "tur": "muzisyen", "id": "1745:muzisyen:497828", "sonuc": {"tutar": -5000, "tecrube": 1, "metin": "Müzisyene bahşiş verdin. Sıradaki şarkı senin için çalınacak.", "bakiye": 3943522853, "hareket": 2477620, "ad": "Karahan"}, "ts": 1792180848025}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 59.5, "servis": 16, "bahsis": 4, "bakiye": 39435253.78, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792180855179}
