@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 14,
   "tp": 8097,
-  "nakit_kurus": 8604761794,
+  "nakit_kurus": 8604799180,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 5400000000,
-   "nakit": 8604761794,
+   "nakit": 8604799180,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 17953600000,
+     "limit": 17953700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792134757924,
+   "ms": 1792134961451,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 5,
    "haftaSonu": false,
    "saat": 7,
-   "dakika": 12,
+   "dakika": 16,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "16 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 86047617.94,
+  "nakit": 86047991.8,
   "vadesiz": 54000000.0,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -381,22 +381,22 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 86047617.94,
+  "bakiye": 86047991.8,
   "bos_parsel": 0,
-  "kalan_bakiye": 86047617.94
+  "kalan_bakiye": 86047991.8
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 5,
-  "kazanc": 373.9,
-  "servis": 40,
-  "bahsis": 5,
-  "bakiye": 86047991.8,
-  "siparis_toplam": 5,
-  "siparis_basari": 5,
+  "tur": 4,
+  "kazanc": 188.3,
+  "servis": 32,
+  "bahsis": 1,
+  "bakiye": 86048180.06,
+  "siparis_toplam": 2,
+  "siparis_basari": 2,
   "gecen_dk": 3.1,
   "bot_versiyon": "v2",
-  "ts": 1792124146780,
+  "ts": 1792124349987,
   "komut_sifirlandi": true
  }
 }
