@@ -34395,3 +34395,11 @@
 {"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "kestane", "ts": 1792144742197}
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "kestane", "ts": 1792144745751}
 {"olay": "kosu_bitti", "tur": 7, "kazanc": 329.5, "servis": 56, "bahsis": 7, "bakiye": 111556480.05, "siparis_toplam": 3, "siparis_basari": 3, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792144748258}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 111556480.05, "bot_versiyon": "v2_hizli_siparis", "ts": 1792144766950}
+{"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 59.0, "tezgah": "semsiye", "ts": 1792144771060}
+{"olay": "siparis_tamam", "kazanilan": 59.0, "tezgah": "semsiye", "ts": 1792144775180}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792144935444}
+{"olay": "sokak", "tur": "muzisyen", "id": "1745:muzisyen:497818", "sonuc": {"tutar": -5000, "tecrube": 1, "metin": "Müzisyene bahşiş verdin. Sıradaki şarkı senin için çalınacak.", "bakiye": 11154468414, "hareket": 2373921, "ad": "Karahan"}, "ts": 1792144938973}
+{"olay": "siparis_basladi", "adet": 12, "sure_sn": 30.0, "odul": 50.0, "tezgah": "simit", "ts": 1792144941865}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "simit", "ts": 1792144945575}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 164.1, "servis": 16, "bahsis": 3, "bakiye": 111544759.2, "siparis_toplam": 2, "siparis_basari": 2, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792144949896}
