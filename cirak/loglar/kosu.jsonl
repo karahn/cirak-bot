@@ -32973,3 +32973,21 @@
 {"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 85654536.97, "bot_versiyon": "v2_hizli_siparis", "ts": 1792111147182}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792111319803}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 71.9, "servis": 16, "bahsis": 6, "bakiye": 85654608.88, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792111330389}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 85654608.88, "bot_versiyon": "v2_hizli_siparis", "ts": 1792111352294}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "semsiye", "ts": 1792111356813}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "semsiye", "ts": 1792111361586}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792111524723}
+{"olay": "topladi", "adet": 12, "net": 50841.04, "ts": 1792111528765}
+{"olay": "ben_basla", "kod": "ayakkabi", "id": 141459, "ts": 1792111530244}
+{"olay": "cirak_basla", "kod": "su", "id": 141460, "ts": 1792111530471}
+{"olay": "cirak_basla", "kod": "semsiye", "id": 141461, "ts": 1792111530699}
+{"olay": "cirak_basla", "kod": "pamuk", "id": 141462, "ts": 1792111530946}
+{"olay": "cirak_basla", "kod": "simit", "id": 141463, "ts": 1792111531165}
+{"olay": "cirak_basla", "kod": "pazar", "id": 141464, "ts": 1792111531406}
+{"olay": "cirak_basla", "kod": "misir", "id": 141465, "ts": 1792111531628}
+{"olay": "cirak_basla", "kod": "kestane", "id": 141466, "ts": 1792111531853}
+{"olay": "cirak_basla", "kod": "midye", "id": 141467, "ts": 1792111532105}
+{"olay": "cirak_basla", "kod": "dondurma", "id": 141468, "ts": 1792111532322}
+{"olay": "cirak_basla", "kod": "gozleme", "id": 141469, "ts": 1792111532562}
+{"olay": "cirak_basla", "kod": "kokorec", "id": 141470, "ts": 1792111532777}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 50953.3, "servis": 16, "bahsis": 3, "bakiye": 85703978.66, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792111539689}
