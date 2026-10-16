@@ -34895,3 +34895,10 @@
 {"olay": "cirak_basla", "kod": "kokorec", "id": 147241, "ts": 1792156184949}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792156350835}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 48010.7, "servis": 16, "bahsis": 1, "bakiye": 139622322.0, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792156361271}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 139622322.0, "bot_versiyon": "v2_hizli_siparis", "ts": 1792156383537}
+{"olay": "keyif_kamp", "onceki": 79, "bakiye": 139622322.0, "sonuc": {"id": 1229, "fiyat": 51200, "keyif": 100, "davetEdilen": []}, "ts": 1792156386306}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1792156389095}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1792156393609}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792156548386}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879126", "sonuc": {"tutar": 57500, "tecrube": 1, "metin": "Cüzdanı sahibine verdin. Sevinçten sana bir ödül bıraktı.", "itibar": 5, "bakiye": 13962246806, "hareket": 2407658}, "ts": 1792156551807}
+{"olay": "kosu_bitti", "tur": 3, "kazanc": 139.9, "servis": 24, "bahsis": 3, "bakiye": 139622524.93, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792156566320}
