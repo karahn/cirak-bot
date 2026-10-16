@@ -34622,3 +34622,14 @@
 {"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pazar", "ts": 1792149732943}
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pazar", "ts": 1792149735658}
 {"olay": "kosu_bitti", "tur": 6, "kazanc": 295.9, "servis": 48, "bahsis": 6, "bakiye": 136968948.34, "siparis_toplam": 3, "siparis_basari": 3, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792149739172}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 136968948.34, "bot_versiyon": "v2_hizli_siparis", "ts": 1792149756398}
+{"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 50.0, "tezgah": "simit", "ts": 1792149760701}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "simit", "ts": 1792149763972}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792149892756}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879112", "sonuc": {"tutar": 57500, "tecrube": 1, "metin": "Cüzdanı sahibine verdin. Sevinçten sana bir ödül bıraktı.", "itibar": 5, "bakiye": 13696959922, "hareket": 2387403}, "ts": 1792149895811}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "semsiye", "ts": 1792149897309}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "semsiye", "ts": 1792149901069}
+{"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 50.0, "tezgah": "misir", "ts": 1792149924093}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "misir", "ts": 1792149926574}
+{"olay": "ara_ozet", "tur": 5, "kazanc": 281.3, "servis": 40, "bakiye": 136969804.62, "siparis": "3/3", "gecen_dk": 2.9, "ts": 1792149927604}
+{"olay": "kosu_bitti", "tur": 6, "kazanc": 310.7, "servis": 48, "bahsis": 12, "bakiye": 136969834.08, "siparis_toplam": 3, "siparis_basari": 3, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792149936867}
