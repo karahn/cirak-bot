@@ -34645,3 +34645,16 @@
 {"olay": "siparis_basladi", "adet": 14, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pazar", "ts": 1792150343927}
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pazar", "ts": 1792150348404}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 153.3, "servis": 16, "bahsis": 4, "bakiye": 136970118.42, "siparis_toplam": 2, "siparis_basari": 2, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792150352179}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 136970118.42, "bot_versiyon": "v2_hizli_siparis", "ts": 1792150370805}
+{"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 50.0, "tezgah": "kestane", "ts": 1792150376877}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "kestane", "ts": 1792150379453}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792150511834}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879113", "sonuc": {"tutar": 57500, "tecrube": 1, "metin": "Cüzdanı sahibine verdin. Sevinçten sana bir ödül bıraktı.", "itibar": 5, "bakiye": 13697076642, "hareket": 2389387}, "ts": 1792150514971}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1792150516991}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1792150520864}
+{"olay": "siparis_basladi", "adet": 8, "sure_sn": 30.0, "odul": 50.0, "tezgah": "simit", "ts": 1792150535979}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "simit", "ts": 1792150539876}
+{"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1792150545410}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1792150547955}
+{"olay": "ara_ozet", "tur": 5, "kazanc": 313.2, "servis": 40, "bakiye": 136971006.58, "siparis": "4/4", "gecen_dk": 3.0, "ts": 1792150551612}
+{"olay": "kosu_bitti", "tur": 5, "kazanc": 313.2, "servis": 40, "bahsis": 3, "bakiye": 136971006.58, "siparis_toplam": 4, "siparis_basari": 4, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792150553790}
