@@ -33277,3 +33277,10 @@
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792119189754}
 {"olay": "sokak", "tur": "itfaiye", "id": "1745:itfaiye:116674", "sonuc": {"tutar": 28750, "tecrube": 2, "metin": "İhbarın alındı. İtfaiye yola çıktı; binadan uzak dur.", "bakiye": 8592526932, "hareket": 2314421}, "ts": 1792119193388}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 44.8, "servis": 16, "bahsis": 1, "bakiye": 85925293.77, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792119200604}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 85925293.77, "bot_versiyon": "v2_hizli_siparis", "ts": 1792119220535}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792119386361}
+{"olay": "siparis_basladi", "adet": 9, "sure_sn": 30.0, "odul": 50.0, "tezgah": "semsiye", "ts": 1792119391464}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "semsiye", "ts": 1792119394230}
+{"olay": "siparis_basladi", "adet": 9, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1792119395029}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1792119397790}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 154.3, "servis": 16, "bahsis": 4, "bakiye": 85925448.06, "siparis_toplam": 2, "siparis_basari": 2, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792119402688}
