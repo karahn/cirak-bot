@@ -34869,3 +34869,6 @@
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "ayakkabi", "ts": 1792155548524}
 {"olay": "sokak", "tur": "kedi", "id": "1745:kedi:622276", "sonuc": {"tutar": -2000, "tecrube": 1, "metin": "Kediyi besledin. Mırlayarak ayağına süründü.", "bakiye": 13084363192, "hareket": 2404081}, "ts": 1792155556504}
 {"olay": "kosu_bitti", "tur": 3, "kazanc": 132.7, "servis": 24, "bahsis": 1, "bakiye": 130843664.95, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792155563647}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 130843664.95, "bot_versiyon": "v2_hizli_siparis", "ts": 1792155581274}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 127, "oto_acilan": 127, "ts": 1792155831849}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 29.1, "servis": 8, "bahsis": 1, "bakiye": 130775744.05, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.2, "bot_versiyon": "v2", "ts": 1792155834027}
