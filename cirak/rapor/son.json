@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 14,
   "tp": 8175,
-  "nakit_kurus": 9587960657,
+  "nakit_kurus": 9588124248,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 5400000000,
-   "nakit": 9587960657,
+   "nakit": 9588124248,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 15318000000,
+     "limit": 15318100000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 12254400000,
+     "limit": 12254500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 18381600000,
+     "limit": 18381700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792146300275,
+   "ms": 1792146502362,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 5,
    "haftaSonu": false,
    "saat": 10,
-   "dakika": 25,
+   "dakika": 28,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "16 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 95879606.57,
+  "nakit": 95881242.48,
   "vadesiz": 54000000.0,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -381,22 +381,22 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 95879606.57,
+  "bakiye": 95881242.48,
   "bos_parsel": 0,
-  "kalan_bakiye": 95879606.57
+  "kalan_bakiye": 95881242.48
  },
  "bot": {
   "olay": "kosu_bitti",
   "tur": 1,
-  "kazanc": 75.9,
+  "kazanc": 36.9,
   "servis": 8,
-  "bahsis": 2,
-  "bakiye": 95881242.48,
-  "siparis_toplam": 1,
-  "siparis_basari": 1,
-  "gecen_dk": 3.0,
+  "bahsis": 3,
+  "bakiye": 95881279.34,
+  "siparis_toplam": 0,
+  "siparis_basari": 0,
+  "gecen_dk": 4.3,
   "bot_versiyon": "v2",
-  "ts": 1792135684460,
+  "ts": 1792135964703,
   "komut_sifirlandi": true
  }
 }
