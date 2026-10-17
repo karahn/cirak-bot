@@ -36842,3 +36842,8 @@
 {"olay": "sokak", "tur": "ambulans", "id": "1745:ambulans:373378", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792216169864}
 {"olay": "ara_ozet", "tur": 5, "kazanc": 0.0, "servis": 40, "bakiye": 9831278.17, "siparis": "0/0", "gecen_dk": 2.9, "ts": 1792216183939}
 {"olay": "kosu_bitti", "tur": 6, "kazanc": 0.0, "servis": 48, "bahsis": 0, "bakiye": 9831278.17, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792216195591}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 9831278.17, "bot_versiyon": "v2_hizli_siparis", "ts": 1792216215694}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879255", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792216217522}
+{"olay": "sokak", "tur": "ambulans", "id": "1745:ambulans:373378", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792216217692}
+{"olay": "ara_ozet", "tur": 5, "kazanc": 0.0, "servis": 40, "bakiye": 9831278.17, "siparis": "0/0", "gecen_dk": 3.1, "ts": 1792216400287}
+{"olay": "kosu_bitti", "tur": 5, "kazanc": 0.0, "servis": 40, "bahsis": 0, "bakiye": 9831278.17, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792216403123}
