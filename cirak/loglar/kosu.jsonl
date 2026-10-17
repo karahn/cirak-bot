@@ -37065,3 +37065,7 @@
 {"olay": "siparis_basladi", "adet": 0, "sure_sn": 30.0, "odul": 0, "tezgah": "su", "ts": 1792235305273}
 {"olay": "siparis_zaman_asimi", "tezgah": "su", "ts": 1792235323196}
 {"olay": "kosu_bitti", "tur": 7, "kazanc": 6.0, "servis": 56, "bahsis": 1, "bakiye": 22377488.14, "siparis_toplam": 1, "siparis_basari": 0, "gecen_dk": 3.2, "bot_versiyon": "v2", "ts": 1792235330215}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 22377488.14, "bot_versiyon": "v2_hizli_siparis", "ts": 1792235348650}
+{"olay": "ara_ozet", "tur": 5, "kazanc": 0.0, "servis": 40, "bakiye": 22377488.14, "siparis": "0/0", "gecen_dk": 2.7, "ts": 1792235510715}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879297", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792235514463}
+{"olay": "kosu_bitti", "tur": 8, "kazanc": 0.0, "servis": 64, "bahsis": 0, "bakiye": 22377488.14, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792235535850}
