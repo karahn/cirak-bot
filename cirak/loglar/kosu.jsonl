@@ -36428,3 +36428,18 @@
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1792197131439}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 129, "oto_acilan": 129, "ts": 1792197335050}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 74.2, "servis": 8, "bahsis": 1, "bakiye": 38230555.91, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.7, "bot_versiyon": "v2", "ts": 1792197338132}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 38230555.91, "bot_versiyon": "v2_hizli_siparis", "ts": 1792197360220}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 129, "oto_acilan": 129, "ts": 1792197505675}
+{"olay": "siparis_basladi", "adet": 9, "sure_sn": 30.0, "odul": 50.0, "tezgah": "ayakkabi", "ts": 1792197509894}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "ayakkabi", "ts": 1792197512150}
+{"olay": "siparis_basladi", "adet": 9, "sure_sn": 30.0, "odul": 50.0, "tezgah": "simit", "ts": 1792197514405}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "simit", "ts": 1792197516752}
+{"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 50.0, "tezgah": "misir", "ts": 1792197517953}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "misir", "ts": 1792197521319}
+{"olay": "siparis_basladi", "adet": 9, "sure_sn": 30.0, "odul": 50.0, "tezgah": "kestane", "ts": 1792197522021}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "kestane", "ts": 1792197524314}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1792197530359}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1792197533231}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1792197539348}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1792197543347}
+{"olay": "kosu_bitti", "tur": 4, "kazanc": 421.4, "servis": 32, "bahsis": 10, "bakiye": 38230977.27, "siparis_toplam": 6, "siparis_basari": 6, "gecen_dk": 3.2, "bot_versiyon": "v2", "ts": 1792197550000}
