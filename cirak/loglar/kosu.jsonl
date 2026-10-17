@@ -37055,3 +37055,7 @@
 {"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pazar", "ts": 1792234853073}
 {"olay": "siparis_kacti", "tezgah": "pazar", "ts": 1792234858222}
 {"olay": "kosu_bitti", "tur": 3, "kazanc": 96.7, "servis": 24, "bahsis": 5, "bakiye": 93536392.71, "siparis_toplam": 2, "siparis_basari": 1, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792234862512}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 93536392.71, "bot_versiyon": "v2_hizli_siparis", "ts": 1792234881819}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879296", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792234883691}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 139, "raf_doldurulan": 79, "oto_acilan": 78, "ts": 1792235113585}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 20760853.35, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.9, "bot_versiyon": "v2", "ts": 1792235116572}
