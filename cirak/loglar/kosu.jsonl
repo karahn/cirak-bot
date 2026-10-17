@@ -37208,3 +37208,15 @@
 {"olay": "cirak_basla", "kod": "gozleme", "id": 161005, "ts": 1792244218949}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 158, "raf_doldurulan": 95, "oto_acilan": 91, "ts": 1792244456057}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 14.1, "servis": 4, "bahsis": 1, "bakiye": 25514384.86, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.1, "bot_versiyon": "v2", "ts": 1792244458951}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 25514384.86, "bot_versiyon": "v2_hizli_siparis", "ts": 1792244481482}
+{"olay": "sokak", "tur": "ambulans", "id": "1745:ambulans:373384", "sonuc": {"tutar": 30000, "tecrube": 2, "metin": "İhbarın alındı. Ambulans yola çıktı; sağlık ekibine yer aç.", "bakiye": 2551468486, "hareket": 2571685}, "ts": 1792244484167}
+{"olay": "cirak_basla", "kod": "ayakkabi", "id": 161061, "ts": 1792244487167}
+{"olay": "cirak_basla", "kod": "semsiye", "id": 161062, "ts": 1792244487397}
+{"olay": "cirak_basla", "kod": "simit", "id": 161063, "ts": 1792244487633}
+{"olay": "cirak_basla", "kod": "misir", "id": 161064, "ts": 1792244487866}
+{"olay": "cirak_basla", "kod": "kestane", "id": 161065, "ts": 1792244488105}
+{"olay": "cirak_basla", "kod": "midye", "id": 161066, "ts": 1792244488342}
+{"olay": "cirak_basla", "kod": "dondurma", "id": 161067, "ts": 1792244488577}
+{"olay": "cirak_basla", "kod": "kokorec", "id": 161068, "ts": 1792244488803}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 62, "raf_doldurulan": 129, "oto_acilan": 129, "ts": 1792244691052}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 28.1, "servis": 8, "bahsis": 2, "bakiye": 27613814.17, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.6, "bot_versiyon": "v2", "ts": 1792244694992}
