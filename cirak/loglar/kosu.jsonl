@@ -37015,3 +37015,13 @@
 {"olay": "cirak_basla", "kod": "kokorec", "id": 159335, "ts": 1792233566726}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 50, "raf_doldurulan": 41, "oto_acilan": 38, "ts": 1792233817376}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 32.4, "servis": 8, "bahsis": 3, "bakiye": 36315437.83, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.3, "bot_versiyon": "v2", "ts": 1792233820288}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 35077008.8, "bot_versiyon": "v2_hizli_siparis", "ts": 1792233839670}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 129, "oto_acilan": 129, "ts": 1792233975257}
+{"olay": "siparis_basladi", "adet": 12, "sure_sn": 30.0, "odul": 50.0, "tezgah": "simit", "ts": 1792233981317}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "simit", "ts": 1792233984242}
+{"olay": "ara_ozet", "tur": 5, "kazanc": 184.4, "servis": 40, "bakiye": 96362947.91, "siparis": "1/1", "gecen_dk": 2.8, "ts": 1792234008350}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "ayakkabi", "ts": 1792234019387}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "ayakkabi", "ts": 1792234023080}
+{"olay": "siparis_basladi", "adet": 14, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1792234023752}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1792234027195}
+{"olay": "kosu_bitti", "tur": 7, "kazanc": 343.0, "servis": 56, "bahsis": 6, "bakiye": 95832080.3, "siparis_toplam": 3, "siparis_basari": 3, "gecen_dk": 3.2, "bot_versiyon": "v2", "ts": 1792234033472}
