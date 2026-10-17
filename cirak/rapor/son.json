@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 16,
   "tp": 11889,
-  "nakit_kurus": 539296065,
+  "nakit_kurus": 539342617,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -25,8 +25,8 @@
    "ad": "Bağlarbaşı Mahallesi"
   },
   "banka": {
-   "vadesiz": 9003898068,
-   "nakit": 539296065,
+   "vadesiz": 9003107068,
+   "nakit": 539342617,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -133,7 +133,7 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 9003898068,
+   "net": 9003107068,
    "krediNotu": {
     "puan": 1255,
     "bant": "Az riskli",
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792284737142,
+   "ms": 1792284941229,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,15 +154,15 @@
    "haftaGunuNo": 0,
    "haftaSonu": true,
    "saat": 0,
-   "dakika": 52,
+   "dakika": 55,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "18 Ekim 2026, Pazar"
   }
  },
  "banka": {
-  "nakit": 5392960.65,
-  "vadesiz": 90038980.68,
+  "nakit": 5393426.17,
+  "vadesiz": 90031070.68,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
   "krediler": [],
@@ -381,22 +381,22 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 5392960.65,
+  "bakiye": 5393426.17,
   "bos_parsel": 0,
-  "kalan_bakiye": 5392960.65
+  "kalan_bakiye": 5393426.17
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 5,
-  "kazanc": 465.5,
-  "servis": 40,
-  "bahsis": 5,
-  "bakiye": 5393426.17,
-  "siparis_toplam": 5,
-  "siparis_basari": 5,
+  "tur": 2,
+  "kazanc": 82415.7,
+  "servis": 16,
+  "bahsis": 4,
+  "bakiye": 5472526.93,
+  "siparis_toplam": 1,
+  "siparis_basari": 1,
   "gecen_dk": 3.1,
   "bot_versiyon": "v2",
-  "ts": 1792274124979,
+  "ts": 1792274328621,
   "komut_sifirlandi": true
  }
 }
