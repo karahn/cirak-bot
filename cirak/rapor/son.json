@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 15,
   "tp": 10337,
-  "nakit_kurus": 979200917,
+  "nakit_kurus": 979476917,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 3005480068,
-   "nakit": 979200917,
+   "nakit": 979476917,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 8286000000,
+     "limit": 8286200000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 13810000000,
+     "limit": 13810400000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 11048000000,
+     "limit": 11048300000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 16572000000,
+     "limit": 16572500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792218564571,
+   "ms": 1792218772085,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 6,
-   "dakika": 29,
+   "dakika": 32,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "17 Ekim 2026, Cumartesi"
   }
  },
  "banka": {
-  "nakit": 9792009.17,
+  "nakit": 9794769.17,
   "vadesiz": 30054800.68,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -381,9 +381,9 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 9792009.17,
+  "bakiye": 9794769.17,
   "bos_parsel": 0,
-  "kalan_bakiye": 9792009.17
+  "kalan_bakiye": 9794769.17
  },
  "bot": {
   "olay": "kosu_bitti",
@@ -394,9 +394,9 @@
   "bakiye": 9794769.17,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 3.1,
+  "gecen_dk": 3.2,
   "bot_versiyon": "v2",
-  "ts": 1792207954259,
+  "ts": 1792208165165,
   "komut_sifirlandi": true
  }
 }
