@@ -37451,3 +37451,5 @@
 {"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879354", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792261723384}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 1, "raf_doldurulan": 2, "oto_acilan": 2, "ts": 1792261987324}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 49331166.26, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.5, "bot_versiyon": "v2", "ts": 1792261990241}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 49331166.26, "bot_versiyon": "v2_hizli_siparis", "ts": 1792262012416}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 49331166.26, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.2, "bot_versiyon": "v2", "ts": 1792262264297}
