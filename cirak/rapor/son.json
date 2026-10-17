@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 15,
   "tp": 10653,
-  "nakit_kurus": 1639378392,
+  "nakit_kurus": 1639570392,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 6004689068,
-   "nakit": 1639378392,
+   "nakit": 1639570392,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 9162200000,
+     "limit": 9162600000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 15270300000,
+     "limit": 15271100000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 12216200000,
+     "limit": 12216900000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 18324400000,
+     "limit": 18325300000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792253849588,
+   "ms": 1792254137764,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 16,
-   "dakika": 17,
+   "dakika": 22,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "17 Ekim 2026, Cumartesi"
   }
  },
  "banka": {
-  "nakit": 16393783.92,
+  "nakit": 16395703.92,
   "vadesiz": 60046890.68,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -381,9 +381,9 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 16393783.92,
+  "bakiye": 16395703.92,
   "bos_parsel": 0,
-  "kalan_bakiye": 16393783.92
+  "kalan_bakiye": 16395703.92
  },
  "bot": {
   "olay": "kosu_bitti",
@@ -396,7 +396,7 @@
   "siparis_basari": 0,
   "gecen_dk": 4.5,
   "bot_versiyon": "v2",
-  "ts": 1792243320736,
+  "ts": 1792243613848,
   "komut_sifirlandi": true
  }
 }
