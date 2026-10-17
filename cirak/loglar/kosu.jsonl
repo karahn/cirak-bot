@@ -36404,3 +36404,15 @@
 {"olay": "sokak", "tur": "kedi", "id": "1745:kedi:622290", "sonuc": {"tutar": -2000, "tecrube": 1, "metin": "Kediyi besledin. Mırlayarak ayağına süründü.", "bakiye": 3924372113, "hareket": 2518417}, "ts": 1792196508411}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 129, "oto_acilan": 129, "ts": 1792196676054}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 45.8, "servis": 16, "bahsis": 3, "bakiye": 33922634.55, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792196687774}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 38231114.55, "bot_versiyon": "v2_hizli_siparis", "ts": 1792196708624}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 129, "oto_acilan": 129, "ts": 1792196845977}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1792196850565}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1792196853243}
+{"olay": "siparis_basladi", "adet": 14, "sure_sn": 30.0, "odul": 50.0, "tezgah": "kestane", "ts": 1792196856418}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "kestane", "ts": 1792196859849}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pazar", "ts": 1792196866799}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pazar", "ts": 1792196870558}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "misir", "ts": 1792196878093}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "misir", "ts": 1792196881824}
+{"olay": "ara_ozet", "tur": 5, "kazanc": 321.9, "servis": 40, "bakiye": 38230331.49, "siparis": "4/4", "gecen_dk": 3.1, "ts": 1792196891604}
+{"olay": "kosu_bitti", "tur": 5, "kazanc": 321.9, "servis": 40, "bahsis": 5, "bakiye": 38230331.49, "siparis_toplam": 4, "siparis_basari": 4, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792196894426}
