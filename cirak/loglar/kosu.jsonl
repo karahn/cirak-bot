@@ -39471,3 +39471,8 @@
 {"olay": "cirak_basla", "kod": "gozleme", "id": 186347, "ts": 1792359038542}
 {"olay": "cirak_basla", "kod": "kokorec", "id": 186348, "ts": 1792359038764}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 66143.1, "servis": 16, "bahsis": 3, "bakiye": 8354307.51, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792359045633}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 8354307.51, "bot_versiyon": "v2_hizli_siparis", "ts": 1792359065053}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 65.0, "tezgah": "kestane", "ts": 1792359071948}
+{"olay": "siparis_tamam", "kazanilan": 65.0, "tezgah": "kestane", "ts": 1792359076680}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792359237800}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 132.8, "servis": 16, "bahsis": 6, "bakiye": 8355640.34, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792359247996}
