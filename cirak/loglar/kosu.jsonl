@@ -38664,3 +38664,5 @@
 {"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879484", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792322034381}
 {"olay": "sokak", "tur": "kavga", "id": "1745:kavga:373400", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792322034601}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 1897961.29, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.9, "bot_versiyon": "v2", "ts": 1792322325190}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 1897961.29, "bot_versiyon": "v2_hizli_siparis", "ts": 1792322347972}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 1897961.29, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.4, "bot_versiyon": "v2", "ts": 1792322610845}
