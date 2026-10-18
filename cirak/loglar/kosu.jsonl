@@ -39120,3 +39120,7 @@
 {"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879535", "sonuc": {"tutar": 65000, "tecrube": 1, "metin": "Cüzdanı sahibine verdin. Sevinçten sana bir ödül bıraktı.", "itibar": 5, "bakiye": 2951974567, "hareket": 2717332}, "ts": 1792345385664}
 {"olay": "sokak", "tur": "ambulans", "id": "1745:ambulans:373405", "sonuc": {"hata": "Geç kaldın, olay bitti."}, "ts": 1792345385888}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 197.4, "servis": 16, "bahsis": 4, "bakiye": 29519785.34, "siparis_toplam": 2, "siparis_basari": 2, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792345394083}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 29519785.34, "bot_versiyon": "v2_hizli_siparis", "ts": 1792345416088}
+{"olay": "sokak", "tur": "ambulans", "id": "1745:ambulans:373405", "sonuc": {"hata": "Geç kaldın, olay bitti."}, "ts": 1792345418427}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792345585985}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 65.5, "servis": 16, "bahsis": 4, "bakiye": 29521770.87, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792345597905}
