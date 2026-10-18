@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 17,
-  "tp": 13348,
-  "nakit_kurus": 706377273,
+  "tp": 13352,
+  "nakit_kurus": 1036359321,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -25,8 +25,8 @@
    "ad": "Bağlarbaşı Mahallesi"
   },
   "banka": {
-   "vadesiz": 8001525068,
-   "nakit": 706377273,
+   "vadesiz": 6985530268,
+   "nakit": 1036359321,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 10359100000,
+     "limit": 10364300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 17265200000,
+     "limit": 17273900000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 13812100000,
+     "limit": 13819100000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 20718200000,
+     "limit": 20728700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -137,9 +137,9 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 8001525068,
+   "net": 6985530268,
    "krediNotu": {
-    "puan": 1261,
+    "puan": 1421,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792350505574,
+   "ms": 1792350714870,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,20 +158,20 @@
    "haftaGunuNo": 0,
    "haftaSonu": true,
    "saat": 19,
-   "dakika": 8,
+   "dakika": 11,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "18 Ekim 2026, Pazar"
   }
  },
  "banka": {
-  "nakit": 7063772.73,
-  "vadesiz": 80015250.68,
+  "nakit": 10363593.21,
+  "vadesiz": 69855302.68,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1261,
+   "puan": 1421,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -376,35 +376,31 @@
  },
  "seviye-bildir": {
   "seviye": 17,
-  "tp": 13348,
-  "onceki": 16,
-  "yeni_mi": true,
-  "mesaj": {
-   "hata": "Kendine mesaj gönderemezsin."
-  },
-  "yeni_dukkanlar": []
+  "tp": 13352,
+  "onceki": 17,
+  "yeni_mi": false
  },
  "dukkan-ac": {
   "ilce": 2034,
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 7063772.73,
+  "bakiye": 10363593.21,
   "bos_parsel": 0,
-  "kalan_bakiye": 7063772.73
+  "kalan_bakiye": 10363593.21
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 5,
-  "kazanc": 184.5,
-  "servis": 40,
-  "bahsis": 2,
-  "bakiye": 10356093.21,
+  "tur": 4,
+  "kazanc": 269.2,
+  "servis": 32,
+  "bahsis": 12,
+  "bakiye": 10359137.37,
   "siparis_toplam": 2,
-  "siparis_basari": 1,
+  "siparis_basari": 2,
   "gecen_dk": 3.2,
   "bot_versiyon": "v2",
-  "ts": 1792339899181,
+  "ts": 1792340111834,
   "komut_sifirlandi": true
  }
 }
