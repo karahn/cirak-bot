@@ -39124,3 +39124,12 @@
 {"olay": "sokak", "tur": "ambulans", "id": "1745:ambulans:373405", "sonuc": {"hata": "Geç kaldın, olay bitti."}, "ts": 1792345418427}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792345585985}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 65.5, "servis": 16, "bahsis": 4, "bakiye": 29521770.87, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792345597905}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 29521770.87, "bot_versiyon": "v2_hizli_siparis", "ts": 1792345619345}
+{"olay": "siparis_basladi", "adet": 9, "sure_sn": 30.0, "odul": 50.0, "tezgah": "semsiye", "ts": 1792345625674}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "semsiye", "ts": 1792345628453}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1792345629219}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1792345632642}
+{"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 50.0, "tezgah": "misir", "ts": 1792345634610}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "misir", "ts": 1792345638640}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792345799780}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 179.2, "servis": 8, "bahsis": 1, "bakiye": 29521950.05, "siparis_toplam": 3, "siparis_basari": 3, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792345802873}
