@@ -1,1 +1,1 @@
-1792282045182 tur=1 kazanc=91 servis=8 siparis=1/1
+1792282251707 tur=3 kazanc=157 servis=24 siparis=1/1
