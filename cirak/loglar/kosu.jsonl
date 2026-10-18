@@ -38122,3 +38122,5 @@
 {"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 2819731.04, "bot_versiyon": "v2_hizli_siparis", "ts": 1792285563778}
 {"olay": "ara_ozet", "tur": 5, "kazanc": 0.0, "servis": 40, "bakiye": 2819731.04, "siparis": "0/0", "gecen_dk": 3.0, "ts": 1792285745004}
 {"olay": "kosu_bitti", "tur": 5, "kazanc": 0.0, "servis": 40, "bahsis": 0, "bakiye": 2819731.04, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792285747888}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 2819731.04, "bot_versiyon": "v2_hizli_siparis", "ts": 1792285771362}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 0.0, "servis": 16, "bahsis": 0, "bakiye": 2819731.04, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792285956914}
