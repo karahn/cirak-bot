@@ -39108,3 +39108,6 @@
 {"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879534", "sonuc": {"tutar": 65000, "tecrube": 1, "metin": "Cüzdanı sahibine verdin. Sevinçten sana bir ödül bıraktı.", "itibar": 5, "bakiye": 2951883893, "hareket": 2716267}, "ts": 1792344800527}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792344974253}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 36.0, "servis": 8, "bahsis": 3, "bakiye": 29518874.88, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792344977808}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 29518874.88, "bot_versiyon": "v2_hizli_siparis", "ts": 1792345000312}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792345171527}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 63.1, "servis": 16, "bahsis": 3, "bakiye": 29518937.95, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792345183303}
