@@ -38151,3 +38151,8 @@
 {"olay": "cirak_basla", "kod": "dondurma", "id": 169433, "ts": 1792287205946}
 {"olay": "cirak_basla", "kod": "kokorec", "id": 169435, "ts": 1792287206160}
 {"olay": "kosu_bitti", "tur": 3, "kazanc": 27.2, "servis": 21, "bahsis": 2, "bakiye": 7698504.97, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.2, "bot_versiyon": "v2", "ts": 1792287214039}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 7597445.9, "bot_versiyon": "v2_hizli_siparis", "ts": 1792287237182}
+{"olay": "cirak_basla", "kod": "kestane", "id": 169439, "ts": 1792287244318}
+{"olay": "cirak_basla", "kod": "midye", "id": 169440, "ts": 1792287244560}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 129, "oto_acilan": 129, "ts": 1792287416018}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 32.8, "servis": 8, "bahsis": 1, "bakiye": 1933116.61, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792287419086}
