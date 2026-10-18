@@ -38314,3 +38314,15 @@
 {"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 2005363.96, "bot_versiyon": "v2_hizli_siparis", "ts": 1792290976030}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 129, "oto_acilan": 129, "ts": 1792291152653}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 28.0, "servis": 8, "bahsis": 0, "bakiye": 2005391.95, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792291156257}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 2005391.95, "bot_versiyon": "v2_hizli_siparis", "ts": 1792291178030}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 129, "oto_acilan": 129, "ts": 1792291319416}
+{"olay": "sokak", "tur": "itfaiye", "id": "1745:itfaiye:116685", "sonuc": {"tutar": 31250, "tecrube": 2, "metin": "İhbarın alındı. İtfaiye yola çıktı; binadan uzak dur.", "bakiye": 200573088, "hareket": 2633238}, "ts": 1792291323591}
+{"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 50.0, "tezgah": "ayakkabi", "ts": 1792291331035}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "ayakkabi", "ts": 1792291333619}
+{"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 50.0, "tezgah": "semsiye", "ts": 1792291334823}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "semsiye", "ts": 1792291337346}
+{"olay": "siparis_basladi", "adet": 14, "sure_sn": 30.0, "odul": 50.0, "tezgah": "misir", "ts": 1792291339551}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "misir", "ts": 1792291343188}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 78.0, "tezgah": "kestane", "ts": 1792291352538}
+{"olay": "siparis_tamam", "kazanilan": 78.0, "tezgah": "kestane", "ts": 1792291355339}
+{"olay": "kosu_bitti", "tur": 4, "kazanc": 360.1, "servis": 32, "bahsis": 5, "bakiye": 2006064.56, "siparis_toplam": 4, "siparis_basari": 4, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792291358611}
