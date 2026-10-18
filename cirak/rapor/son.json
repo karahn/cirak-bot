@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 16,
   "tp": 12387,
-  "nakit_kurus": 3520505740,
+  "nakit_kurus": 3520625740,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 8002316068,
-   "nakit": 3520505740,
+   "nakit": 3520625740,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 11201000000,
+     "limit": 11202100000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 18668400000,
+     "limit": 18670100000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 14934700000,
+     "limit": 14936100000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 22402100000,
+     "limit": 22404200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792340171256,
+   "ms": 1792340440192,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,14 +158,14 @@
    "haftaGunuNo": 0,
    "haftaSonu": true,
    "saat": 16,
-   "dakika": 16,
+   "dakika": 20,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "18 Ekim 2026, Pazar"
   }
  },
  "banka": {
-  "nakit": 35205057.4,
+  "nakit": 35206257.4,
   "vadesiz": 80023160.68,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -385,9 +385,9 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 35205057.4,
+  "bakiye": 35206257.4,
   "bos_parsel": 0,
-  "kalan_bakiye": 35205057.4
+  "kalan_bakiye": 35206257.4
  },
  "bot": {
   "olay": "kosu_bitti",
@@ -398,9 +398,9 @@
   "bakiye": 35206257.4,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 4.1,
+  "gecen_dk": 4.9,
   "bot_versiyon": "v2",
-  "ts": 1792329623135,
+  "ts": 1792329940465,
   "komut_sifirlandi": true
  }
 }
