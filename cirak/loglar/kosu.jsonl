@@ -40330,3 +40330,16 @@
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "misir", "ts": 1792411397308}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 45, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792411677586}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 79.3, "servis": 8, "bahsis": 1, "bakiye": 38990677.94, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 4.9, "bot_versiyon": "v2", "ts": 1792411679824}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 38990677.94, "bot_versiyon": "v2_hizli_siparis", "ts": 1792411698012}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "simit", "ts": 1792411702264}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "simit", "ts": 1792411706164}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792411841461}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879679", "sonuc": {"tutar": 70000, "tecrube": 1, "metin": "Cüzdanı sahibine verdin. Sevinçten sana bir ödül bıraktı.", "itibar": 5, "bakiye": 1899265145, "hareket": 2812416}, "ts": 1792411844563}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "semsiye", "ts": 1792411846108}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "semsiye", "ts": 1792411849965}
+{"olay": "siparis_basladi", "adet": 9, "sure_sn": 30.0, "odul": 50.0, "tezgah": "ayakkabi", "ts": 1792411856069}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "ayakkabi", "ts": 1792411858340}
+{"olay": "siparis_basladi", "adet": 8, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1792411873201}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1792411875200}
+{"olay": "ara_ozet", "tur": 5, "kazanc": 353.9, "servis": 40, "bakiye": 18992931.8, "siparis": "4/4", "gecen_dk": 3.0, "ts": 1792411878831}
+{"olay": "kosu_bitti", "tur": 5, "kazanc": 353.9, "servis": 40, "bahsis": 7, "bakiye": 18992931.8, "siparis_toplam": 4, "siparis_basari": 4, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792411881026}
