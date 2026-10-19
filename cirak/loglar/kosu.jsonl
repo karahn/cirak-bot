@@ -40573,3 +40573,6 @@
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792418513997}
 {"olay": "sokak", "tur": "muzisyen", "id": "1745:muzisyen:497894", "sonuc": {"tutar": -5000, "tecrube": 1, "metin": "Müzisyene bahşiş verdin. Sıradaki şarkı senin için çalınacak.", "bakiye": 2926564593, "hareket": 2820650, "ad": "Karahan"}, "ts": 1792418517634}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 50455.6, "servis": 16, "bahsis": 3, "bakiye": 29265674.72, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792418524680}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 29265674.72, "bot_versiyon": "v2_hizli_siparis", "ts": 1792418543883}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 221, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792418811064}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 31.1, "servis": 8, "bahsis": 3, "bakiye": 40046405.86, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.5, "bot_versiyon": "v2", "ts": 1792418813290}
