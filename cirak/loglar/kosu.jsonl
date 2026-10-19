@@ -40262,3 +40262,7 @@
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 0, "bahsis": 0, "bakiye": 21925100.17, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.9, "bot_versiyon": "v2", "ts": 1792407475677}
 {"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 21925100.17, "bot_versiyon": "v2_hizli_siparis", "ts": 1792407494495}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 0, "bahsis": 0, "bakiye": 21869671.48, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.7, "bot_versiyon": "v2", "ts": 1792407774725}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 21869671.48, "bot_versiyon": "v2_hizli_siparis", "ts": 1792407796296}
+{"olay": "sokak", "tur": "kedi", "id": "1745:kedi:622363", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792407797887}
+{"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3879670", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792407798113}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 0, "bahsis": 0, "bakiye": 21869671.48, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.8, "bot_versiyon": "v2", "ts": 1792408083959}
