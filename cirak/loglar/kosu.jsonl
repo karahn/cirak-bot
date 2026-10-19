@@ -40629,3 +40629,9 @@
 {"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pazar", "ts": 1792420475886}
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pazar", "ts": 1792420480815}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 110.2, "servis": 16, "bahsis": 6, "bakiye": 40056165.25, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.2, "bot_versiyon": "v2", "ts": 1792420484590}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 40056165.25, "bot_versiyon": "v2_hizli_siparis", "ts": 1792420505669}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792420674128}
+{"olay": "sokak", "tur": "kedi", "id": "1745:kedi:622368", "sonuc": {"tutar": -2000, "tecrube": 1, "metin": "Kediyi besledin. Mırlayarak ayağına süründü.", "bakiye": 4005617273, "hareket": 2823565}, "ts": 1792420677997}
+{"olay": "siparis_basladi", "adet": 14, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1792420688040}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1792420692434}
+{"olay": "kosu_bitti", "tur": 3, "kazanc": 140.7, "servis": 24, "bahsis": 5, "bakiye": 40056285.99, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.2, "bot_versiyon": "v2", "ts": 1792420697358}
