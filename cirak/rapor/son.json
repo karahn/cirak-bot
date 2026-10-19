@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 19,
   "tp": 20373,
-  "nakit_kurus": 4004643142,
+  "nakit_kurus": 4004662652,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 2906630683,
-   "nakit": 4004643142,
+   "nakit": 4004662652,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 10102100000,
+     "limit": 10102400000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 16836800000,
+     "limit": 16837300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 13469400000,
+     "limit": 13469800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 20204200000,
+     "limit": 20204800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -159,7 +159,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792429849526,
+   "ms": 1792430048321,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -168,14 +168,14 @@
    "haftaGunuNo": 1,
    "haftaSonu": false,
    "saat": 17,
-   "dakika": 10,
+   "dakika": 14,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "19 Ekim 2026, Pazartesi"
   }
  },
  "banka": {
-  "nakit": 40046431.42,
+  "nakit": 40046626.52,
   "vadesiz": 29066306.83,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -395,22 +395,22 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 40046431.42,
+  "bakiye": 40046626.52,
   "bos_parsel": 0,
-  "kalan_bakiye": 40046431.42
+  "kalan_bakiye": 40046626.52
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 3,
-  "kazanc": 195.1,
-  "servis": 24,
-  "bahsis": 7,
-  "bakiye": 40046626.52,
-  "siparis_toplam": 2,
-  "siparis_basari": 2,
-  "gecen_dk": 3.0,
+  "tur": 5,
+  "kazanc": 302.4,
+  "servis": 40,
+  "bahsis": 8,
+  "bakiye": 40046928.95,
+  "siparis_toplam": 3,
+  "siparis_basari": 3,
+  "gecen_dk": 3.1,
   "bot_versiyon": "v2",
-  "ts": 1792419232412,
+  "ts": 1792419436619,
   "komut_sifirlandi": true
  }
 }
