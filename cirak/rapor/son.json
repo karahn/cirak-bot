@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 19,
-  "tp": 20536,
-  "nakit_kurus": 2638910104,
+  "tp": 20538,
+  "nakit_kurus": 2638972652,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 5906630683,
-   "nakit": 2638910104,
+   "nakit": 2638972652,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 14298500000,
+     "limit": 14298600000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 21447800000,
+     "limit": 21447900000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792442254516,
+   "ms": 1792442461306,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,14 +158,14 @@
    "haftaGunuNo": 1,
    "haftaSonu": false,
    "saat": 20,
-   "dakika": 37,
+   "dakika": 41,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "19 Ekim 2026, Pazartesi"
   }
  },
  "banka": {
-  "nakit": 26389101.04,
+  "nakit": 26389726.52,
   "vadesiz": 59066306.83,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -376,7 +376,7 @@
  },
  "seviye-bildir": {
   "seviye": 19,
-  "tp": 20536,
+  "tp": 20538,
   "onceki": 19,
   "yeni_mi": false
  },
@@ -385,22 +385,22 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 26389101.04,
+  "bakiye": 26389726.52,
   "bos_parsel": 0,
-  "kalan_bakiye": 26389101.04
+  "kalan_bakiye": 26389726.52
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 4,
-  "kazanc": 275.5,
-  "servis": 32,
-  "bahsis": 5,
-  "bakiye": 26389726.52,
-  "siparis_toplam": 3,
-  "siparis_basari": 3,
-  "gecen_dk": 3.1,
+  "tur": 3,
+  "kazanc": 318.7,
+  "servis": 24,
+  "bahsis": 4,
+  "bakiye": 26390745.25,
+  "siparis_toplam": 4,
+  "siparis_basari": 4,
+  "gecen_dk": 3.3,
   "bot_versiyon": "v2",
-  "ts": 1792431643963,
+  "ts": 1792431858683,
   "komut_sifirlandi": true
  }
 }
