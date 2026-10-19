@@ -39868,3 +39868,18 @@
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 0.0, "servis": 16, "bahsis": 0, "bakiye": 946014.86, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792371082479}
 {"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 946014.86, "bot_versiyon": "v2_hizli_siparis", "ts": 1792371102302}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 947214.86, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792371282799}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 947214.86, "bot_versiyon": "v2_hizli_siparis", "ts": 1792371301766}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 1, "raf_doldurulan": 10, "oto_acilan": 8, "ts": 1792371459138}
+{"olay": "topladi", "adet": 12, "net": 48646.03, "ts": 1792371471697}
+{"olay": "ben_basla", "kod": "ayakkabi", "id": 187740, "ts": 1792371473039}
+{"olay": "cirak_basla", "kod": "su", "id": 187741, "ts": 1792371473265}
+{"olay": "cirak_basla", "kod": "simit", "id": 187742, "ts": 1792371473790}
+{"olay": "cirak_basla", "kod": "pazar", "id": 187743, "ts": 1792371473970}
+{"olay": "cirak_basla", "kod": "kestane", "id": 187744, "ts": 1792371474319}
+{"olay": "cirak_basla", "kod": "midye", "id": 187745, "ts": 1792371474505}
+{"olay": "cirak_basla", "kod": "dondurma", "id": 187746, "ts": 1792371474691}
+{"olay": "cirak_basla", "kod": "gozleme", "id": 187747, "ts": 1792371474867}
+{"olay": "yetenek", "kod": "yonetim", "sonuc": {"puan": 17, "kullanilan": 17, "bos": 0, "enCok": 5, "sifirlamaUcreti": 18000000, "liste": [{"kod": "satis", "simge": "🗣️", "ad": "Satış ustası", "derece": 5, "simdi": "Tezgâh satışların %15 artar.", "sonraki": null}, {"kod": "pazarlik", "simge": "🤝", "ad": "Pazarlıkçı", "derece": 5, "simdi": "Toptancıdan, pazardan ve tezgâh malzemesini alırken %10 ucuza alırsın.", "sonraki": null}, {"kod": "tuccar", "simge": "⚖️", "ad": "Tüccar", "derece": 1, "simdi": "Toptan pazara satarken %2 daha iyi fiyat alırsın.", "sonraki": "Toptan pazara satarken %4 daha iyi fiyat alırsın."}, {"kod": "verimli", "simge": "⚙️", "ad": "Verimli üretim", "derece": 1, "simdi": "Tesislerindeki üretim %4 daha kısa sürer.", "sonraki": "Tesislerindeki üretim %8 daha kısa sürer."}, {"kod": "yonetim", "simge": "📋", "ad": "İyi yönetici", "derece": 5, "simdi": "Çırak yevmiyesi ve üretim giderleri %20 azalır.", "sonraki": null}, {"kod": "itibar", "simge": "🏅", "ad": "Esnaf itibarı", "derece": 0, "simdi": "Zabıta cezaları %0 hafif olur.", "sonraki": "Zabıta cezaları %12 hafif olur."}]}, "ts": 1792371482098}
+{"olay": "cirak_basla", "kod": "semsiye", "id": 187748, "ts": 1792371483013}
+{"olay": "ara_ozet", "tur": 5, "kazanc": 48699.0, "servis": 26, "bakiye": 1010338.73, "siparis": "0/0", "gecen_dk": 3.1, "ts": 1792371487859}
+{"olay": "kosu_bitti", "tur": 5, "kazanc": 48699.0, "servis": 26, "bahsis": 2, "bakiye": 1010338.73, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792371490023}
