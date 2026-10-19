@@ -39832,3 +39832,5 @@
 {"olay": "kosu_bitti", "tur": 3, "kazanc": 0.0, "servis": 24, "bahsis": 0, "bakiye": 942234.86, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792368016273}
 {"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 942234.86, "bot_versiyon": "v2_hizli_siparis", "ts": 1792368036981}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 0.0, "servis": 16, "bahsis": 0, "bakiye": 943434.86, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792368221025}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 943434.86, "bot_versiyon": "v2_hizli_siparis", "ts": 1792368240498}
+{"olay": "kosu_bitti", "tur": 3, "kazanc": 0.0, "servis": 24, "bahsis": 0, "bakiye": 943434.86, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792368427781}
