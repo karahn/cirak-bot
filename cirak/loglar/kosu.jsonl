@@ -40661,3 +40661,7 @@
 {"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 60.0, "tezgah": "kestane", "ts": 1792421120254}
 {"olay": "siparis_tamam", "kazanilan": 60.0, "tezgah": "kestane", "ts": 1792421123551}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 215.3, "servis": 16, "bahsis": 2, "bakiye": 40104166.12, "siparis_toplam": 3, "siparis_basari": 3, "gecen_dk": 3.3, "bot_versiyon": "v2", "ts": 1792421126451}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 40104166.12, "bot_versiyon": "v2_hizli_siparis", "ts": 1792421148317}
+{"olay": "sokak", "tur": "kavga", "id": "1745:kavga:373421", "sonuc": {"hata": "Geç kaldın, olay bitti."}, "ts": 1792421149939}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792421322329}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 49.2, "servis": 16, "bahsis": 3, "bakiye": 40104215.32, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792421333102}
