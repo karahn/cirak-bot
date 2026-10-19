@@ -40773,3 +40773,20 @@
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "simit", "ts": 1792425565396}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792425736294}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 82.6, "servis": 8, "bahsis": 3, "bakiye": 30862545.69, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792425738544}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 30866771.69, "bot_versiyon": "v2_hizli_siparis", "ts": 1792425766249}
+{"olay": "sokak", "tur": "muzisyen", "id": "1745:muzisyen:497896", "sonuc": {"tutar": -5000, "tecrube": 1, "metin": "Müzisyene bahşiş verdin. Sıradaki şarkı senin için çalınacak.", "bakiye": 3086672169, "hareket": 2831175, "ad": "Karahan"}, "ts": 1792425770966}
+{"olay": "topladi", "adet": 12, "net": 50360.93, "ts": 1792425773665}
+{"olay": "ben_basla", "kod": "ayakkabi", "id": 194505, "ts": 1792425775458}
+{"olay": "cirak_basla", "kod": "su", "id": 194506, "ts": 1792425775820}
+{"olay": "cirak_basla", "kod": "semsiye", "id": 194507, "ts": 1792425776187}
+{"olay": "cirak_basla", "kod": "pamuk", "id": 194508, "ts": 1792425777465}
+{"olay": "cirak_basla", "kod": "simit", "id": 194509, "ts": 1792425777867}
+{"olay": "cirak_basla", "kod": "pazar", "id": 194510, "ts": 1792425778233}
+{"olay": "cirak_basla", "kod": "misir", "id": 194511, "ts": 1792425778579}
+{"olay": "cirak_basla", "kod": "kestane", "id": 194512, "ts": 1792425778951}
+{"olay": "cirak_basla", "kod": "midye", "id": 194513, "ts": 1792425779359}
+{"olay": "cirak_basla", "kod": "dondurma", "id": 194514, "ts": 1792425780291}
+{"olay": "cirak_basla", "kod": "gozleme", "id": 194515, "ts": 1792425780817}
+{"olay": "cirak_basla", "kod": "kokorec", "id": 194516, "ts": 1792425781447}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 212, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792426201848}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 50386.7, "servis": 8, "bahsis": 1, "bakiye": 46774401.58, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 7.3, "bot_versiyon": "v2", "ts": 1792426204233}
