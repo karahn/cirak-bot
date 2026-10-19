@@ -40665,3 +40665,6 @@
 {"olay": "sokak", "tur": "kavga", "id": "1745:kavga:373421", "sonuc": {"hata": "Geç kaldın, olay bitti."}, "ts": 1792421149939}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792421322329}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 49.2, "servis": 16, "bahsis": 3, "bakiye": 40104215.32, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792421333102}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 40104215.32, "bot_versiyon": "v2_hizli_siparis", "ts": 1792421356836}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 5, "oto_acilan": 6, "ts": 1792421530844}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 24.7, "servis": 16, "bahsis": 0, "bakiye": 40104940.0, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792421541447}
