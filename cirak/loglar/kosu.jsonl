@@ -40651,3 +40651,13 @@
 {"olay": "cirak_basla", "kod": "gozleme", "id": 193860, "ts": 1792420898279}
 {"olay": "cirak_basla", "kod": "kokorec", "id": 193861, "ts": 1792420898509}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 49086.7, "servis": 16, "bahsis": 4, "bakiye": 40103950.77, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792420905378}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 40103950.77, "bot_versiyon": "v2_hizli_siparis", "ts": 1792420926027}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792421103666}
+{"olay": "sokak", "tur": "kavga", "id": "1745:kavga:373421", "sonuc": {"hata": "Geç kaldın, olay bitti."}, "ts": 1792421107395}
+{"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1792421108683}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1792421112959}
+{"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1792421114403}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1792421117655}
+{"olay": "siparis_basladi", "adet": 10, "sure_sn": 30.0, "odul": 60.0, "tezgah": "kestane", "ts": 1792421120254}
+{"olay": "siparis_tamam", "kazanilan": 60.0, "tezgah": "kestane", "ts": 1792421123551}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 215.3, "servis": 16, "bahsis": 2, "bakiye": 40104166.12, "siparis_toplam": 3, "siparis_basari": 3, "gecen_dk": 3.3, "bot_versiyon": "v2", "ts": 1792421126451}
