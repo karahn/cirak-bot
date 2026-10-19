@@ -40822,3 +40822,6 @@
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1792427162691}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792427364822}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 92.5, "servis": 8, "bahsis": 3, "bakiye": 46776603.26, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.6, "bot_versiyon": "v2", "ts": 1792427367099}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 46776603.26, "bot_versiyon": "v2_hizli_siparis", "ts": 1792427390311}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792427620452}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 29.6, "servis": 8, "bahsis": 2, "bakiye": 46776632.81, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.9, "bot_versiyon": "v2", "ts": 1792427622738}
