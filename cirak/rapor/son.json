@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 18,
   "tp": 16109,
-  "nakit_kurus": 3510000,
+  "nakit_kurus": 3630000,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 1908212683,
-   "nakit": 3510000,
+   "nakit": 3630000,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 9077500000,
+     "limit": 9085100000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 15129200000,
+     "limit": 15141800000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 12103300000,
+     "limit": 12113500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 18155000000,
+     "limit": 18170200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792396620408,
+   "ms": 1792396821857,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,15 +157,15 @@
    "haftaGunu": "Pazartesi",
    "haftaGunuNo": 1,
    "haftaSonu": false,
-   "saat": 7,
-   "dakika": 57,
+   "saat": 8,
+   "dakika": 0,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "19 Ekim 2026, Pazartesi"
   }
  },
  "banka": {
-  "nakit": 35100.0,
+  "nakit": 36300.0,
   "vadesiz": 19082126.83,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -385,9 +385,9 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 35100.0,
+  "bakiye": 36300.0,
   "bos_parsel": 0,
-  "kalan_bakiye": 35100.0
+  "kalan_bakiye": 36300.0
  },
  "bot": {
   "olay": "kosu_bitti",
@@ -395,12 +395,12 @@
   "kazanc": 0.0,
   "servis": 8,
   "bahsis": 0,
-  "bakiye": 36300.0,
+  "bakiye": 40080.0,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 3.0,
+  "gecen_dk": 3.2,
   "bot_versiyon": "v2",
-  "ts": 1792386004727,
+  "ts": 1792386216057,
   "komut_sifirlandi": true
  }
 }
