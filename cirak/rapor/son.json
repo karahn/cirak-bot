@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "Karahan",
   "seviye": 19,
-  "tp": 20539,
-  "nakit_kurus": 3103900486,
+  "tp": 20724,
+  "nakit_kurus": 3923387631,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -25,8 +25,8 @@
    "ad": "Bağlarbaşı Mahallesi"
   },
   "banka": {
-   "vadesiz": 6935842581,
-   "nakit": 3103900486,
+   "vadesiz": 6993228616,
+   "nakit": 3923387631,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 11139500000,
+     "limit": 11283300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 18565900000,
+     "limit": 18805500000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 14852700000,
+     "limit": 15044400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 22279100000,
+     "limit": 22566700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -137,9 +137,9 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 6935842581,
+   "net": 6993228616,
    "krediNotu": {
-    "puan": 1436,
+    "puan": 1437,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792493919650,
+   "ms": 1792494197153,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,21 +157,21 @@
    "haftaGunu": "Salı",
    "haftaGunuNo": 2,
    "haftaSonu": false,
-   "saat": 10,
-   "dakika": 58,
+   "saat": 11,
+   "dakika": 3,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "20 Ekim 2026, Salı"
   }
  },
  "banka": {
-  "nakit": 31039004.86,
-  "vadesiz": 69358425.81,
+  "nakit": 39233876.31,
+  "vadesiz": 69932286.16,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1436,
+   "puan": 1437,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -376,7 +376,7 @@
  },
  "seviye-bildir": {
   "seviye": 19,
-  "tp": 20539,
+  "tp": 20724,
   "onceki": 19,
   "yeni_mi": false
  },
@@ -385,22 +385,22 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 31039004.86,
+  "bakiye": 39233876.31,
   "bos_parsel": 0,
-  "kalan_bakiye": 31039004.86
+  "kalan_bakiye": 39233876.31
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 1,
-  "kazanc": 0.0,
-  "servis": 8,
-  "bahsis": 0,
-  "bakiye": 39347699.98,
-  "siparis_toplam": 0,
-  "siparis_basari": 0,
-  "gecen_dk": 4.3,
+  "tur": 6,
+  "kazanc": 257.7,
+  "servis": 48,
+  "bahsis": 5,
+  "bakiye": 19668301.17,
+  "siparis_toplam": 2,
+  "siparis_basari": 2,
+  "gecen_dk": 3.1,
   "bot_versiyon": "v2",
-  "ts": 1792483379126,
+  "ts": 1792483586014,
   "komut_sifirlandi": true
  }
 }
