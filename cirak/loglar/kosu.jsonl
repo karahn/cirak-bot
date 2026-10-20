@@ -42568,3 +42568,6 @@
 {"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 21981975.17, "bot_versiyon": "v2_hizli_siparis", "ts": 1792526444425}
 {"olay": "sokak", "tur": "muzisyen", "id": "1745:muzisyen:497924", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792526446077}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 21988875.17, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.3, "bot_versiyon": "v2", "ts": 1792526642516}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 21988875.17, "bot_versiyon": "v2_hizli_siparis", "ts": 1792526663511}
+{"olay": "sokak", "tur": "muzisyen", "id": "1745:muzisyen:497924", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792526665183}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 21988875.17, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.3, "bot_versiyon": "v2", "ts": 1792526858417}
