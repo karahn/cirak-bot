@@ -25,7 +25,7 @@
    "ad": "Bağlarbaşı Mahallesi"
   },
   "banka": {
-   "vadesiz": 6993228616,
+   "vadesiz": 6992437616,
    "nakit": 4430825950,
    "vadeliler": [],
    "krediler": [],
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 12128800000,
+     "limit": 12128900000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 24257700000,
+     "limit": 24257800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -137,9 +137,9 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 6993228616,
+   "net": 6992437616,
    "krediNotu": {
-    "puan": 1437,
+    "puan": 1438,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792514902000,
+   "ms": 1792515218075,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,7 +158,7 @@
    "haftaGunuNo": 2,
    "haftaSonu": false,
    "saat": 16,
-   "dakika": 48,
+   "dakika": 53,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "20 Ekim 2026, Salı"
@@ -166,12 +166,12 @@
  },
  "banka": {
   "nakit": 44308259.5,
-  "vadesiz": 69932286.16,
+  "vadesiz": 69924376.16,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1437,
+   "puan": 1438,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -398,9 +398,9 @@
   "bakiye": 44308259.5,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 4.9,
+  "gecen_dk": 4.8,
   "bot_versiyon": "v2",
-  "ts": 1792504397867,
+  "ts": 1792504709968,
   "komut_sifirlandi": true
  }
 }
