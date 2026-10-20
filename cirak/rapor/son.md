@@ -1,12 +1,12 @@
 # Çırak raporu — cerez-kontrol
 
-**Zaman:** 2026-10-20 06:05:02 UTC
+**Zaman:** 2026-10-20 06:08:28 UTC
 
 ## Oyuncu
 
 - Ad: **Karahan**
 - Seviye: 19 · TP: 20539
-- Nakit: 30945860.86 ₺
+- Nakit: 30966202.86 ₺
 - Konum: Ankara / Keçiören / Bağlarbaşı Mahallesi
 
 
@@ -14,57 +14,57 @@
 
 # Çırak raporu — banka
 
-**Zaman:** 2026-10-20 06:05:02 UTC
+**Zaman:** 2026-10-20 06:08:28 UTC
 
 
 ---
 
 # Çırak raporu — havale
 
-**Zaman:** 2026-10-20 06:05:02 UTC
+**Zaman:** 2026-10-20 06:08:28 UTC
 
 
 ---
 
 # Çırak raporu — mesaj-oku
 
-**Zaman:** 2026-10-20 06:05:02 UTC
+**Zaman:** 2026-10-20 06:08:28 UTC
 
 
 ---
 
 # Çırak raporu — oda
 
-**Zaman:** 2026-10-20 06:05:02 UTC
+**Zaman:** 2026-10-20 06:08:28 UTC
 
 
 ---
 
 # Çırak raporu — seviye-bildir
 
-**Zaman:** 2026-10-20 06:05:02 UTC
+**Zaman:** 2026-10-20 06:08:28 UTC
 
 
 ---
 
 # Çırak raporu — dukkan-ac
 
-**Zaman:** 2026-10-20 06:05:02 UTC
+**Zaman:** 2026-10-20 06:08:28 UTC
 
 
 ---
 
 # Çırak raporu — bot
 
-**Zaman:** 1792476302565 UTC
+**Zaman:** 1792476508539 UTC
 
 ## Bot koşusu
 
 | Alan | Değer |
 |---|---|
-| Süre | 3.1 dk |
-| Tur | 4 |
+| Süre | 3.2 dk |
+| Tur | 2 |
 | Kazanç | 0.0 ₺ |
-| Servis | 32 |
+| Servis | 16 |
 | Bahşiş | 0 |
-| Bakiye | 30966202.86 ₺ |
+| Bakiye | 30979678.86 ₺ |
