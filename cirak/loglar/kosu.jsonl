@@ -42076,3 +42076,5 @@
 {"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 44593315.89, "bot_versiyon": "v2_hizli_siparis", "ts": 1792495506639}
 {"olay": "sokak", "tur": "kedi", "id": "1745:kedi:622394", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792495508285}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 44593315.89, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.7, "bot_versiyon": "v2", "ts": 1792495785783}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 44593315.89, "bot_versiyon": "v2_hizli_siparis", "ts": 1792495806067}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 44593315.89, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.9, "bot_versiyon": "v2", "ts": 1792496100035}
