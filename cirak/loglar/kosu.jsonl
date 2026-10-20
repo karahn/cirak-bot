@@ -41750,3 +41750,16 @@
 {"olay": "siparis_basladi", "adet": 9, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1792486654217}
 {"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1792486657019}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 244.8, "servis": 16, "bahsis": 3, "bakiye": 19730218.52, "siparis_toplam": 3, "siparis_basari": 3, "gecen_dk": 3.2, "bot_versiyon": "v2", "ts": 1792486661925}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 19730218.52, "bot_versiyon": "v2_hizli_siparis", "ts": 1792486680138}
+{"olay": "siparis_basladi", "adet": 13, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1792486682742}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1792486685942}
+{"olay": "siparis_basladi", "adet": 8, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pazar", "ts": 1792486688092}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pazar", "ts": 1792486689998}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792486817206}
+{"olay": "sokak", "tur": "kavga", "id": "1745:kavga:373434", "sonuc": {"tutar": 35000, "tecrube": 2, "metin": "İhbarın alındı. Polis ekibi yola çıktı; lütfen güvenli bir mesafede bekle.", "bakiye": 1972549302, "hareket": 2870816}, "ts": 1792486820277}
+{"olay": "siparis_basladi", "adet": 9, "sure_sn": 30.0, "odul": 50.0, "tezgah": "misir", "ts": 1792486830664}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "misir", "ts": 1792486832779}
+{"olay": "ara_ozet", "tur": 5, "kazanc": 296.2, "servis": 40, "bakiye": 19725662.69, "siparis": "3/3", "gecen_dk": 2.8, "ts": 1792486847766}
+{"olay": "siparis_basladi", "adet": 12, "sure_sn": 30.0, "odul": 50.0, "tezgah": "semsiye", "ts": 1792486852121}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "semsiye", "ts": 1792486855063}
+{"olay": "kosu_bitti", "tur": 7, "kazanc": 416.2, "servis": 56, "bahsis": 10, "bakiye": 19725782.71, "siparis_toplam": 4, "siparis_basari": 4, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792486866777}
