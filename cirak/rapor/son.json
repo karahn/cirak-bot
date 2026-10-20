@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 19,
   "tp": 20985,
-  "nakit_kurus": 4430825950,
+  "nakit_kurus": 4431221950,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 6992437616,
-   "nakit": 4430825950,
+   "nakit": 4431221950,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 12271300000,
+     "limit": 12271700000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 20452200000,
+     "limit": 20452800000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 16361700000,
+     "limit": 16362200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 24542600000,
+     "limit": 24543400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792515844941,
+   "ms": 1792516125812,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,14 +158,14 @@
    "haftaGunuNo": 2,
    "haftaSonu": false,
    "saat": 17,
-   "dakika": 4,
+   "dakika": 8,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "20 Ekim 2026, Salı"
   }
  },
  "banka": {
-  "nakit": 44308259.5,
+  "nakit": 44312219.5,
   "vadesiz": 69924376.16,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -385,9 +385,9 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 44308259.5,
+  "bakiye": 44312219.5,
   "bos_parsel": 0,
-  "kalan_bakiye": 44308259.5
+  "kalan_bakiye": 44312219.5
  },
  "bot": {
   "olay": "kosu_bitti",
@@ -395,12 +395,12 @@
   "kazanc": 0.0,
   "servis": 8,
   "bahsis": 0,
-  "bakiye": 44308259.5,
+  "bakiye": 44312219.5,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 4.3,
+  "gecen_dk": 6.1,
   "bot_versiyon": "v2",
-  "ts": 1792505305681,
+  "ts": 1792505696569,
   "komut_sifirlandi": true
  }
 }
