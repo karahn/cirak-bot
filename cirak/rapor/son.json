@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 18176300000,
+     "limit": 18176400000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 21811600000,
+     "limit": 21811700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792480760029,
+   "ms": 1792481017929,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,7 +158,7 @@
    "haftaGunuNo": 2,
    "haftaSonu": false,
    "saat": 7,
-   "dakika": 19,
+   "dakika": 23,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "20 Ekim 2026, Salı"
@@ -398,9 +398,9 @@
   "bakiye": 30923057.86,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 3.9,
+  "gecen_dk": 4.1,
   "bot_versiyon": "v2",
-  "ts": 1792470198806,
+  "ts": 1792470463926,
   "komut_sifirlandi": true
  }
 }
