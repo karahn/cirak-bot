@@ -42520,3 +42520,10 @@
 {"olay": "keyif_kamp", "onceki": 77, "bakiye": 22026141.72, "sonuc": {"id": 1827, "fiyat": 55200, "keyif": 99, "davetEdilen": []}, "ts": 1792523342168}
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792523523305}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 29.7, "servis": 8, "bahsis": 1, "bakiye": 22025619.44, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792523525558}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 22025619.44, "bot_versiyon": "v2_hizli_siparis", "ts": 1792523545885}
+{"olay": "siparis_basladi", "adet": 15, "sure_sn": 30.0, "odul": 50.0, "tezgah": "su", "ts": 1792523550127}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "su", "ts": 1792523555407}
+{"olay": "siparis_basladi", "adet": 11, "sure_sn": 30.0, "odul": 50.0, "tezgah": "pamuk", "ts": 1792523556812}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "pamuk", "ts": 1792523560337}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792523732033}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 138.8, "servis": 8, "bahsis": 1, "bakiye": 22025758.25, "siparis_toplam": 2, "siparis_basari": 2, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792523734265}
