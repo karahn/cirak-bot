@@ -42303,3 +42303,8 @@
 {"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792516433720}
 {"olay": "sokak", "tur": "ambulans", "id": "1745:ambulans:373440", "sonuc": {"tutar": 35000, "tecrube": 2, "metin": "İhbarın alındı. Ambulans yola çıktı; sağlık ekibine yer aç.", "bakiye": 1480740369, "hareket": 2902328}, "ts": 1792516437301}
 {"olay": "kosu_bitti", "tur": 2, "kazanc": 50.7, "servis": 16, "bahsis": 4, "bakiye": 14807430.24, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792516444414}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 14807430.24, "bot_versiyon": "v2_hizli_siparis", "ts": 1792516465855}
+{"olay": "siparis_basladi", "adet": 8, "sure_sn": 30.0, "odul": 50.0, "tezgah": "misir", "ts": 1792516473287}
+{"olay": "siparis_tamam", "kazanilan": 50.0, "tezgah": "misir", "ts": 1792516476012}
+{"olay": "dukkan_yonet_periodik", "kasa_toplanan": 0, "raf_doldurulan": 130, "oto_acilan": 130, "ts": 1792516660992}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 73.8, "servis": 8, "bahsis": 1, "bakiye": 14807504.06, "siparis_toplam": 1, "siparis_basari": 1, "gecen_dk": 3.3, "bot_versiyon": "v2", "ts": 1792516663606}
