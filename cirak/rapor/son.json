@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 19,
   "tp": 21267,
-  "nakit_kurus": 2199418088,
+  "nakit_kurus": 2199556088,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 10091646616,
-   "nakit": 2199418088,
+   "nakit": 2199556088,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 12824300000,
+     "limit": 12824700000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 21373800000,
+     "limit": 21374600000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 17099000000,
+     "limit": 17099700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 25648600000,
+     "limit": 25649500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792544880058,
+   "ms": 1792545148309,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,14 +158,14 @@
    "haftaGunuNo": 3,
    "haftaSonu": false,
    "saat": 1,
-   "dakika": 8,
+   "dakika": 12,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "21 Ekim 2026, Çarşamba"
   }
  },
  "banka": {
-  "nakit": 21994180.88,
+  "nakit": 21995560.88,
   "vadesiz": 100916466.16,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -385,9 +385,9 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 21994180.88,
+  "bakiye": 21995560.88,
   "bos_parsel": 0,
-  "kalan_bakiye": 21994180.88
+  "kalan_bakiye": 21995560.88
  },
  "bot": {
   "olay": "kosu_bitti",
@@ -398,9 +398,9 @@
   "bakiye": 21995560.88,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 4.1,
+  "gecen_dk": 3.4,
   "bot_versiyon": "v2",
-  "ts": 1792534331711,
+  "ts": 1792534555943,
   "komut_sifirlandi": true
  }
 }
