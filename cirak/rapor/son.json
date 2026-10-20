@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 19,
   "tp": 20539,
-  "nakit_kurus": 3103570486,
+  "nakit_kurus": 3103708486,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 6935842581,
-   "nakit": 3103570486,
+   "nakit": 3103708486,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 11139100000,
+     "limit": 11139200000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 18565100000,
+     "limit": 18565300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 14852100000,
+     "limit": 14852200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 22278200000,
+     "limit": 22278400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792491395229,
+   "ms": 1792491666785,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,14 +158,14 @@
    "haftaGunuNo": 2,
    "haftaSonu": false,
    "saat": 10,
-   "dakika": 16,
+   "dakika": 21,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "20 Ekim 2026, Salı"
   }
  },
  "banka": {
-  "nakit": 31035704.86,
+  "nakit": 31037084.86,
   "vadesiz": 69358425.81,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -385,9 +385,9 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 31035704.86,
+  "bakiye": 31037084.86,
   "bos_parsel": 0,
-  "kalan_bakiye": 31035704.86
+  "kalan_bakiye": 31037084.86
  },
  "bot": {
   "olay": "kosu_bitti",
@@ -400,7 +400,7 @@
   "siparis_basari": 0,
   "gecen_dk": 4.2,
   "bot_versiyon": "v2",
-  "ts": 1792480846979,
+  "ts": 1792481118768,
   "komut_sifirlandi": true
  }
 }
