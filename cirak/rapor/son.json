@@ -25,7 +25,7 @@
    "ad": "Bağlarbaşı Mahallesi"
   },
   "banka": {
-   "vadesiz": 10091646616,
+   "vadesiz": 10090855616,
    "nakit": 2204694688,
    "vadeliler": [],
    "krediler": [],
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 12877800000,
+     "limit": 12877900000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 21463000000,
+     "limit": 21463200000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 17170400000,
+     "limit": 17170600000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 25755600000,
+     "limit": 25755900000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -137,7 +137,7 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 10091646616,
+   "net": 10090855616,
    "krediNotu": {
     "puan": 1339,
     "bant": "Az riskli",
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792572625230,
+   "ms": 1792572834012,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,7 +158,7 @@
    "haftaGunuNo": 3,
    "haftaSonu": false,
    "saat": 8,
-   "dakika": 50,
+   "dakika": 53,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "21 Ekim 2026, Çarşamba"
@@ -166,7 +166,7 @@
  },
  "banka": {
   "nakit": 22046946.88,
-  "vadesiz": 100916466.16,
+  "vadesiz": 100908556.16,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
   "krediler": [],
@@ -398,9 +398,9 @@
   "bakiye": 22046946.88,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 3.1,
+  "gecen_dk": 3.2,
   "bot_versiyon": "v2",
-  "ts": 1792562016253,
+  "ts": 1792562224989,
   "komut_sifirlandi": true
  }
 }
