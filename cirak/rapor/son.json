@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 12866000000,
+     "limit": 12873500000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 21443400000,
+     "limit": 21455900000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 17154700000,
+     "limit": 17164700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 25732100000,
+     "limit": 25747100000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792569509213,
+   "ms": 1792569727827,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,8 +157,8 @@
    "haftaGunu": "Çarşamba",
    "haftaGunuNo": 3,
    "haftaSonu": false,
-   "saat": 7,
-   "dakika": 58,
+   "saat": 8,
+   "dakika": 2,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "21 Ekim 2026, Çarşamba"
@@ -391,16 +391,16 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 1,
+  "tur": 3,
   "kazanc": 0.0,
-  "servis": 8,
+  "servis": 24,
   "bahsis": 0,
-  "bakiye": 22021708.88,
+  "bakiye": 22038296.88,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 3.3,
+  "gecen_dk": 3.0,
   "bot_versiyon": "v2",
-  "ts": 1792558911274,
+  "ts": 1792559109791,
   "komut_sifirlandi": true
  }
 }
