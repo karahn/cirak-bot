@@ -25,7 +25,7 @@
    "ad": "Bağlarbaşı Mahallesi"
   },
   "banka": {
-   "vadesiz": 19397685554,
+   "vadesiz": 19396894554,
    "nakit": 2022225410,
    "vadeliler": [],
    "krediler": [],
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 24913300000,
+     "limit": 24913200000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 19930600000,
+     "limit": 19930500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 29895900000,
+     "limit": 29895800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -137,7 +137,7 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 19397685554,
+   "net": 19396894554,
    "krediNotu": {
     "puan": 1342,
     "bant": "Az riskli",
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792630260043,
+   "ms": 1792630461282,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,7 +158,7 @@
    "haftaGunuNo": 4,
    "haftaSonu": false,
    "saat": 0,
-   "dakika": 51,
+   "dakika": 54,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "22 Ekim 2026, Perşembe"
@@ -166,7 +166,7 @@
  },
  "banka": {
   "nakit": 20222254.1,
-  "vadesiz": 193976855.54,
+  "vadesiz": 193968945.54,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
   "krediler": [],
@@ -391,16 +391,16 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 1,
+  "tur": 2,
   "kazanc": 0.0,
-  "servis": 8,
+  "servis": 16,
   "bahsis": 0,
   "bakiye": 20222254.1,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 3.0,
+  "gecen_dk": 3.1,
   "bot_versiyon": "v2",
-  "ts": 1792619643129,
+  "ts": 1792619850987,
   "komut_sifirlandi": true
  }
 }
