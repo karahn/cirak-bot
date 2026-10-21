@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 14889500000,
+     "limit": 14889700000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 24815900000,
+     "limit": 24816300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 19852700000,
+     "limit": 19853000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 29779000000,
+     "limit": 29779500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -139,7 +139,7 @@
    "karaListe": 0,
    "net": 15560788532,
    "krediNotu": {
-    "puan": 1341,
+    "puan": 1342,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792622708828,
+   "ms": 1792622956956,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,7 +158,7 @@
    "haftaGunuNo": 3,
    "haftaSonu": false,
    "saat": 22,
-   "dakika": 45,
+   "dakika": 49,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "21 Ekim 2026, Çarşamba"
@@ -171,7 +171,7 @@
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1341,
+   "puan": 1342,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -398,9 +398,9 @@
   "bakiye": 22680221.02,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 3.8,
+  "gecen_dk": 4.4,
   "bot_versiyon": "v2",
-  "ts": 1792612139656,
+  "ts": 1792612422023,
   "komut_sifirlandi": true
  }
 }
