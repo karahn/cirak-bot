@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 19,
   "tp": 21267,
-  "nakit_kurus": 2209315910,
+  "nakit_kurus": 2209747910,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 10493033931,
-   "nakit": 2209315910,
+   "nakit": 2209747910,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 13982200000,
+     "limit": 13982800000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 23303700000,
+     "limit": 23304600000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 18643000000,
+     "limit": 18643700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 27964500000,
+     "limit": 27965600000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792596315483,
+   "ms": 1792596569615,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,14 +158,14 @@
    "haftaGunuNo": 3,
    "haftaSonu": false,
    "saat": 15,
-   "dakika": 25,
+   "dakika": 29,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "21 Ekim 2026, Çarşamba"
   }
  },
  "banka": {
-  "nakit": 22093159.1,
+  "nakit": 22097479.1,
   "vadesiz": 104930339.31,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -385,9 +385,9 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 22093159.1,
+  "bakiye": 22097479.1,
   "bos_parsel": 0,
-  "kalan_bakiye": 22093159.1
+  "kalan_bakiye": 22097479.1
  },
  "bot": {
   "olay": "kosu_bitti",
@@ -398,9 +398,9 @@
   "bakiye": 22097479.1,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 3.9,
+  "gecen_dk": 4.8,
   "bot_versiyon": "v2",
-  "ts": 1792585752945,
+  "ts": 1792586057082,
   "komut_sifirlandi": true
  }
 }
