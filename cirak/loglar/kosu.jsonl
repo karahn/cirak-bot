@@ -43634,3 +43634,6 @@
 {"olay": "gunluk", "sonuc": {"bonus": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}}, "ts": 1792597530883}
 {"olay": "sokak", "tur": "cuzdan", "id": "1745:cuzdan:3880081", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792597532247}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 22136118.1, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 5.4, "bot_versiyon": "v2", "ts": 1792597854057}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 22136118.1, "bot_versiyon": "v2_hizli_siparis", "ts": 1792597874115}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}}, "ts": 1792597875076}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 22136118.1, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.8, "bot_versiyon": "v2", "ts": 1792598164871}
