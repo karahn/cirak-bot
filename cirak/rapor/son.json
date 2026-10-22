@@ -4,7 +4,7 @@
   "oyuncu": "Karahan",
   "seviye": 19,
   "tp": 21267,
-  "nakit_kurus": 2023424500,
+  "nakit_kurus": 2023795900,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 20253038789,
-   "nakit": 2023424500,
+   "nakit": 2023795900,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 15726300000,
+     "limit": 15726500000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 26210500000,
+     "limit": 26210900000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 20968400000,
+     "limit": 20968700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 31452600000,
+     "limit": 31453100000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792677953647,
+   "ms": 1792678222361,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,14 +158,14 @@
    "haftaGunuNo": 4,
    "haftaSonu": false,
    "saat": 14,
-   "dakika": 5,
+   "dakika": 10,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "22 Ekim 2026, Perşembe"
   }
  },
  "banka": {
-  "nakit": 20234245.0,
+  "nakit": 20237959.0,
   "vadesiz": 202530387.89,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
@@ -385,9 +385,9 @@
   "acilanlar": [],
   "secenekler": [],
   "denemeler": [],
-  "bakiye": 20234245.0,
+  "bakiye": 20237959.0,
   "bos_parsel": 0,
-  "kalan_bakiye": 20234245.0
+  "kalan_bakiye": 20237959.0
  },
  "bot": {
   "olay": "kosu_bitti",
@@ -398,9 +398,9 @@
   "bakiye": 20237959.0,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 4.1,
+  "gecen_dk": 4.0,
   "bot_versiyon": "v2",
-  "ts": 1792667403307,
+  "ts": 1792667667800,
   "komut_sifirlandi": true
  }
 }
