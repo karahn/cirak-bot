@@ -44952,3 +44952,17 @@
 {"olay": "gunluk", "sonuc": {"bonus": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}}, "ts": 1792676135452}
 {"olay": "keyif_mekan", "onceki": 78, "mekan": "Karahan Disko", "keyif_puan": 24, "fiyat": 2360.0, "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792676137386}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 20247094.0, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.3, "bot_versiyon": "v2", "ts": 1792676395052}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 20247094.0, "bot_versiyon": "v2_hizli_siparis", "ts": 1792676414334}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}}, "ts": 1792676415300}
+{"olay": "keyif_mekan", "onceki": 78, "mekan": "Karahan Disko", "keyif_puan": 24, "fiyat": 2360.0, "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792676417721}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Sunucuda bir sorun oluştu. Biraz sonra tekrar dene."}}, "ts": 1792676565257}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Sunucuda bir sorun oluştu. Biraz sonra tekrar dene."}}, "ts": 1792676569108}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Sunucuda bir sorun oluştu. Biraz sonra tekrar dene."}}, "ts": 1792676572482}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Sunucuda bir sorun oluştu. Biraz sonra tekrar dene."}}, "ts": 1792676575814}
+{"olay": "ara_ozet", "tur": 5, "kazanc": 0.0, "servis": 8, "bakiye": 0.0, "siparis": "0/0", "gecen_dk": 2.7, "ts": 1792676576494}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Sunucuda bir sorun oluştu. Biraz sonra tekrar dene."}}, "ts": 1792676579455}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Sunucuda bir sorun oluştu. Biraz sonra tekrar dene."}}, "ts": 1792676583324}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Sunucuda bir sorun oluştu. Biraz sonra tekrar dene."}}, "ts": 1792676586746}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Sunucuda bir sorun oluştu. Biraz sonra tekrar dene."}}, "ts": 1792676590179}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Sunucuda bir sorun oluştu. Biraz sonra tekrar dene."}}, "ts": 1792676593582}
+{"olay": "kosu_bitti", "tur": 10, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 0.0, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.0, "bot_versiyon": "v2", "ts": 1792676596746}
