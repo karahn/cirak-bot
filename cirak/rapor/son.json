@@ -25,7 +25,7 @@
    "ad": "Bağlarbaşı Mahallesi"
   },
   "banka": {
-   "vadesiz": 20027584309,
+   "vadesiz": 20028240801,
    "nakit": 2023600210,
    "vadeliler": [],
    "krediler": [],
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 14976500000,
+     "limit": 14976700000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 24960800000,
+     "limit": 24961300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 19968600000,
+     "limit": 19969000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 29953000000,
+     "limit": 29953500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -137,7 +137,7 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 20027584309,
+   "net": 20028240801,
    "krediNotu": {
     "puan": 1343,
     "bant": "Az riskli",
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792652231177,
+   "ms": 1792652440689,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,8 +157,8 @@
    "haftaGunu": "Perşembe",
    "haftaGunuNo": 4,
    "haftaSonu": false,
-   "saat": 6,
-   "dakika": 57,
+   "saat": 7,
+   "dakika": 0,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "22 Ekim 2026, Perşembe"
@@ -166,7 +166,7 @@
  },
  "banka": {
   "nakit": 20236002.1,
-  "vadesiz": 200275843.09,
+  "vadesiz": 200282408.01,
   "hesap_no": "TR82 0077 7064 1600 7162 2053 83",
   "vadeliler": [],
   "krediler": [],
@@ -391,16 +391,16 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 1,
+  "tur": 3,
   "kazanc": 0.0,
-  "servis": 8,
+  "servis": 24,
   "bahsis": 0,
   "bakiye": 20236002.1,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 3.2,
+  "gecen_dk": 3.1,
   "bot_versiyon": "v2",
-  "ts": 1792641624216,
+  "ts": 1792641829913,
   "komut_sifirlandi": true
  }
 }
