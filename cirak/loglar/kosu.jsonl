@@ -45565,3 +45565,7 @@
 {"olay": "sokak", "tur": "kedi", "id": "1745:kedi:622462", "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792691191613}
 {"olay": "keyif_mekan", "onceki": 76, "mekan": "Karahan Disko", "keyif_puan": 24, "fiyat": 2360.0, "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792691193031}
 {"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 20301142.0, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.9, "bot_versiyon": "v2", "ts": 1792691420328}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 20301142.0, "bot_versiyon": "v2_hizli_siparis", "ts": 1792691442646}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}}, "ts": 1792691443754}
+{"olay": "keyif_mekan", "onceki": 76, "mekan": "Karahan Disko", "keyif_puan": 24, "fiyat": 2360.0, "sonuc": {"hata": "Devam etmeden önce kısa bir doğrulama yap.", "insanDogrula": true}, "ts": 1792691445718}
+{"olay": "kosu_bitti", "tur": 1, "kazanc": 0.0, "servis": 8, "bahsis": 0, "bakiye": 20301142.0, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 4.2, "bot_versiyon": "v2", "ts": 1792691693621}
