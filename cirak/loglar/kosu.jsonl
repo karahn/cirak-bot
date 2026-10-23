@@ -56120,3 +56120,7 @@
 {"olay": "gunluk", "sonuc": {"bonus": {"hata": "Bulunamadı."}}, "ts": 1792774196250}
 {"olay": "gunluk", "sonuc": {"bonus": {"hata": "Bulunamadı."}}, "ts": 1792774202663}
 {"olay": "kosu_bitti", "tur": 31, "kazanc": 0.0, "servis": 0, "bahsis": 0, "bakiye": 0.0, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 3.1, "bot_versiyon": "v2", "ts": 1792774207474}
+{"olay": "kosu_basladi", "sure_dk": 3.0, "bakiye": 0.0, "bot_versiyon": "v2_hizli_siparis", "ts": 1792774324895}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Bulunamadı."}}, "ts": 1792774345450}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Bulunamadı."}}, "ts": 1792774582431}
+{"olay": "kosu_bitti", "tur": 2, "kazanc": 0.0, "servis": 0, "bahsis": 0, "bakiye": 0.0, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 5.1, "bot_versiyon": "v2", "ts": 1792774621032}
