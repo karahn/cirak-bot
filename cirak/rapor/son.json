@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 16614000000,
+     "limit": 16614200000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -87,7 +87,7 @@
       12,
       24
      ],
-     "limit": 27690000000,
+     "limit": 27690300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -108,7 +108,7 @@
       24,
       36
      ],
-     "limit": 22152000000,
+     "limit": 22152200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -129,7 +129,7 @@
       36,
       60
      ],
-     "limit": 33228000000,
+     "limit": 33228400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -151,7 +151,7 @@
       18,
       24
      ],
-     "limit": 33228000000,
+     "limit": 33228400000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -166,7 +166,7 @@
    "karaListe": 0,
    "net": 25708841324,
    "krediNotu": {
-    "puan": 1347,
+    "puan": 1348,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -176,7 +176,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792730802455,
+   "ms": 1792731001297,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -185,7 +185,7 @@
    "haftaGunuNo": 5,
    "haftaSonu": false,
    "saat": 4,
-   "dakika": 46,
+   "dakika": 50,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "23 Ekim 2026, Cuma"
@@ -198,7 +198,7 @@
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1347,
+   "puan": 1348,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -419,16 +419,16 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 5,
+  "tur": 1,
   "kazanc": 0.0,
-  "servis": 40,
+  "servis": 8,
   "bahsis": 0,
   "bakiye": 24909450.3,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 3.0,
+  "gecen_dk": 3.1,
   "bot_versiyon": "v2",
-  "ts": 1792720184958,
+  "ts": 1792720392601,
   "komut_sifirlandi": true
  }
 }
