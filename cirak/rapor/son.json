@@ -66,11 +66,12 @@
       6,
       12
      ],
-     "limit": 16613400000,
+     "limit": 16613600000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
-     "pesinat": 0
+     "pesinat": 0,
+     "oda": false
     },
     {
      "kod": "makine",
@@ -86,11 +87,12 @@
       12,
       24
      ],
-     "limit": 27689100000,
+     "limit": 27689400000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
-     "pesinat": 0
+     "pesinat": 0,
+     "oda": false
     },
     {
      "kod": "tasit",
@@ -106,11 +108,12 @@
       24,
       36
      ],
-     "limit": 22151300000,
+     "limit": 22151500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
-     "pesinat": 0.3
+     "pesinat": 0.3,
+     "oda": false
     },
     {
      "kod": "konut",
@@ -126,16 +129,40 @@
       36,
       60
      ],
-     "limit": 33226900000,
+     "limit": 33227300000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
-     "pesinat": 0.2
+     "pesinat": 0.2,
+     "oda": false
+    },
+    {
+     "kod": "oda",
+     "ad": "Esnaf odası kredisi",
+     "simge": "🧰",
+     "aciklama": "Esnaf ve Sanatkârlar Odası kefaletiyle: daha yüksek limit, uzun vade, düşük faiz. Aidatı ödenmiş oda üyelerine.",
+     "faiz": 30,
+     "temelFaiz": 30,
+     "odaIndirimi": 0,
+     "seviyeIndirimi": 0,
+     "taksitler": [
+      6,
+      12,
+      18,
+      24
+     ],
+     "limit": 33227300000,
+     "engel": null,
+     "enAz": 1000000,
+     "alim": false,
+     "pesinat": 0,
+     "oda": true
     }
    ],
    "stopaj": 15,
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
+   "oyunAyiMs": 864000000,
    "karaListe": 0,
    "net": 25708841324,
    "krediNotu": {
@@ -149,7 +176,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792728716251,
+   "ms": 1792728932783,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,7 +185,7 @@
    "haftaGunuNo": 5,
    "haftaSonu": false,
    "saat": 4,
-   "dakika": 11,
+   "dakika": 15,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "23 Ekim 2026, Cuma"
@@ -185,6 +212,7 @@
    "stopaj",
    "tahsis",
    "ekonomiGunuMs",
+   "oyunAyiMs",
    "karaListe",
    "net",
    "krediNotu",
@@ -391,16 +419,16 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 1,
+  "tur": 5,
   "kazanc": 0.0,
-  "servis": 8,
+  "servis": 40,
   "bahsis": 0,
   "bakiye": 24909450.3,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 3.3,
+  "gecen_dk": 3.1,
   "bot_versiyon": "v2",
-  "ts": 1792718115393,
+  "ts": 1792718319727,
   "komut_sifirlandi": true
  }
 }
