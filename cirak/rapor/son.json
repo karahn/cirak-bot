@@ -11,23 +11,7 @@
   "krediler": null,
   "kredi_notu": null,
   "ham_anahtarlar": [
-   "type",
-   "title",
-   "status",
-   "detail",
-   "instance",
-   "error_code",
-   "error_name",
-   "error_category",
-   "ray_id",
-   "timestamp",
-   "zone",
-   "cloudflare_error",
-   "retryable",
-   "retry_after",
-   "owner_action_required",
-   "what_you_should_do",
-   "footer"
+   "hata"
   ]
  },
  "havale": {
@@ -70,16 +54,16 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 35,
+  "tur": 44,
   "kazanc": 0.0,
   "servis": 0,
   "bahsis": 0,
   "bakiye": 0.0,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 3.1,
+  "gecen_dk": 3.0,
   "bot_versiyon": "v2",
-  "ts": 1792854095008,
+  "ts": 1792854298262,
   "komut_sifirlandi": true
  }
 }
