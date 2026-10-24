@@ -1,1 +1,1 @@
-1792811991194 tur=34 kazanc=0 servis=0 siparis=0/0
+1792812195907 tur=43 kazanc=0 servis=0 siparis=0/0

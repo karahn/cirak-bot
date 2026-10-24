@@ -1,0 +1,69 @@
+{
+ "cerez-kontrol": {
+  "tamam": false,
+  "hata": null
+ },
+ "banka": {
+  "nakit": 0.0,
+  "vadesiz": 0.0,
+  "hesap_no": null,
+  "vadeliler": null,
+  "krediler": null,
+  "kredi_notu": null,
+  "ham_anahtarlar": [
+   "hata"
+  ]
+ },
+ "havale": {
+  "toplam": 0,
+  "gelenler": [],
+  "son_hareketler": [],
+  "hesap_no": null,
+  "engel": null,
+  "ham": {
+   "hata": "Oturumun kapanmış, tekrar giriş yap."
+  }
+ },
+ "mesaj-oku": {
+  "kisi": "Karahan",
+  "toplam": 0,
+  "gelen_adet": 0,
+  "son_gelen": null,
+  "cevaplanan_id": 0,
+  "son_mesajlar": []
+ },
+ "oda": {
+  "odalar": [],
+  "egitim": [],
+  "uyelikler": []
+ },
+ "seviye-bildir": {
+  "seviye": 0,
+  "tp": null,
+  "onceki": 19,
+  "yeni_mi": false
+ },
+ "dukkan-ac": {
+  "ilce": 2034,
+  "acilanlar": [],
+  "secenekler": [],
+  "denemeler": [],
+  "bakiye": 0.0,
+  "bos_parsel": 0,
+  "kalan_bakiye": 0.0
+ },
+ "bot": {
+  "olay": "kosu_bitti",
+  "tur": 43,
+  "kazanc": 0.0,
+  "servis": 0,
+  "bahsis": 0,
+  "bakiye": 0.0,
+  "siparis_toplam": 0,
+  "siparis_basari": 0,
+  "gecen_dk": 3.1,
+  "bot_versiyon": "v2",
+  "ts": 1792812198227,
+  "komut_sifirlandi": true
+ }
+}
